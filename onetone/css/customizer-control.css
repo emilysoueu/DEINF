@@ -1,0 +1,25 @@
+.sections-list-reorder {
+    padding: 20px;
+}
+.reiki-needed-container {
+    width: 100%;
+    background: #fff;
+    box-sizing: border-box;
+    border: 1px solid #dfdfdf;
+    position: relative;
+    padding: 15px;
+    height: auto;
+    min-height: 20px;
+    line-height: 30px;
+    overflow: hidden;
+    word-wrap: break-word;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    display: none;
+}
+customize-controls .description.customize-section-description {
+    background: transparent;
+}
+.customize-control-kirki-radio-image label {
+    margin-right: 2px;
+}

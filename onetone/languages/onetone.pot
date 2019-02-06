@@ -1,0 +1,3249 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: onetone\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-20 09:49+0800\n"
+"PO-Revision-Date: 2017-02-27 16:22+0800\n"
+"Last-Translator: shijun quan <support@mageewp.com>\n"
+"Language-Team: Magee <support@mageewp.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive-magee_portfolio.php:91 archive.php:74
+#: home-sections/section-11.php:361 includes/shortcodes.php:718 index.php:62
+#: search.php:46 taxonomy-portfolio-category.php:89
+msgid "Previous page"
+msgstr ""
+
+#: archive-magee_portfolio.php:92 archive.php:75
+#: home-sections/section-11.php:362 includes/shortcodes.php:719 index.php:63
+#: search.php:47 taxonomy-portfolio-category.php:90
+msgid "Next page"
+msgstr ""
+
+#: archive-magee_portfolio.php:93 archive.php:76
+#: home-sections/section-11.php:363 includes/shortcodes.php:720 index.php:64
+#: search.php:48 taxonomy-portfolio-category.php:91
+msgid "Page"
+msgstr ""
+
+#: archive-magee_portfolio.php:100 archive-portfolio.php:91
+#: taxonomy-portfolio-category.php:98
+msgid "Nothing found."
+msgstr ""
+
+#: comments.php:54
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-portfolio.php:19 home-sections/section-9.php:217
+#: single-magee_portfolio.php:107 single-magee_portfolio.php:170
+#: single-portfolio.php:101 single-portfolio.php:164
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: footer.php:38
+#, php-format
+msgid "Designed by <a href=\"%s\">MageeWP Themes</a>."
+msgstr ""
+
+#: footer.php:40
+msgid "Designed by MageeWP Themes."
+msgstr ""
+
+#: functions.php:112
+msgid "OneTone Companion"
+msgstr ""
+
+#: functions.php:123
+msgid "Elementor Pro"
+msgstr ""
+
+#: header-home.php:130 header-home.php:226 header.php:123 header.php:173
+msgid "Toggle navigation"
+msgstr ""
+
+#: home-sections/section-11.php:162 home-sections/section-11.php:218
+#: includes/theme-functions.php:615
+msgid "<i class=\"fa fa-comment\"></i> 1 "
+msgstr ""
+
+#: home-sections/section-11.php:162 home-sections/section-11.php:218
+#: includes/theme-functions.php:615
+msgid "<i class=\"fa fa-comment\"></i> % "
+msgstr ""
+
+#: home-sections/section-11.php:293 includes/shortcodes.php:915
+#: includes/shortcodes.php:944
+msgid "Read More"
+msgstr ""
+
+#: home-sections/section-8.php:36
+#, php-format
+msgid ""
+"Please install the latest version of the <a href='https://wordpress.org/"
+"plugins/onetone-companion/' target='_blank'><strong>%s</strong></a> plugin."
+msgstr ""
+
+#: home-sections/section-9.php:111 includes/theme-functions.php:1177
+msgid "All"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:339
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:340
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:345
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:398
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:399
+#: includes/class-tgm-plugin-activation.php:3304
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:402
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:404
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:406
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:407
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:408
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2106
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2415
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2418
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2434
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2437
+msgid "External Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2440
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2457
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2461
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2463
+msgid "Active"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2469
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2472
+msgid "Requires Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2475
+msgid "Update recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2632
+msgid "Installed version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2640
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2652
+msgid "Available version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2689
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2690
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2691
+msgid "Type"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2695
+msgid "Version"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2696
+msgid "Status"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2745
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2750
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2756
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2861
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2867
+msgid "Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2870
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2901
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2903
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2944
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2946
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3303
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3647
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3650
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3652
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3656
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3658
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3659
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3661
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3664
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3666
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3667
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3669
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/shortcodes.php:63
+msgid "Align"
+msgstr ""
+
+#: includes/shortcodes.php:64 includes/shortcodes.php:71
+#: includes/shortcodes.php:83 includes/shortcodes.php:90
+#: includes/shortcodes.php:97 includes/shortcodes.php:103
+#: includes/shortcodes.php:111 includes/shortcodes.php:124
+#: includes/shortcodes.php:133 includes/shortcodes.php:147
+#: includes/shortcodes.php:157 includes/shortcodes.php:171
+#: includes/shortcodes.php:189 includes/shortcodes.php:199
+msgid "Css Class"
+msgstr ""
+
+#: includes/shortcodes.php:64 includes/shortcodes.php:71
+#: includes/shortcodes.php:83 includes/shortcodes.php:90
+#: includes/shortcodes.php:97 includes/shortcodes.php:103
+#: includes/shortcodes.php:111 includes/shortcodes.php:124
+#: includes/shortcodes.php:133 includes/shortcodes.php:147
+#: includes/shortcodes.php:157 includes/shortcodes.php:171
+#: includes/shortcodes.php:189 includes/shortcodes.php:199
+msgid "Extra CSS class"
+msgstr ""
+
+#: includes/shortcodes.php:65 includes/shortcodes.php:72
+#: includes/shortcodes.php:89 includes/shortcodes.php:98
+#: includes/shortcodes.php:151 includes/shortcodes.php:156
+#: includes/shortcodes.php:169 includes/shortcodes.php:198
+#: includes/theme-functions.php:4779
+msgid "Content"
+msgstr ""
+
+#: includes/shortcodes.php:68
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/shortcodes.php:69
+msgid "Animation Type"
+msgstr ""
+
+#: includes/shortcodes.php:70
+msgid "Image Animation"
+msgstr ""
+
+#: includes/shortcodes.php:70
+msgid "Image animation only"
+msgstr ""
+
+#: includes/shortcodes.php:75
+msgid "Size"
+msgstr ""
+
+#: includes/shortcodes.php:76
+msgid "Rounded"
+msgstr ""
+
+#: includes/shortcodes.php:77 includes/shortcodes.php:144
+#: includes/theme-functions.php:1587 includes/theme-functions.php:1699
+msgid "Button Link"
+msgstr ""
+
+#: includes/shortcodes.php:78
+msgid "Target"
+msgstr ""
+
+#: includes/shortcodes.php:79
+msgid "Color"
+msgstr ""
+
+#: includes/shortcodes.php:81 includes/shortcodes.php:143
+#: includes/theme-functions.php:1566 includes/theme-functions.php:1677
+#: includes/theme-functions.php:2619
+msgid "Button Text"
+msgstr ""
+
+#: includes/shortcodes.php:93
+msgid "Extra small grid( &lt; 768px)"
+msgstr ""
+
+#: includes/shortcodes.php:93
+msgid "Select column width. This width will be calculated depend page width."
+msgstr ""
+
+#: includes/shortcodes.php:94
+msgid "Small grid(&ge;  768px)"
+msgstr ""
+
+#: includes/shortcodes.php:95
+msgid "Medium grid( &ge;  992px)"
+msgstr ""
+
+#: includes/shortcodes.php:96
+msgid "Large grid( &ge;  1200px)"
+msgstr ""
+
+#: includes/shortcodes.php:101 includes/shortcodes.php:116
+#: includes/shortcodes.php:137 includes/shortcodes.php:175
+#: includes/shortcodes.php:193 includes/theme-functions.php:2000
+#: includes/theme-functions.php:2453
+msgid "Style"
+msgstr ""
+
+#: includes/shortcodes.php:102
+msgid "Divider Height"
+msgstr ""
+
+#: includes/shortcodes.php:109 includes/theme-functions.php:4167
+#: includes/theme-functions.php:4182
+msgid "Menu"
+msgstr ""
+
+#: includes/shortcodes.php:110
+msgid "Position"
+msgstr ""
+
+#: includes/shortcodes.php:117
+msgid "Contact Email"
+msgstr ""
+
+#: includes/shortcodes.php:122 includes/shortcodes.php:146
+msgid "List Items"
+msgstr ""
+
+#: includes/shortcodes.php:129
+msgid "List Num"
+msgstr ""
+
+#: includes/shortcodes.php:130 includes/theme-functions.php:1984
+#: includes/theme-functions.php:2437 includes/theme-functions.php:2679
+#: includes/theme-functions.php:2898
+msgid "Columns"
+msgstr ""
+
+#: includes/shortcodes.php:131 includes/shortcodes.php:204
+#: includes/theme-functions.php:2883
+msgid "Category"
+msgstr ""
+
+#: includes/shortcodes.php:132
+msgid "Display Pagenav"
+msgstr ""
+
+#: includes/shortcodes.php:138 includes/theme-functions.php:2825
+msgid "Currency"
+msgstr ""
+
+#: includes/shortcodes.php:139 includes/theme-functions.php:2831
+msgid "Price"
+msgstr ""
+
+#: includes/shortcodes.php:140 includes/shortcodes.php:194
+msgid "Title"
+msgstr ""
+
+#: includes/shortcodes.php:141
+msgid "Sub-title"
+msgstr ""
+
+#: includes/shortcodes.php:142
+msgid "Featured"
+msgstr ""
+
+#: includes/shortcodes.php:145
+msgid "Button Icon"
+msgstr ""
+
+#: includes/shortcodes.php:145
+msgid "Font Awesome Icon."
+msgstr ""
+
+#: includes/shortcodes.php:161
+msgid "Section Background Color"
+msgstr ""
+
+#: includes/shortcodes.php:162
+msgid "Section Background Image"
+msgstr ""
+
+#: includes/shortcodes.php:163
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/shortcodes.php:164
+msgid "100% Background Image"
+msgstr ""
+
+#: includes/shortcodes.php:165 includes/theme-functions.php:1425
+msgid "Parallax Scrolling Background Image"
+msgstr ""
+
+#: includes/shortcodes.php:166
+msgid "Heading Font Color"
+msgstr ""
+
+#: includes/shortcodes.php:166
+msgid "h1-h6 color, e.g. #ffffff"
+msgstr ""
+
+#: includes/shortcodes.php:167
+msgid "Font Color"
+msgstr ""
+
+#: includes/shortcodes.php:168 includes/theme-functions.php:1454
+msgid "Section Padding"
+msgstr ""
+
+#: includes/shortcodes.php:168
+msgid "e.g. 60px 0"
+msgstr ""
+
+#: includes/shortcodes.php:170
+msgid "ID"
+msgstr ""
+
+#: includes/shortcodes.php:170
+msgid "Scrolling to a specified target."
+msgstr ""
+
+#: includes/shortcodes.php:176
+msgid "Member Name"
+msgstr ""
+
+#: includes/shortcodes.php:177
+msgid "Byline"
+msgstr ""
+
+#: includes/shortcodes.php:178
+msgid "Avatar"
+msgstr ""
+
+#: includes/shortcodes.php:178
+msgid "Size 238 x 271 px for 3/12 column"
+msgstr ""
+
+#: includes/shortcodes.php:179
+msgid "Social Icon 1"
+msgstr ""
+
+#: includes/shortcodes.php:181
+msgid "Social Link 1"
+msgstr ""
+
+#: includes/shortcodes.php:182
+msgid "Social Icon 2"
+msgstr ""
+
+#: includes/shortcodes.php:183
+msgid "Social Link 2"
+msgstr ""
+
+#: includes/shortcodes.php:184
+msgid "Social Icon 3"
+msgstr ""
+
+#: includes/shortcodes.php:185
+msgid "Social Link 3"
+msgstr ""
+
+#: includes/shortcodes.php:186
+msgid "Social Icon 4"
+msgstr ""
+
+#: includes/shortcodes.php:187
+msgid "Social Link 4"
+msgstr ""
+
+#: includes/shortcodes.php:188 includes/theme-functions.php:1732
+msgid "Description"
+msgstr ""
+
+#: includes/shortcodes.php:195 includes/theme-functions.php:1551
+msgid "Icon"
+msgstr ""
+
+#: includes/shortcodes.php:195
+msgid "Font Awesome Icon or Image URL"
+msgstr ""
+
+#: includes/shortcodes.php:197
+msgid "Link"
+msgstr ""
+
+#: includes/shortcodes.php:197
+msgid "Read more link."
+msgstr ""
+
+#: includes/shortcodes.php:203
+msgid "Blog List Num"
+msgstr ""
+
+#: includes/shortcodes.php:205 includes/theme-functions.php:4786
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/shortcodes.php:205
+msgid "Number of words."
+msgstr ""
+
+#: includes/shortcodes.php:448 includes/shortcodes.php:467
+#: includes/shortcodes.php:482 includes/shortcodes.php:514
+#: includes/shortcodes.php:544 includes/shortcodes.php:560
+msgid "SEND"
+msgstr ""
+
+#: includes/shortcodes.php:450 includes/shortcodes.php:469
+#: includes/shortcodes.php:484 includes/shortcodes.php:515
+#: includes/shortcodes.php:545 includes/shortcodes.php:561
+#: includes/theme-setup.php:1910
+msgid "Please enter valid email."
+msgstr ""
+
+#: includes/shortcodes.php:451 includes/shortcodes.php:470
+#: includes/shortcodes.php:485 includes/shortcodes.php:516
+#: includes/shortcodes.php:546 includes/shortcodes.php:562
+#: includes/theme-functions.php:73 includes/theme-setup.php:1911
+msgid "Please enter your name."
+msgstr ""
+
+#: includes/shortcodes.php:452 includes/shortcodes.php:471
+#: includes/shortcodes.php:486 includes/shortcodes.php:517
+#: includes/shortcodes.php:547 includes/shortcodes.php:563
+#: includes/theme-setup.php:1912
+msgid "Message is required."
+msgstr ""
+
+#: includes/shortcodes.php:500
+msgid "YOUR NAME"
+msgstr ""
+
+#: includes/shortcodes.php:504
+msgid "YOUR E-MAIL"
+msgstr ""
+
+#: includes/shortcodes.php:508
+msgid "YOUR MESSAGE"
+msgstr ""
+
+#: includes/shortcodes.php:529
+msgid "Your Name"
+msgstr ""
+
+#: includes/shortcodes.php:534
+msgid "Your Email"
+msgstr ""
+
+#: includes/shortcodes.php:538 includes/shortcodes.php:556
+#: includes/theme-functions.php:110
+msgid "Message"
+msgstr ""
+
+#: includes/shortcodes.php:554 includes/theme-functions.php:110
+#: includes/theme-functions.php:947 woocommerce/single-product-reviews.php:61
+msgid "Name"
+msgstr ""
+
+#: includes/shortcodes.php:555 includes/theme-functions.php:110
+#: includes/theme-functions.php:948 woocommerce/single-product-reviews.php:63
+msgid "Email"
+msgstr ""
+
+#: includes/shortcodes.php:1249 includes/shortcodes.php:1252
+msgid "Onetone Shortcodes"
+msgstr ""
+
+#: includes/shortcodes.php:1263
+msgid "Onetone Shortcodes Generator"
+msgstr ""
+
+#: includes/shortcodes.php:1277
+msgid "All shortcodes"
+msgstr ""
+
+#: includes/shortcodes.php:1284
+msgid "Preview shortcode"
+msgstr ""
+
+#: includes/shortcodes.php:1285
+msgid "Insert shortcode"
+msgstr ""
+
+#: includes/theme-functions.php:80
+msgid "Please enter your email address."
+msgstr ""
+
+#: includes/theme-functions.php:83
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: includes/theme-functions.php:90
+msgid "Please enter a message."
+msgstr ""
+
+#: includes/theme-functions.php:116 includes/theme-functions.php:165
+msgid "Your message has been successfully sent!"
+msgstr ""
+
+#: includes/theme-functions.php:189
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/theme-functions.php:190
+msgid "(Edit)"
+msgstr ""
+
+#: includes/theme-functions.php:191
+msgid "Reply"
+msgstr ""
+
+#: includes/theme-functions.php:195
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/theme-functions.php:280
+msgid "TOP"
+msgstr ""
+
+#: includes/theme-functions.php:634 includes/theme-functions.php:695
+msgid "No Comments"
+msgstr ""
+
+#: includes/theme-functions.php:635 includes/theme-functions.php:697
+msgid "1 Comment"
+msgstr ""
+
+#: includes/theme-functions.php:636 includes/theme-functions.php:693
+msgid "% Comments"
+msgstr ""
+
+#: includes/theme-functions.php:637
+msgid "Comments Off"
+msgstr ""
+
+#: includes/theme-functions.php:675
+#, php-format
+msgid "Comment on %s"
+msgstr ""
+
+#: includes/theme-functions.php:751
+msgid "Products"
+msgstr ""
+
+#: includes/theme-functions.php:816 woocommerce/single-product-reviews.php:66
+msgid "Submit"
+msgstr ""
+
+#: includes/theme-functions.php:818
+msgid "(required)"
+msgstr ""
+
+#: includes/theme-functions.php:819
+msgid ""
+"Are you sure you'd like to stop editing this form without saving your "
+"changes?"
+msgstr ""
+
+#: includes/theme-functions.php:820
+msgid "contact form"
+msgstr ""
+
+#: includes/theme-functions.php:821
+msgid "Add contact form"
+msgstr ""
+
+#: includes/theme-functions.php:946
+msgid "Text"
+msgstr ""
+
+#: includes/theme-functions.php:949
+msgid "Website"
+msgstr ""
+
+#: includes/theme-functions.php:950
+msgid "Textarea"
+msgstr ""
+
+#: includes/theme-functions.php:951
+msgid "Checkbox"
+msgstr ""
+
+#: includes/theme-functions.php:952
+msgid "Checkbox with Multiple Items"
+msgstr ""
+
+#: includes/theme-functions.php:953
+msgid "Drop down"
+msgstr ""
+
+#: includes/theme-functions.php:954
+msgid "Radio"
+msgstr ""
+
+#: includes/theme-functions.php:1129
+msgid "Section 1 - Banner"
+msgstr ""
+
+#: includes/theme-functions.php:1130
+msgid "Section 2 - Slogan"
+msgstr ""
+
+#: includes/theme-functions.php:1131
+msgid "Section 3 - Service"
+msgstr ""
+
+#: includes/theme-functions.php:1132
+msgid "Section 4 - Gallery"
+msgstr ""
+
+#: includes/theme-functions.php:1133
+msgid "Section 5 - Team"
+msgstr ""
+
+#: includes/theme-functions.php:1134
+msgid "Section 6 - About"
+msgstr ""
+
+#: includes/theme-functions.php:1135
+msgid "Section 7 - Counter"
+msgstr ""
+
+#: includes/theme-functions.php:1136
+msgid "Section 8 - Testimonial"
+msgstr ""
+
+#: includes/theme-functions.php:1137
+msgid "Section 9 - Contact"
+msgstr ""
+
+#: includes/theme-functions.php:1138
+msgid "Section 10 - Portfolio"
+msgstr ""
+
+#: includes/theme-functions.php:1139
+msgid "Section 11 - Pricing"
+msgstr ""
+
+#: includes/theme-functions.php:1140
+msgid "Section 12 - Blog"
+msgstr ""
+
+#: includes/theme-functions.php:1141 includes/theme-functions.php:1142
+#: includes/theme-functions.php:1143
+#, php-format
+msgid "Section %s - Custom"
+msgstr ""
+
+#: includes/theme-functions.php:1344
+msgid "Hide Section"
+msgstr ""
+
+#: includes/theme-functions.php:1348
+msgid "Hide this section on front page."
+msgstr ""
+
+#: includes/theme-functions.php:1353
+msgid "Section Title"
+msgstr ""
+
+#: includes/theme-functions.php:1357
+msgid ""
+"Insert title for this section. It would appear at the top of the section."
+msgstr ""
+
+#: includes/theme-functions.php:1369
+msgid "Menu Title"
+msgstr ""
+
+#: includes/theme-functions.php:1373
+msgid ""
+"Insert menu title for this section. This title would appear in the header "
+"menu. If leave it as blank, the link of this section would not be displayed "
+"in header menu."
+msgstr ""
+
+#: includes/theme-functions.php:1385
+msgid "Menu Slug"
+msgstr ""
+
+#: includes/theme-functions.php:1389
+msgid ""
+"Attention! The \"slug\" is the URL-friendly version of menu title. It is "
+"usually all lowercase and contains only letters, numbers, and hyphens. If "
+"the menu title contains non-eng characters, you need to fill this form."
+msgstr ""
+
+#: includes/theme-functions.php:1395 includes/theme-functions.php:5707
+msgid "Side Navigation Color"
+msgstr ""
+
+#: includes/theme-functions.php:1402 includes/theme-functions.php:3706
+#: includes/theme-functions.php:3797
+msgid "Section Background"
+msgstr ""
+
+#: includes/theme-functions.php:1429
+msgid "Choose to apply parallax scrolling effect for background image."
+msgstr ""
+
+#: includes/theme-functions.php:1434
+msgid "Full Width"
+msgstr ""
+
+#: includes/theme-functions.php:1438
+msgid "Choose to set width of section content as 100%"
+msgstr ""
+
+#: includes/theme-functions.php:1444
+msgid "Section Css Class"
+msgstr ""
+
+#: includes/theme-functions.php:1449
+msgid "Set an aditional css class of this section."
+msgstr ""
+
+#: includes/theme-functions.php:1458
+msgid ""
+"Set padding for this section. In pixels (px), eg: 10px 20px 30px 0. These "
+"four numbers represent padding top/right/bottom/left."
+msgstr ""
+
+#: includes/theme-functions.php:1471
+msgid "Section Title Typography"
+msgstr ""
+
+#: includes/theme-functions.php:1484
+msgid "Section Subtitle Typography"
+msgstr ""
+
+#: includes/theme-functions.php:1500
+msgid "Section Content Typography"
+msgstr ""
+
+#: includes/theme-functions.php:1514
+msgid "Section Content Model"
+msgstr ""
+
+#: includes/theme-functions.php:1519 includes/theme-functions.php:3049
+#: includes/theme-functions.php:3678 includes/theme-functions.php:3779
+msgid "Default"
+msgstr ""
+
+#: includes/theme-functions.php:1519
+msgid "Custom"
+msgstr ""
+
+#: includes/theme-functions.php:1525
+msgid "Section Subtitle"
+msgstr ""
+
+#: includes/theme-functions.php:1530
+msgid ""
+"Insert sub-title for this section. It would appear at the bottom of the "
+"section title."
+msgstr ""
+
+#: includes/theme-functions.php:1554
+msgid "The image will display above the section title."
+msgstr ""
+
+#: includes/theme-functions.php:1570 includes/theme-functions.php:1680
+#: includes/theme-functions.php:2622
+msgid "Insert text for the button"
+msgstr ""
+
+#: includes/theme-functions.php:1590 includes/theme-functions.php:1702
+msgid "Insert link for the button, begin with http:// or https://"
+msgstr ""
+
+#: includes/theme-functions.php:1602 includes/theme-functions.php:1715
+msgid "Button Target"
+msgstr ""
+
+#: includes/theme-functions.php:1605 includes/theme-functions.php:1718
+#: includes/theme-functions.php:1863 includes/theme-functions.php:1950
+#: includes/theme-functions.php:2863
+msgid "Self: open in the same window; blank: open in a new window"
+msgstr ""
+
+#: includes/theme-functions.php:1642 includes/theme-functions.php:4253
+#: includes/theme-functions.php:5274
+msgid "Social Icons"
+msgstr ""
+
+#: includes/theme-functions.php:1655 includes/theme-functions.php:1837
+msgid "Insert Fontawsome icon code"
+msgstr ""
+
+#: includes/theme-functions.php:1662 includes/theme-functions.php:2139
+#: includes/theme-functions.php:2151 includes/theme-functions.php:2163
+#: includes/theme-functions.php:2175
+msgid "Insert link for the icon"
+msgstr ""
+
+#: includes/theme-functions.php:1736 includes/theme-functions.php:1871
+msgid "Insert content for the banner, html tags allowed"
+msgstr ""
+
+#: includes/theme-functions.php:1769
+msgid "Icon Color"
+msgstr ""
+
+#: includes/theme-functions.php:1770
+msgid "Set service icon color."
+msgstr ""
+
+#: includes/theme-functions.php:1822
+msgid "Service"
+msgstr ""
+
+#: includes/theme-functions.php:1843
+msgid "Or choose to upload icon image"
+msgstr ""
+
+#: includes/theme-functions.php:1849
+msgid "Set title for service item"
+msgstr ""
+
+#: includes/theme-functions.php:1856
+msgid "Insert link for service item"
+msgstr ""
+
+#: includes/theme-functions.php:1924
+msgid "Gallery"
+msgstr ""
+
+#: includes/theme-functions.php:1938
+msgid "Upload image"
+msgstr ""
+
+#: includes/theme-functions.php:1944
+msgid "Insert link for gallery item"
+msgstr ""
+
+#: includes/theme-functions.php:1985
+msgid "Set columns for portfolio module"
+msgstr ""
+
+#: includes/theme-functions.php:2003 includes/theme-functions.php:2456
+msgid "Normal"
+msgstr ""
+
+#: includes/theme-functions.php:2003 includes/theme-functions.php:2456
+msgid "Carousel"
+msgstr ""
+
+#: includes/theme-functions.php:2082
+msgid "Team"
+msgstr ""
+
+#: includes/theme-functions.php:2096
+msgid "Choose to upload image for the person avatar"
+msgstr ""
+
+#: includes/theme-functions.php:2102
+msgid "Set link for the person"
+msgstr ""
+
+#: includes/theme-functions.php:2115
+msgid "Set name for the person"
+msgstr ""
+
+#: includes/theme-functions.php:2121
+msgid "Set byline for the person"
+msgstr ""
+
+#: includes/theme-functions.php:2127
+msgid "Insert description for the person"
+msgstr ""
+
+#: includes/theme-functions.php:2133 includes/theme-functions.php:2145
+#: includes/theme-functions.php:2157 includes/theme-functions.php:2169
+msgid "Choose social icon"
+msgstr ""
+
+#: includes/theme-functions.php:2192 includes/theme-functions.php:4159
+msgid "Left Content"
+msgstr ""
+
+#: includes/theme-functions.php:2196
+msgid "Insert content for the left column, html tags allowed"
+msgstr ""
+
+#: includes/theme-functions.php:2215 includes/theme-functions.php:4174
+msgid "Right Content"
+msgstr ""
+
+#: includes/theme-functions.php:2232
+msgid "Insert content for the right column, html tags allowed"
+msgstr ""
+
+#: includes/theme-functions.php:2254
+msgid "Counter Title 1"
+msgstr ""
+
+#: includes/theme-functions.php:2275
+msgid "Counter Number 1"
+msgstr ""
+
+#: includes/theme-functions.php:2297
+msgid "Counter Title 2"
+msgstr ""
+
+#: includes/theme-functions.php:2318
+msgid "Counter Number 2"
+msgstr ""
+
+#: includes/theme-functions.php:2341
+msgid "Counter Title 3"
+msgstr ""
+
+#: includes/theme-functions.php:2362
+msgid "Counter Number 3"
+msgstr ""
+
+#: includes/theme-functions.php:2384
+msgid "Counter Title 4"
+msgstr ""
+
+#: includes/theme-functions.php:2405
+msgid "Counter Number 4"
+msgstr ""
+
+#: includes/theme-functions.php:2438
+msgid "Set columns for testimonial module"
+msgstr ""
+
+#: includes/theme-functions.php:2505
+msgid "Testimonial"
+msgstr ""
+
+#: includes/theme-functions.php:2519
+msgid "Choose to upload image for the client avatar"
+msgstr ""
+
+#: includes/theme-functions.php:2525
+msgid "Set name for the client"
+msgstr ""
+
+#: includes/theme-functions.php:2531
+msgid "Set byline for the client"
+msgstr ""
+
+#: includes/theme-functions.php:2537
+msgid "Insert description for the client"
+msgstr ""
+
+#: includes/theme-functions.php:2555
+msgid "Your E-mail"
+msgstr ""
+
+#: includes/theme-functions.php:2558
+msgid "Set email address to receive mails from contact form"
+msgstr ""
+
+#: includes/theme-functions.php:2571
+msgid "Display Checkbox"
+msgstr ""
+
+#: includes/theme-functions.php:2587
+msgid "Checkbox Description"
+msgstr ""
+
+#: includes/theme-functions.php:2589
+msgid ""
+"I have read and fully agreed the <a href=\"#\">terms</a> and <a href=\"#"
+"\">conditions</a> of this program."
+msgstr ""
+
+#: includes/theme-functions.php:2603
+msgid "Checkbox Verification Tips"
+msgstr ""
+
+#: includes/theme-functions.php:2605
+msgid "Please check the checkbox."
+msgstr ""
+
+#: includes/theme-functions.php:2647
+msgid "Display \"All\" Button"
+msgstr ""
+
+#: includes/theme-functions.php:2663 includes/theme-functions.php:7054
+msgid "Categories"
+msgstr ""
+
+#: includes/theme-functions.php:2664
+msgid "Select portfolio categories."
+msgstr ""
+
+#: includes/theme-functions.php:2680
+msgid "Set columns for team module"
+msgstr ""
+
+#: includes/theme-functions.php:2695 includes/theme-functions.php:2914
+msgid "Posts Num"
+msgstr ""
+
+#: includes/theme-functions.php:2696 includes/theme-functions.php:2915
+msgid "Set number of posts display in this section"
+msgstr ""
+
+#: includes/theme-functions.php:2717
+msgid "Standard"
+msgstr ""
+
+#: includes/theme-functions.php:2717
+msgid "Professional"
+msgstr ""
+
+#: includes/theme-functions.php:2717
+msgid "Elite"
+msgstr ""
+
+#: includes/theme-functions.php:2717
+msgid "Deluxe"
+msgstr ""
+
+#: includes/theme-functions.php:2777
+msgid "Buy Now"
+msgstr ""
+
+#: includes/theme-functions.php:2788
+msgid "Pricing Table"
+msgstr ""
+
+#: includes/theme-functions.php:2802
+msgid "Choose to set this item as featured"
+msgstr ""
+
+#: includes/theme-functions.php:2808
+msgid "Set Fontawsome icon which displays in the top"
+msgstr ""
+
+#: includes/theme-functions.php:2813
+msgid "Upload Image Icon"
+msgstr ""
+
+#: includes/theme-functions.php:2814
+msgid "Or choose to upload icon in image format"
+msgstr ""
+
+#: includes/theme-functions.php:2819
+msgid "Pricing Box Title"
+msgstr ""
+
+#: includes/theme-functions.php:2820
+msgid "Set title for this item"
+msgstr ""
+
+#: includes/theme-functions.php:2826
+msgid "Set currency for price"
+msgstr ""
+
+#: includes/theme-functions.php:2832
+msgid "Set price for the item"
+msgstr ""
+
+#: includes/theme-functions.php:2837
+msgid "Unit"
+msgstr ""
+
+#: includes/theme-functions.php:2838
+msgid "Set unit for price"
+msgstr ""
+
+#: includes/theme-functions.php:2843
+msgid "Features"
+msgstr ""
+
+#: includes/theme-functions.php:2844
+msgid "List features of the item, one per line"
+msgstr ""
+
+#: includes/theme-functions.php:2850
+msgid "Set text for the button at the bottom of the pricing item"
+msgstr ""
+
+#: includes/theme-functions.php:2856
+msgid "Set link for the button at the bottom of the pricing item"
+msgstr ""
+
+#: includes/theme-functions.php:2884
+msgid "Select post category."
+msgstr ""
+
+#: includes/theme-functions.php:2899
+msgid "Set columns for posts module"
+msgstr ""
+
+#: includes/theme-functions.php:2939 includes/theme-functions.php:3403
+#, php-format
+msgid ""
+"<span style=\"padding-left:20px;\">Get the <a href=\"%s\" target=\"_blank"
+"\">Pro version</a> of Onetone to acquire this feature.</span>"
+msgstr ""
+
+#: includes/theme-functions.php:2957
+msgid "Section Content"
+msgstr ""
+
+#: includes/theme-functions.php:2996 includes/theme-widget.php:8
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/theme-functions.php:2997 includes/theme-widget.php:9
+msgid "Default Sidebar"
+msgstr ""
+
+#: includes/theme-functions.php:2998 includes/theme-widget.php:12
+msgid "Post Sidebar"
+msgstr ""
+
+#: includes/theme-functions.php:2999 includes/theme-widget.php:13
+msgid "Post Category Sidebar"
+msgstr ""
+
+#: includes/theme-functions.php:3000 includes/theme-widget.php:14
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: includes/theme-functions.php:3001 includes/theme-widget.php:15
+msgid "Portfolio Category Sidebar"
+msgstr ""
+
+#: includes/theme-functions.php:3002 includes/theme-widget.php:16
+msgid "Shop Sidebar"
+msgstr ""
+
+#: includes/theme-functions.php:3003 includes/theme-widget.php:18
+msgid "Sidebar 1"
+msgstr ""
+
+#: includes/theme-functions.php:3004 includes/theme-widget.php:19
+msgid "Sidebar 2"
+msgstr ""
+
+#: includes/theme-functions.php:3005 includes/theme-widget.php:20
+msgid "Sidebar 3"
+msgstr ""
+
+#: includes/theme-functions.php:3006 includes/theme-widget.php:21
+msgid "Sidebar 4"
+msgstr ""
+
+#: includes/theme-functions.php:3007 includes/theme-functions.php:3008
+#: includes/theme-widget.php:22 includes/theme-widget.php:23
+msgid "Sidebar 5"
+msgstr ""
+
+#: includes/theme-functions.php:3009 includes/theme-widget.php:24
+msgid "Sidebar 6"
+msgstr ""
+
+#: includes/theme-functions.php:3010 includes/theme-widget.php:25
+msgid "Sidebar 7"
+msgstr ""
+
+#: includes/theme-functions.php:3011 includes/theme-widget.php:26
+msgid "Sidebar 8"
+msgstr ""
+
+#: includes/theme-functions.php:3015
+msgid "Repeat"
+msgstr ""
+
+#: includes/theme-functions.php:3016
+msgid "Repeat X"
+msgstr ""
+
+#: includes/theme-functions.php:3017
+msgid "Repeat Y"
+msgstr ""
+
+#: includes/theme-functions.php:3018
+msgid "No Repeat"
+msgstr ""
+
+#: includes/theme-functions.php:3022
+msgid "Top Left"
+msgstr ""
+
+#: includes/theme-functions.php:3023
+msgid "Top Center"
+msgstr ""
+
+#: includes/theme-functions.php:3024
+msgid "Top Right"
+msgstr ""
+
+#: includes/theme-functions.php:3025
+msgid "Center Left"
+msgstr ""
+
+#: includes/theme-functions.php:3026
+msgid "Center Center"
+msgstr ""
+
+#: includes/theme-functions.php:3027
+msgid "Center Right"
+msgstr ""
+
+#: includes/theme-functions.php:3028
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/theme-functions.php:3029
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/theme-functions.php:3030
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/theme-functions.php:3034
+msgid "Scroll Normally"
+msgstr ""
+
+#: includes/theme-functions.php:3035
+msgid "Fixed in Place"
+msgstr ""
+
+#: includes/theme-functions.php:3039
+msgid "Yes"
+msgstr ""
+
+#: includes/theme-functions.php:3040
+msgid "No"
+msgstr ""
+
+#: includes/theme-functions.php:3044
+msgid "Blank"
+msgstr ""
+
+#: includes/theme-functions.php:3045
+msgid "Self"
+msgstr ""
+
+#: includes/theme-functions.php:3050 includes/theme-functions.php:4624
+msgid "Left"
+msgstr ""
+
+#: includes/theme-functions.php:3051 includes/theme-functions.php:4624
+msgid "Right"
+msgstr ""
+
+#: includes/theme-functions.php:3052 includes/theme-functions.php:4624
+msgid "Center"
+msgstr ""
+
+#: includes/theme-functions.php:3285 includes/theme-setup.php:2008
+msgid "Onetone: Home Page Sections"
+msgstr ""
+
+#: includes/theme-functions.php:3312
+#, php-format
+msgid "Section %d"
+msgstr ""
+
+#: includes/theme-functions.php:3328
+msgid "New"
+msgstr ""
+
+#: includes/theme-functions.php:3347 includes/theme-functions.php:3357
+msgid "Add & Order Sections"
+msgstr ""
+
+#: includes/theme-functions.php:3392
+msgid ""
+"Add section -> Input section name -> Choose section template -> Click the "
+"Save & Publish button -> Refresh. Then you could edit options for the new "
+"section."
+msgstr ""
+
+#: includes/theme-functions.php:3449
+msgid "Onetone: Home Page Options"
+msgstr ""
+
+#: includes/theme-functions.php:3457
+msgid "General Options"
+msgstr ""
+
+#: includes/theme-functions.php:3465
+msgid "Home Page Header Overlay"
+msgstr ""
+
+#: includes/theme-functions.php:3466
+msgid "Choose to set home page header as overlay style."
+msgstr ""
+
+#: includes/theme-functions.php:3474
+msgid "Enable Side Navigation"
+msgstr ""
+
+#: includes/theme-functions.php:3475
+msgid "Enable side dot navigation."
+msgstr ""
+
+#: includes/theme-functions.php:3481
+msgid "HTML5 Video"
+msgstr ""
+
+#: includes/theme-functions.php:3481
+msgid "YouTube Video"
+msgstr ""
+
+#: includes/theme-functions.php:3481
+msgid "Vimeo Video"
+msgstr ""
+
+#: includes/theme-functions.php:3483
+msgid "Video Background Type"
+msgstr ""
+
+#: includes/theme-functions.php:3486
+msgid "Choose type of video background"
+msgstr ""
+
+#: includes/theme-functions.php:3492
+msgid "No video background"
+msgstr ""
+
+#: includes/theme-functions.php:3499
+msgid "Video Background Section"
+msgstr ""
+
+#: includes/theme-functions.php:3504
+msgid "Choose a section to set the video as background for"
+msgstr ""
+
+#: includes/theme-functions.php:3509
+msgid "Display slider instead in section 1"
+msgstr ""
+
+#: includes/theme-functions.php:3514
+msgid ""
+"Choose to display default slider instead of section contents here. Go to "
+"Customize > Onetone: Slideshow to set the slider."
+msgstr ""
+
+#: includes/theme-functions.php:3519
+msgid "Enable Animation"
+msgstr ""
+
+#: includes/theme-functions.php:3520
+msgid "Enable animation for default section content."
+msgstr ""
+
+#: includes/theme-functions.php:3531
+msgid "HTML5 Video Background Options"
+msgstr ""
+
+#: includes/theme-functions.php:3538
+msgid "MP4 Video URL"
+msgstr ""
+
+#: includes/theme-functions.php:3542
+msgid "For Internet Explorer 9, Safari"
+msgstr ""
+
+#: includes/theme-functions.php:3547
+msgid "OGV Video URL"
+msgstr ""
+
+#: includes/theme-functions.php:3550 includes/theme-functions.php:3559
+msgid "For Google Chrome, Mozilla Firefox, Opera "
+msgstr ""
+
+#: includes/theme-functions.php:3555
+msgid "Webm Video URL"
+msgstr ""
+
+#: includes/theme-functions.php:3573
+msgid "Video Loop"
+msgstr ""
+
+#: includes/theme-functions.php:3576
+msgid "Choose to loop video"
+msgstr ""
+
+#: includes/theme-functions.php:3582
+msgid "Video Volume"
+msgstr ""
+
+#: includes/theme-functions.php:3586
+msgid "Select video volume"
+msgstr ""
+
+#: includes/theme-functions.php:3595
+msgid "YouTube Video Background Options"
+msgstr ""
+
+#: includes/theme-functions.php:3602
+msgid "YouTube ID for Video Background"
+msgstr ""
+
+#: includes/theme-functions.php:3604
+msgid "Insert the eleven-letter id here, not url."
+msgstr ""
+
+#: includes/theme-functions.php:3611 includes/theme-functions.php:3730
+msgid "Start Time"
+msgstr ""
+
+#: includes/theme-functions.php:3613 includes/theme-functions.php:3732
+msgid "Choose time to start to play, in seconds"
+msgstr ""
+
+#: includes/theme-functions.php:3620
+msgid "Stop Time"
+msgstr ""
+
+#: includes/theme-functions.php:3622
+msgid "Choose time to stop to play, in seconds"
+msgstr ""
+
+#: includes/theme-functions.php:3629 includes/theme-functions.php:3739
+msgid "Display Video Control Buttons."
+msgstr ""
+
+#: includes/theme-functions.php:3630 includes/theme-functions.php:3740
+msgid ""
+"Choose to display video controls at bottom of the section with video "
+"background."
+msgstr ""
+
+#: includes/theme-functions.php:3638 includes/theme-functions.php:3748
+msgid "Mute"
+msgstr ""
+
+#: includes/theme-functions.php:3639 includes/theme-functions.php:3749
+msgid "Choose to set the video mute"
+msgstr ""
+
+#: includes/theme-functions.php:3647 includes/theme-functions.php:3757
+msgid "AutoPlay"
+msgstr ""
+
+#: includes/theme-functions.php:3648 includes/theme-functions.php:3758
+msgid "Choose to set the video autoplay"
+msgstr ""
+
+#: includes/theme-functions.php:3656 includes/theme-functions.php:3766
+msgid "Loop"
+msgstr ""
+
+#: includes/theme-functions.php:3657 includes/theme-functions.php:3767
+msgid "Choose to set the video loop"
+msgstr ""
+
+#: includes/theme-functions.php:3665
+msgid "Anchor"
+msgstr ""
+
+#: includes/theme-functions.php:3666
+msgid ""
+"Define how the video will behave once the window is resized; possible value "
+"are: \"top,bottom,left,right,center\"; it accept a pair of value comma "
+"separated (ex: \"top,right\" or \"bottom,left\")."
+msgstr ""
+
+#: includes/theme-functions.php:3674 includes/theme-functions.php:3775
+msgid "Quality"
+msgstr ""
+
+#: includes/theme-functions.php:3675 includes/theme-functions.php:3776
+msgid "Choose to set the video quality."
+msgstr ""
+
+#: includes/theme-functions.php:3679 includes/theme-functions.php:3780
+msgid "Small"
+msgstr ""
+
+#: includes/theme-functions.php:3680 includes/theme-functions.php:3781
+msgid "Medium"
+msgstr ""
+
+#: includes/theme-functions.php:3681 includes/theme-functions.php:3782
+msgid "Large"
+msgstr ""
+
+#: includes/theme-functions.php:3682 includes/theme-functions.php:3783
+msgid "HD720"
+msgstr ""
+
+#: includes/theme-functions.php:3683 includes/theme-functions.php:3784
+msgid "HD1080"
+msgstr ""
+
+#: includes/theme-functions.php:3684 includes/theme-functions.php:3785
+msgid "Highres"
+msgstr ""
+
+#: includes/theme-functions.php:3691
+msgid "Opacity"
+msgstr ""
+
+#: includes/theme-functions.php:3692
+msgid "Choose to set the video opacity."
+msgstr ""
+
+#: includes/theme-functions.php:3702 includes/theme-functions.php:3793
+msgid "Background Type"
+msgstr ""
+
+#: includes/theme-functions.php:3703 includes/theme-functions.php:3794
+msgid ""
+"Choose to set the video as background of the whole site or just one section"
+msgstr ""
+
+#: includes/theme-functions.php:3706 includes/theme-functions.php:3797
+msgid "Body Background"
+msgstr ""
+
+#: includes/theme-functions.php:3714
+msgid "Vimeo Video Background Options"
+msgstr ""
+
+#: includes/theme-functions.php:3721
+msgid "Vimeo URL for Video Background"
+msgstr ""
+
+#: includes/theme-functions.php:3723
+msgid "Insert the vimeo video URL here, e.g. https://vimeo.com/193338881"
+msgstr ""
+
+#: includes/theme-functions.php:3805
+msgid "Slideshow Options"
+msgstr ""
+
+#: includes/theme-functions.php:3832 includes/theme-functions.php:3839
+#: includes/theme-functions.php:3846 includes/theme-functions.php:3853
+msgid "Click Me"
+msgstr ""
+
+#: includes/theme-functions.php:3863
+msgid "Slider"
+msgstr ""
+
+#: includes/theme-functions.php:3910
+msgid "Autoplay"
+msgstr ""
+
+#: includes/theme-functions.php:3911
+msgid "Enable slider autoplay."
+msgstr ""
+
+#: includes/theme-functions.php:3919
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: includes/theme-functions.php:3921
+msgid ""
+"Milliseconds between the end of the sliding effect and the start of the nex "
+"one."
+msgstr ""
+
+#: includes/theme-functions.php:3928
+msgid "Display Control"
+msgstr ""
+
+#: includes/theme-functions.php:3929
+msgid "Display control."
+msgstr ""
+
+#: includes/theme-functions.php:3937
+msgid "Display Pagination"
+msgstr ""
+
+#: includes/theme-functions.php:3938
+msgid "Display pagination."
+msgstr ""
+
+#: includes/theme-functions.php:3946
+msgid "Full Height"
+msgstr ""
+
+#: includes/theme-functions.php:3947
+msgid "Full screen height for desktop."
+msgstr ""
+
+#: includes/theme-functions.php:3958
+msgid "Onetone: General Options"
+msgstr ""
+
+#: includes/theme-functions.php:3967
+msgid "Tracking"
+msgstr ""
+
+#: includes/theme-functions.php:3975
+msgid "Tracking Code"
+msgstr ""
+
+#: includes/theme-functions.php:3976
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header template of your theme. Please put code inside script "
+"tags."
+msgstr ""
+
+#: includes/theme-functions.php:3984
+msgid "Space before </head>"
+msgstr ""
+
+#: includes/theme-functions.php:3985
+msgid "Add code before the head tag."
+msgstr ""
+
+#: includes/theme-functions.php:3993
+msgid "Space before </body>"
+msgstr ""
+
+#: includes/theme-functions.php:3994
+msgid "Add code before the body tag."
+msgstr ""
+
+#: includes/theme-functions.php:4003
+msgid "404 page"
+msgstr ""
+
+#: includes/theme-functions.php:4010
+msgid "404 page content"
+msgstr ""
+
+#: includes/theme-functions.php:4021
+msgid "Layout Options"
+msgstr ""
+
+#: includes/theme-functions.php:4029
+msgid "Page Content Top Padding"
+msgstr ""
+
+#: includes/theme-functions.php:4030 includes/theme-functions.php:4039
+#: includes/theme-functions.php:4496 includes/theme-functions.php:4505
+#: includes/theme-functions.php:5192 includes/theme-functions.php:5200
+#: includes/theme-functions.php:5235 includes/theme-functions.php:5243
+msgid "In pixels or percentage, ex: 10px or 10%."
+msgstr ""
+
+#: includes/theme-functions.php:4038
+msgid "Page Content Bottom Padding"
+msgstr ""
+
+#: includes/theme-functions.php:4047
+msgid "100% Width Left/Right Padding ###"
+msgstr ""
+
+#: includes/theme-functions.php:4048
+msgid ""
+"This option controls the left/right padding for page content when using 100% "
+"site width or 100% width page template. In pixels or percentage, ex: 10px or "
+"10%."
+msgstr ""
+
+#: includes/theme-functions.php:4056
+msgid "Sidebar Padding"
+msgstr ""
+
+#: includes/theme-functions.php:4057
+msgid "Enter a pixel or percentage based value, ex: 5px or 5%"
+msgstr ""
+
+#: includes/theme-functions.php:4064
+msgid "Column Top Margin"
+msgstr ""
+
+#: includes/theme-functions.php:4065
+msgid ""
+"Controls the top margin for all column sizes. In pixels or percentage, ex: "
+"10px or 10%."
+msgstr ""
+
+#: includes/theme-functions.php:4072
+msgid "Column Bottom Margin"
+msgstr ""
+
+#: includes/theme-functions.php:4073
+msgid ""
+"Controls the bottom margin for all column sizes. In pixels or percentage, "
+"ex: 10px or 10%."
+msgstr ""
+
+#: includes/theme-functions.php:4082
+msgid "Additional"
+msgstr ""
+
+#: includes/theme-functions.php:4092
+msgid "Back to Top Button"
+msgstr ""
+
+#: includes/theme-functions.php:4097
+msgid "Show"
+msgstr ""
+
+#: includes/theme-functions.php:4097
+msgid "Hide"
+msgstr ""
+
+#: includes/theme-functions.php:4102
+msgid "Enable Image Lightbox?"
+msgstr ""
+
+#: includes/theme-functions.php:4110
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/theme-functions.php:4112
+msgid ""
+"The following css code will add to the header before the closing &lt;/"
+"head&gt; tag."
+msgstr ""
+
+#: includes/theme-functions.php:4121
+msgid "Onetone: Header"
+msgstr ""
+
+#: includes/theme-functions.php:4130
+msgid "Top Bar Options"
+msgstr ""
+
+#: includes/theme-functions.php:4138
+msgid "Display Top Bar"
+msgstr ""
+
+#: includes/theme-functions.php:4139
+msgid "Choose to display top bar above the header"
+msgstr ""
+
+#: includes/theme-functions.php:4149
+msgid "Background Color"
+msgstr ""
+
+#: includes/theme-functions.php:4150
+msgid "Set background color for top bar"
+msgstr ""
+
+#: includes/theme-functions.php:4160
+msgid "Choose content in left side"
+msgstr ""
+
+#: includes/theme-functions.php:4165 includes/theme-functions.php:4180
+msgid "Info"
+msgstr ""
+
+#: includes/theme-functions.php:4166 includes/theme-functions.php:4181
+msgid "SNS"
+msgstr ""
+
+#: includes/theme-functions.php:4168 includes/theme-functions.php:4183
+msgid "None"
+msgstr ""
+
+#: includes/theme-functions.php:4175
+msgid "Choose content in right side"
+msgstr ""
+
+#: includes/theme-functions.php:4190
+msgid "Info Color"
+msgstr ""
+
+#: includes/theme-functions.php:4191
+msgid "Set color for info in top bar"
+msgstr ""
+
+#: includes/theme-functions.php:4199
+msgid "Info Content"
+msgstr ""
+
+#: includes/theme-functions.php:4200
+msgid "Insert content for info in top bar"
+msgstr ""
+
+#: includes/theme-functions.php:4208
+msgid "Menu Color"
+msgstr ""
+
+#: includes/theme-functions.php:4209
+msgid "Set color for menu in top bar"
+msgstr ""
+
+#: includes/theme-functions.php:4217
+msgid "Social Icons Color"
+msgstr ""
+
+#: includes/theme-functions.php:4225
+msgid "Social Icon Tooltip Position"
+msgstr ""
+
+#: includes/theme-functions.php:4231
+msgid "left"
+msgstr ""
+
+#: includes/theme-functions.php:4232
+msgid "right"
+msgstr ""
+
+#: includes/theme-functions.php:4233
+msgid "bottom"
+msgstr ""
+
+#: includes/theme-functions.php:4288
+msgid "Logo"
+msgstr ""
+
+#: includes/theme-functions.php:4296
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/theme-functions.php:4297 includes/theme-functions.php:4306
+#: includes/theme-functions.php:4343
+msgid "Select an image file for your logo."
+msgstr ""
+
+#: includes/theme-functions.php:4305
+msgid "Upload Overlay Header Logo"
+msgstr ""
+
+#: includes/theme-functions.php:4314
+msgid "Upload Logo (Retina Version @2x)"
+msgstr ""
+
+#: includes/theme-functions.php:4315 includes/theme-functions.php:4353
+msgid ""
+"Select an image file for the retina version of the logo. It should be "
+"exactly 2x the size of main logo."
+msgstr ""
+
+#: includes/theme-functions.php:4322
+msgid "Standard Logo Width for Retina Logo"
+msgstr ""
+
+#: includes/theme-functions.php:4323 includes/theme-functions.php:4362
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version width, do "
+"not enter the retina logo width. Use a number without 'px', ex: 40"
+msgstr ""
+
+#: includes/theme-functions.php:4332
+msgid "Standard Logo Height for Retina Logo"
+msgstr ""
+
+#: includes/theme-functions.php:4333 includes/theme-functions.php:4371
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version height, do "
+"not enter the retina logo height. Use a number without 'px', ex: 40"
+msgstr ""
+
+#: includes/theme-functions.php:4342
+msgid "Upload Sticky Header Logo"
+msgstr ""
+
+#: includes/theme-functions.php:4352
+msgid "Upload Sticky Header Logo (Retina Version @2x)"
+msgstr ""
+
+#: includes/theme-functions.php:4361
+msgid "Sticky Logo Width for Retina Logo"
+msgstr ""
+
+#: includes/theme-functions.php:4370
+msgid "Sticky Logo Height for Retina Logo"
+msgstr ""
+
+#: includes/theme-functions.php:4380
+msgid "Logo Options"
+msgstr ""
+
+#: includes/theme-functions.php:4388
+msgid "Logo Position"
+msgstr ""
+
+#: includes/theme-functions.php:4389
+msgid "Set position for logo in header"
+msgstr ""
+
+#: includes/theme-functions.php:4398
+msgid "Logo Left Margin"
+msgstr ""
+
+#: includes/theme-functions.php:4399 includes/theme-functions.php:4409
+#: includes/theme-functions.php:4418 includes/theme-functions.php:4428
+msgid "Use a number without 'px', ex: 40"
+msgstr ""
+
+#: includes/theme-functions.php:4408
+msgid "Logo Right Margin"
+msgstr ""
+
+#: includes/theme-functions.php:4417
+msgid "Logo Top Margin"
+msgstr ""
+
+#: includes/theme-functions.php:4427
+msgid "Logo Bottom Margin"
+msgstr ""
+
+#: includes/theme-functions.php:4438
+msgid "Header Options"
+msgstr ""
+
+#: includes/theme-functions.php:4448
+msgid "Full Width Header"
+msgstr ""
+
+#: includes/theme-functions.php:4449
+msgid "Enable header full width."
+msgstr ""
+
+#: includes/theme-functions.php:4458
+msgid "Woocommerce Cart"
+msgstr ""
+
+#: includes/theme-functions.php:4459
+msgid "Enable woocommerce cart on header."
+msgstr ""
+
+#: includes/theme-functions.php:4468
+msgid "Nav Hover Effect"
+msgstr ""
+
+#: includes/theme-functions.php:4485 includes/theme-functions.php:4712
+#: includes/theme-functions.php:5181
+msgid "Parallax Background Image"
+msgstr ""
+
+#: includes/theme-functions.php:4486
+msgid ""
+"Turn on to enable parallax scrolling on the background image for header top "
+"positions."
+msgstr ""
+
+#: includes/theme-functions.php:4495
+msgid "Header Top Padding"
+msgstr ""
+
+#: includes/theme-functions.php:4504
+msgid "Header Bottom Padding"
+msgstr ""
+
+#: includes/theme-functions.php:4516
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/theme-functions.php:4524
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: includes/theme-functions.php:4525
+msgid "Choose to enable sticky header"
+msgstr ""
+
+#: includes/theme-functions.php:4533
+msgid "Enable Sticky Header on Tablets"
+msgstr ""
+
+#: includes/theme-functions.php:4534
+msgid "Choose to enable sticky header on tablets"
+msgstr ""
+
+#: includes/theme-functions.php:4542
+msgid "Enable Sticky Header on Mobiles"
+msgstr ""
+
+#: includes/theme-functions.php:4543
+msgid "Choose to enable sticky header on mobiles"
+msgstr ""
+
+#: includes/theme-functions.php:4552
+msgid "Sticky Header Menu Item Padding"
+msgstr ""
+
+#: includes/theme-functions.php:4553
+msgid ""
+"Controls the space between each menu item in the sticky header. Use a number "
+"without 'px', default is 0. ex: 10"
+msgstr ""
+
+#: includes/theme-functions.php:4561
+msgid "Sticky Header Navigation Font Size"
+msgstr ""
+
+#: includes/theme-functions.php:4562
+msgid ""
+"Controls the font size of the menu items in the sticky header. Use a number "
+"without 'px', default is 14. ex: 14"
+msgstr ""
+
+#: includes/theme-functions.php:4570
+msgid "Sticky Header Logo Width"
+msgstr ""
+
+#: includes/theme-functions.php:4571
+msgid ""
+"Controls the logo width in the sticky header. Use a number without 'px'."
+msgstr ""
+
+#: includes/theme-functions.php:4582
+msgid "Onetone: Pages & Posts"
+msgstr ""
+
+#: includes/theme-functions.php:4591
+msgid "Page Title Bar"
+msgstr ""
+
+#: includes/theme-functions.php:4600
+msgid "Enable Page Title Bar"
+msgstr ""
+
+#: includes/theme-functions.php:4601
+msgid "Choose to enable page title bar in pages & posts"
+msgstr ""
+
+#: includes/theme-functions.php:4609
+msgid "Display Title?"
+msgstr ""
+
+#: includes/theme-functions.php:4610
+msgid "Display title in title bar."
+msgstr ""
+
+#: includes/theme-functions.php:4619
+msgid "Title Position"
+msgstr ""
+
+#: includes/theme-functions.php:4630
+msgid "Page Title Bar Top Padding"
+msgstr ""
+
+#: includes/theme-functions.php:4631
+msgid "In pixels, ex: 210px"
+msgstr ""
+
+#: includes/theme-functions.php:4639
+msgid "Page Title Bar Bottom Padding"
+msgstr ""
+
+#: includes/theme-functions.php:4640
+msgid "In pixels, ex: 160px"
+msgstr ""
+
+#: includes/theme-functions.php:4647
+msgid "Page Title Bar Mobile Top Padding"
+msgstr ""
+
+#: includes/theme-functions.php:4648
+msgid "In pixels, ex: 70px"
+msgstr ""
+
+#: includes/theme-functions.php:4656
+msgid "Page Title Bar Mobile Bottom Padding"
+msgstr ""
+
+#: includes/theme-functions.php:4657
+msgid "In pixels, ex: 50px"
+msgstr ""
+
+#: includes/theme-functions.php:4666
+msgid "Page Title Bar Background"
+msgstr ""
+
+#: includes/theme-functions.php:4690
+msgid "Page Title Bar Retina Background"
+msgstr ""
+
+#: includes/theme-functions.php:4713
+msgid "Select yes to enable parallax background image when scrolling."
+msgstr ""
+
+#: includes/theme-functions.php:4721
+msgid "Breadcrumb"
+msgstr ""
+
+#: includes/theme-functions.php:4729
+msgid "Display breadcrumb"
+msgstr ""
+
+#: includes/theme-functions.php:4738
+msgid "Breadcrumbs on Mobile Devices"
+msgstr ""
+
+#: includes/theme-functions.php:4739
+msgid "Check to display breadcrumbs on mobile devices."
+msgstr ""
+
+#: includes/theme-functions.php:4746
+msgid "Breadcrumb Menu Prefix"
+msgstr ""
+
+#: includes/theme-functions.php:4747
+msgid "The text before the breadcrumb menu."
+msgstr ""
+
+#: includes/theme-functions.php:4754
+msgid "Breadcrumb Menu Separator"
+msgstr ""
+
+#: includes/theme-functions.php:4755
+msgid "Choose a separator between the single breadcrumbs."
+msgstr ""
+
+#: includes/theme-functions.php:4764 includes/theme-functions.php:4859
+msgid "Blog"
+msgstr ""
+
+#: includes/theme-functions.php:4773
+msgid "Blog Archive List Content"
+msgstr ""
+
+#: includes/theme-functions.php:4774
+msgid "Choose to display full content or excerpt in blog archive pages"
+msgstr ""
+
+#: includes/theme-functions.php:4780
+msgid "Excerpt"
+msgstr ""
+
+#: includes/theme-functions.php:4795
+msgid "Display Author Info?"
+msgstr ""
+
+#: includes/theme-functions.php:4796
+msgid "Display author info on single page."
+msgstr ""
+
+#: includes/theme-functions.php:4804
+msgid "Display Related Posts?"
+msgstr ""
+
+#: includes/theme-functions.php:4805
+msgid "Display related posts on single page."
+msgstr ""
+
+#: includes/theme-functions.php:4813
+msgid "Display Post Meta?"
+msgstr ""
+
+#: includes/theme-functions.php:4821
+msgid "Display Meta Author?"
+msgstr ""
+
+#: includes/theme-functions.php:4830
+msgid "Display Meta Date?"
+msgstr ""
+
+#: includes/theme-functions.php:4839
+msgid "Display Meta Categories?"
+msgstr ""
+
+#: includes/theme-functions.php:4848
+msgid "Display Meta Comments?"
+msgstr ""
+
+#: includes/theme-functions.php:4857
+msgid "Blog Header Title"
+msgstr ""
+
+#: includes/theme-functions.php:4866
+msgid "Blog Header Subtitle"
+msgstr ""
+
+#: includes/theme-functions.php:4878
+msgid "Onetone: Sidebar"
+msgstr ""
+
+#: includes/theme-functions.php:4885
+msgid "Single Post"
+msgstr ""
+
+#: includes/theme-functions.php:4893 includes/theme-functions.php:4923
+#: includes/theme-functions.php:4952 includes/theme-functions.php:4980
+#: includes/theme-functions.php:5007 includes/theme-functions.php:5037
+#: includes/theme-functions.php:5066 includes/theme-functions.php:5095
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/theme-functions.php:4894
+msgid "Choose left sidebar for blog posts"
+msgstr ""
+
+#: includes/theme-functions.php:4903 includes/theme-functions.php:4933
+#: includes/theme-functions.php:4962 includes/theme-functions.php:4989
+#: includes/theme-functions.php:5017 includes/theme-functions.php:5047
+#: includes/theme-functions.php:5076 includes/theme-functions.php:5105
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/theme-functions.php:4904
+msgid "Choose right sidebar for blog posts"
+msgstr ""
+
+#: includes/theme-functions.php:4915
+msgid "Blog Archive / Category Pages"
+msgstr ""
+
+#: includes/theme-functions.php:4924
+msgid "Choose left sidebar for blog archive page"
+msgstr ""
+
+#: includes/theme-functions.php:4934
+msgid "Choose right sidebar for blog archive page"
+msgstr ""
+
+#: includes/theme-functions.php:4944
+msgid "Woocommerce Products"
+msgstr ""
+
+#: includes/theme-functions.php:4953
+msgid "Choose left sidebar for woocommerce product post"
+msgstr ""
+
+#: includes/theme-functions.php:4963
+msgid "Choose right sidebar for woocommerce product post"
+msgstr ""
+
+#: includes/theme-functions.php:4972
+msgid "Woocommerce Archive"
+msgstr ""
+
+#: includes/theme-functions.php:4981
+msgid "Choose left sidebar for woocommerce archive page"
+msgstr ""
+
+#: includes/theme-functions.php:4990
+msgid "Choose right sidebar for woocommerce archive page"
+msgstr ""
+
+#: includes/theme-functions.php:4999
+msgid "Portfolio Posts"
+msgstr ""
+
+#: includes/theme-functions.php:5008
+msgid "Choose left sidebar for portfolio post"
+msgstr ""
+
+#: includes/theme-functions.php:5018
+msgid "Choose right sidebar for portfolio post"
+msgstr ""
+
+#: includes/theme-functions.php:5029
+msgid "Portfolio Archive"
+msgstr ""
+
+#: includes/theme-functions.php:5038 includes/theme-functions.php:5048
+msgid "Choose left sidebar for portfolio archive page"
+msgstr ""
+
+#: includes/theme-functions.php:5058
+msgid "Search Page"
+msgstr ""
+
+#: includes/theme-functions.php:5067
+msgid "Choose left sidebar for blog search result page"
+msgstr ""
+
+#: includes/theme-functions.php:5077
+msgid "Choose right sidebar for blog search result page"
+msgstr ""
+
+#: includes/theme-functions.php:5087
+msgid "404 Page"
+msgstr ""
+
+#: includes/theme-functions.php:5096 includes/theme-functions.php:5106
+msgid "Choose left sidebar for 404 page"
+msgstr ""
+
+#: includes/theme-functions.php:5117
+msgid "Onetone: Footer"
+msgstr ""
+
+#: includes/theme-functions.php:5124
+msgid "Footer Widgets Area Options"
+msgstr ""
+
+#: includes/theme-functions.php:5132
+msgid "Display footer widgets?"
+msgstr ""
+
+#: includes/theme-functions.php:5133
+msgid "Choose to display footer widgets"
+msgstr ""
+
+#: includes/theme-functions.php:5143
+msgid "Number of Footer Columns"
+msgstr ""
+
+#: includes/theme-functions.php:5144
+msgid "Set column number for footer widget area"
+msgstr ""
+
+#: includes/theme-functions.php:5159
+msgid "Footer Background"
+msgstr ""
+
+#: includes/theme-functions.php:5182
+msgid "Choose to set parallax background effect for footer"
+msgstr ""
+
+#: includes/theme-functions.php:5191
+msgid "Footer Top Padding"
+msgstr ""
+
+#: includes/theme-functions.php:5199
+msgid "Footer Bottom Padding"
+msgstr ""
+
+#: includes/theme-functions.php:5208
+msgid "Copyright Options"
+msgstr ""
+
+#: includes/theme-functions.php:5216
+msgid "Display Copyright Bar"
+msgstr ""
+
+#: includes/theme-functions.php:5217
+msgid "Choose to display copyright bar"
+msgstr ""
+
+#: includes/theme-functions.php:5225
+msgid "Copyright Text"
+msgstr ""
+
+#: includes/theme-functions.php:5226
+msgid ""
+"Enter the text that displays in the copyright bar. HTML markup can be used."
+msgstr ""
+
+#: includes/theme-functions.php:5234
+msgid "Copyright Top Padding"
+msgstr ""
+
+#: includes/theme-functions.php:5242
+msgid "Copyright Bottom Padding"
+msgstr ""
+
+#: includes/theme-functions.php:5252
+msgid "Footer Social Icons"
+msgstr ""
+
+#: includes/theme-functions.php:5311
+msgid "Onetone: Styling"
+msgstr ""
+
+#: includes/theme-functions.php:5318 includes/theme-functions.php:5326
+msgid "Primary Color"
+msgstr ""
+
+#: includes/theme-functions.php:5327
+msgid "Set primary color for the theme"
+msgstr ""
+
+#: includes/theme-functions.php:5336
+msgid "Background"
+msgstr ""
+
+#: includes/theme-functions.php:5343
+msgid "Header Background"
+msgstr ""
+
+#: includes/theme-functions.php:5364
+msgid "Sticky Header Background Color"
+msgstr ""
+
+#: includes/theme-functions.php:5365
+msgid "Set background color for sticky header"
+msgstr ""
+
+#: includes/theme-functions.php:5373
+msgid "Sticky Header Background Opacity"
+msgstr ""
+
+#: includes/theme-functions.php:5374
+msgid ""
+"Opacity only works with header top position and ranges between 0 "
+"(transparent) and 1."
+msgstr ""
+
+#: includes/theme-functions.php:5383
+msgid "Content Background Color"
+msgstr ""
+
+#: includes/theme-functions.php:5384
+msgid "Set background color for site content"
+msgstr ""
+
+#: includes/theme-functions.php:5393
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: includes/theme-functions.php:5394
+msgid "Set background color for sidebar"
+msgstr ""
+
+#: includes/theme-functions.php:5401
+msgid "Footer Background Color"
+msgstr ""
+
+#: includes/theme-functions.php:5402
+msgid "Set background color for the footer"
+msgstr ""
+
+#: includes/theme-functions.php:5410
+msgid "Copyright Background Color"
+msgstr ""
+
+#: includes/theme-functions.php:5411
+msgid "Set background color for the copyright area in footer"
+msgstr ""
+
+#: includes/theme-functions.php:5419
+msgid "Element Colors"
+msgstr ""
+
+#: includes/theme-functions.php:5427
+msgid "Form Background Color"
+msgstr ""
+
+#: includes/theme-functions.php:5428
+msgid "Controls the background color of form fields"
+msgstr ""
+
+#: includes/theme-functions.php:5436
+msgid "Form Text Color"
+msgstr ""
+
+#: includes/theme-functions.php:5437
+msgid "Controls the text color for forms"
+msgstr ""
+
+#: includes/theme-functions.php:5445
+msgid "Form Border Color"
+msgstr ""
+
+#: includes/theme-functions.php:5446
+msgid "Controls the border color for forms"
+msgstr ""
+
+#: includes/theme-functions.php:5454
+msgid "Font Colors"
+msgstr ""
+
+#: includes/theme-functions.php:5462
+msgid "Sticky Header Text Color"
+msgstr ""
+
+#: includes/theme-functions.php:5463
+msgid "Set color for tagline in fixed header"
+msgstr ""
+
+#: includes/theme-functions.php:5472
+msgid "Overlay Header Text Color"
+msgstr ""
+
+#: includes/theme-functions.php:5473
+msgid "Set color for tagline in overlay header"
+msgstr ""
+
+#: includes/theme-functions.php:5482
+msgid "Page Title"
+msgstr ""
+
+#: includes/theme-functions.php:5483
+msgid "Set color for page title"
+msgstr ""
+
+#: includes/theme-functions.php:5492
+msgid "Heading 1 (H1) Font Color"
+msgstr ""
+
+#: includes/theme-functions.php:5493
+msgid "Choose color for H1 headings"
+msgstr ""
+
+#: includes/theme-functions.php:5501
+msgid "Heading 2 (H2) Font Color"
+msgstr ""
+
+#: includes/theme-functions.php:5502
+msgid "Choose color for H2 headings"
+msgstr ""
+
+#: includes/theme-functions.php:5510
+msgid "Heading 3 (H3) Font Color"
+msgstr ""
+
+#: includes/theme-functions.php:5511
+msgid "Choose color for H3 headings"
+msgstr ""
+
+#: includes/theme-functions.php:5519
+msgid "Heading 4 (H4) Font Color"
+msgstr ""
+
+#: includes/theme-functions.php:5520
+msgid "Choose color for H4 headings"
+msgstr ""
+
+#: includes/theme-functions.php:5528
+msgid "Heading 5 (H5) Font Color"
+msgstr ""
+
+#: includes/theme-functions.php:5529
+msgid "Choose color for H5 headings"
+msgstr ""
+
+#: includes/theme-functions.php:5537
+msgid "Heading 6 (H6) Font Color"
+msgstr ""
+
+#: includes/theme-functions.php:5538
+msgid "Choose color for H6 headings"
+msgstr ""
+
+#: includes/theme-functions.php:5546
+msgid "Body Text Color"
+msgstr ""
+
+#: includes/theme-functions.php:5547
+msgid "Choose color for body text"
+msgstr ""
+
+#: includes/theme-functions.php:5555
+msgid "Links Color"
+msgstr ""
+
+#: includes/theme-functions.php:5556
+msgid "Choose color for links"
+msgstr ""
+
+#: includes/theme-functions.php:5564
+msgid "Breadcrumbs Text Color"
+msgstr ""
+
+#: includes/theme-functions.php:5565
+msgid "Choose color for breadcrumbs"
+msgstr ""
+
+#: includes/theme-functions.php:5573
+msgid "Sidebar Widget Headings Color"
+msgstr ""
+
+#: includes/theme-functions.php:5574
+msgid "Choose color for Sidebar widget headings"
+msgstr ""
+
+#: includes/theme-functions.php:5582
+msgid "Footer Headings Color"
+msgstr ""
+
+#: includes/theme-functions.php:5583
+msgid "Choose color for footer headings"
+msgstr ""
+
+#: includes/theme-functions.php:5591
+msgid "Footer Text Color"
+msgstr ""
+
+#: includes/theme-functions.php:5592
+msgid "Choose color for footer text"
+msgstr ""
+
+#: includes/theme-functions.php:5600
+msgid "Footer Link Color"
+msgstr ""
+
+#: includes/theme-functions.php:5601
+msgid "Choose color for links in footer"
+msgstr ""
+
+#: includes/theme-functions.php:5609
+msgid "Main Menu Colors"
+msgstr ""
+
+#: includes/theme-functions.php:5617
+msgid "Menu Toggle Color"
+msgstr ""
+
+#: includes/theme-functions.php:5626
+msgid "Main Menu Background Color"
+msgstr ""
+
+#: includes/theme-functions.php:5627
+msgid "Choose background color for main menu"
+msgstr ""
+
+#: includes/theme-functions.php:5635
+msgid "Main Menu Font Color ( First Level )"
+msgstr ""
+
+#: includes/theme-functions.php:5636 includes/theme-functions.php:5645
+msgid "Choose font color for first level of main menu"
+msgstr ""
+
+#: includes/theme-functions.php:5644
+msgid "Main Menu Font Color of Overlay Header ( First Level )"
+msgstr ""
+
+#: includes/theme-functions.php:5653
+msgid "Main Menu Font Hover Color ( First Level )"
+msgstr ""
+
+#: includes/theme-functions.php:5654
+msgid "Choose hover color for first level of main menu"
+msgstr ""
+
+#: includes/theme-functions.php:5662
+msgid "Main Menu Background Color ( Sub Level )"
+msgstr ""
+
+#: includes/theme-functions.php:5663
+msgid "Choose background color for sub level of main menu"
+msgstr ""
+
+#: includes/theme-functions.php:5671
+msgid "Main Menu Font Color ( Sub Level )"
+msgstr ""
+
+#: includes/theme-functions.php:5672
+msgid "Choose font color for sub level of main menu"
+msgstr ""
+
+#: includes/theme-functions.php:5680
+msgid "Main Menu Font Hover Color ( Sub Level )"
+msgstr ""
+
+#: includes/theme-functions.php:5681
+msgid "Choose hover color for sub level of main menu"
+msgstr ""
+
+#: includes/theme-functions.php:5689
+msgid "Main Menu Separator Color ( Sub Levels )"
+msgstr ""
+
+#: includes/theme-functions.php:5690
+msgid "Choose separator color for sub level of main menu"
+msgstr ""
+
+#: includes/theme-functions.php:5699
+msgid "Front Page Side Navigation Color"
+msgstr ""
+
+#: includes/theme-functions.php:5708
+msgid "Choose color for side navigation of front page."
+msgstr ""
+
+#: includes/theme-functions.php:5717 includes/theme-functions.php:5725
+msgid "Upload Custom Fonts"
+msgstr ""
+
+#: includes/theme-functions.php:5726
+msgid "This feature is only available in pro version."
+msgstr ""
+
+#: includes/theme-functions.php:5774
+msgid "Fonts"
+msgstr ""
+
+#: includes/theme-functions.php:5791
+msgid "Select Body Font Family"
+msgstr ""
+
+#: includes/theme-functions.php:5816
+msgid "Select Menu Font Family"
+msgstr ""
+
+#: includes/theme-functions.php:5840
+msgid "Select Headings Font Family"
+msgstr ""
+
+#: includes/theme-functions.php:5864
+msgid "Select Footer Headings Font Family"
+msgstr ""
+
+#: includes/theme-functions.php:5888
+msgid "Select Buttons Font Family"
+msgstr ""
+
+#: includes/theme-functions.php:5905 includes/theme-functions.php:5913
+msgid "Load Google Fonts"
+msgstr ""
+
+#: includes/theme-functions.php:5914
+msgid "For Example: Open+Sans:300,400,700|Yanone+Kaffeesatz"
+msgstr ""
+
+#: includes/theme-functions.php:5923
+msgid "Onetone: Export & Import"
+msgstr ""
+
+#: includes/theme-functions.php:5930 includes/theme-functions.php:5938
+msgid "Options Export"
+msgstr ""
+
+#: includes/theme-functions.php:5948 includes/theme-functions.php:5956
+msgid "Options Import"
+msgstr ""
+
+#: includes/theme-functions.php:5958
+msgid "Import"
+msgstr ""
+
+#: includes/theme-functions.php:6701
+msgid "Import successful."
+msgstr ""
+
+#: includes/theme-functions.php:6705
+msgid "Import failed."
+msgstr ""
+
+#: includes/theme-functions.php:6942
+msgid "Home"
+msgstr ""
+
+#: includes/theme-functions.php:6999
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: includes/theme-functions.php:7003
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: includes/theme-functions.php:7009
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: includes/theme-functions.php:7013
+msgid "Not Found"
+msgstr ""
+
+#: includes/theme-functions.php:7018
+#, php-format
+msgid "( Page %s )"
+msgstr ""
+
+#: includes/theme-functions.php:7032
+msgid "Arial"
+msgstr ""
+
+#: includes/theme-functions.php:7033
+msgid "Cambria"
+msgstr ""
+
+#: includes/theme-functions.php:7034
+msgid "Calibri"
+msgstr ""
+
+#: includes/theme-functions.php:7035
+msgid "Copse"
+msgstr ""
+
+#: includes/theme-functions.php:7036
+msgid "Garamond"
+msgstr ""
+
+#: includes/theme-functions.php:7037
+msgid "Georgia"
+msgstr ""
+
+#: includes/theme-functions.php:7038
+msgid "Helvetica Neue"
+msgstr ""
+
+#: includes/theme-functions.php:7039
+msgid "Tahoma"
+msgstr ""
+
+#: includes/theme-functions.php:7040
+msgid "Lustria"
+msgstr ""
+
+#: includes/theme-functions.php:7066
+msgid "Archives"
+msgstr ""
+
+#: includes/theme-functions.php:7077
+msgid "Meta"
+msgstr ""
+
+#: includes/theme-setup.php:45
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/theme-setup.php:46
+msgid "Home Page Header Menu"
+msgstr ""
+
+#: includes/theme-setup.php:47
+msgid "Top Bar Menu"
+msgstr ""
+
+#: includes/theme-setup.php:48
+msgid "Custom Menu 1"
+msgstr ""
+
+#: includes/theme-setup.php:49
+msgid "Custom Menu 2"
+msgstr ""
+
+#: includes/theme-setup.php:50
+msgid "Custom Menu 3"
+msgstr ""
+
+#: includes/theme-setup.php:51
+msgid "Custom Menu 4"
+msgstr ""
+
+#: includes/theme-setup.php:52
+msgid "Custom Menu 5"
+msgstr ""
+
+#: includes/theme-setup.php:53
+msgid "Custom Menu 6"
+msgstr ""
+
+#: includes/theme-setup.php:1909
+msgid "Please fill out all required fields."
+msgstr ""
+
+#: includes/theme-setup.php:1963
+msgid "Are you sure you want to do this?"
+msgstr ""
+
+#: includes/theme-setup.php:1965
+msgid "Please select a section template."
+msgstr ""
+
+#: includes/theme-setup.php:1966
+msgid "Are you sure you want to delete this section?"
+msgstr ""
+
+#: includes/theme-setup.php:1989
+msgid "Updating"
+msgstr ""
+
+#: includes/theme-setup.php:1990
+msgid "Complete"
+msgstr ""
+
+#: includes/theme-setup.php:1991
+msgid "Error"
+msgstr ""
+
+#: includes/theme-setup.php:1992
+msgid "Restore Defaults"
+msgstr ""
+
+#: includes/theme-setup.php:1993
+msgid "Click OK to reset. Any onetone options will be restored!"
+msgstr ""
+
+#: includes/theme-setup.php:1994
+msgid "Click OK to import. Any onetone options will be overwritten!"
+msgstr ""
+
+#: includes/theme-setup.php:2009
+msgid "This section only works when the Onetone custom front page is ready."
+msgstr ""
+
+#: includes/theme-setup.php:2010
+msgid "Setup Onetone Front Page"
+msgstr ""
+
+#: includes/theme-setup.php:2031
+msgid "Untitled"
+msgstr ""
+
+#: includes/theme-widget.php:11
+msgid "Displayed Everywhere"
+msgstr ""
+
+#: includes/theme-widget.php:27
+msgid "Footer Area One"
+msgstr ""
+
+#: includes/theme-widget.php:28
+msgid "Footer Area Two"
+msgstr ""
+
+#: includes/theme-widget.php:29
+msgid "Footer Area Three"
+msgstr ""
+
+#: includes/theme-widget.php:30
+msgid "Footer Area Four"
+msgstr ""
+
+#: lib/customizer-controls/editor/editor-page.php:15
+msgid "Save and close"
+msgstr ""
+
+#: page.php:104
+msgid "Pages:"
+msgstr ""
+
+#: single-magee_portfolio.php:104 single-portfolio.php:98
+msgid "Tags"
+msgstr ""
+
+#: single-magee_portfolio.php:133 single-portfolio.php:127
+msgid "Related Portfolios"
+msgstr ""
+
+#: woocommerce/config.php:195
+msgid "View your shopping cart"
+msgstr ""
+
+#: woocommerce/config.php:380
+msgid "You have not viewed any product yet!"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:45
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:56
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:56
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""

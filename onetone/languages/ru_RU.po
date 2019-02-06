@@ -1,0 +1,3341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Onetone v1.9.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-11-12 08:32:40+0000\n"
+"Last-Translator: ksv <StasVK@protonmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/includes/class-options-framework-admin.php:91
+#: admin/includes/class-options-framework-admin.php:92
+#@ onetone
+msgid "Theme Options"
+msgstr "Опции Темы"
+
+#: admin/includes/class-options-framework-admin.php:203
+#@ onetone
+msgid "Save Options"
+msgstr "Сохранить параметры"
+
+#: admin/includes/class-options-framework-admin.php:204
+#@ onetone
+msgid "Restore Defaults"
+msgstr "Восстановить значения по умолчанию"
+
+#: admin/includes/class-options-framework-admin.php:204
+#@ onetone
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Нажмите кнопку OK для сброса. Любые настройки темы будут потеряны!"
+
+#: admin/includes/class-options-framework-admin.php:235
+#@ onetone
+msgid "Default options restored."
+msgstr "Параметры по умолчанию восстановлены."
+
+#: admin/includes/class-options-framework-admin.php:291
+#@ onetone
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: admin/includes/class-options-interface.php:132
+#@ onetone
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/includes/class-options-media-uploader.php:62
+#@ onetone
+msgid "No file chosen"
+msgstr "Файл не выбран"
+
+#: admin/includes/class-options-media-uploader.php:65
+#: admin/includes/class-options-media-uploader.php:118
+#@ onetone
+msgid "Upload"
+msgstr "Загрузить"
+
+#: admin/includes/class-options-media-uploader.php:67
+#: admin/includes/class-options-media-uploader.php:119
+#@ onetone
+msgid "Remove"
+msgstr "Удалить"
+
+#: admin/includes/class-options-media-uploader.php:70
+#@ onetone
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Обновите версию WordPress для полной медиа поддержки."
+
+#: admin/includes/class-options-media-uploader.php:94
+#@ onetone
+msgid "View File"
+msgstr "Посмотреть файл"
+
+#: admin/includes/class-options-sanitization.php:320
+#@ onetone
+msgid "No Repeat"
+msgstr "Не будет повторяться"
+
+#: admin/includes/class-options-sanitization.php:321
+#@ onetone
+msgid "Repeat Horizontally"
+msgstr "Повторить Горизонтально"
+
+#: admin/includes/class-options-sanitization.php:322
+#@ onetone
+msgid "Repeat Vertically"
+msgstr "Повторить Вертикально"
+
+#: admin/includes/class-options-sanitization.php:323
+#@ onetone
+msgid "Repeat All"
+msgstr "Повторить все"
+
+#: admin/includes/class-options-sanitization.php:335
+#@ onetone
+msgid "Top Left"
+msgstr "Верхний левый"
+
+#: admin/includes/class-options-sanitization.php:336
+#@ onetone
+msgid "Top Center"
+msgstr "Верхний центральный"
+
+#: admin/includes/class-options-sanitization.php:337
+#@ onetone
+msgid "Top Right"
+msgstr "В правом верхнем углу"
+
+#: admin/includes/class-options-sanitization.php:338
+#@ onetone
+msgid "Middle Left"
+msgstr "Средний левый"
+
+#: admin/includes/class-options-sanitization.php:339
+#@ onetone
+msgid "Middle Center"
+msgstr "Средний Центральный"
+
+#: admin/includes/class-options-sanitization.php:340
+#@ onetone
+msgid "Middle Right"
+msgstr "Средний справа"
+
+#: admin/includes/class-options-sanitization.php:341
+#@ onetone
+msgid "Bottom Left"
+msgstr "Нижняя левая"
+
+#: admin/includes/class-options-sanitization.php:342
+#@ onetone
+msgid "Bottom Center"
+msgstr "Низ Центр"
+
+#: admin/includes/class-options-sanitization.php:343
+#@ onetone
+msgid "Bottom Right"
+msgstr "Внизу справа"
+
+#: admin/includes/class-options-sanitization.php:355
+#@ onetone
+msgid "Scroll Normally"
+msgstr "Прокрутка обычная"
+
+#: admin/includes/class-options-sanitization.php:356
+#@ onetone
+msgid "Fixed in Place"
+msgstr "Зафиксировать, в установленный на месте"
+
+#: admin/includes/class-options-sanitization.php:428
+#@ onetone
+msgid "Normal"
+msgstr "Нормальный"
+
+#: admin/includes/class-options-sanitization.php:429
+#@ onetone
+msgid "Italic"
+msgstr "курсив"
+
+#: admin/includes/class-options-sanitization.php:430
+#@ onetone
+msgid "Bold"
+msgstr "Жирный"
+
+#: admin/includes/class-options-sanitization.php:431
+#@ onetone
+msgid "Bold Italic"
+msgstr "Жирный курсив"
+
+#: comments.php:4
+#@ onetone
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Эта запись защищена паролем. Введите пароль, чтобы увидеть комментарии."
+
+#: comments.php:11
+#@ onetone
+msgid "No comment"
+msgstr "Без комментариев"
+
+#: comments.php:11
+#@ onetone
+msgid "Has one comment"
+msgstr "Имеет один комментарий"
+
+#: comments.php:11
+#: content-article.php:26
+#: content.php:30
+#: single.php:54
+#@ onetone
+msgid "% comments"
+msgstr ""
+
+#: comments.php:11
+#, php-format
+#@ onetone
+msgid "to &#8220;%s&#8221;"
+msgstr ""
+
+#: comments.php:12
+#@ onetone
+msgid "You can "
+msgstr "Вы можете"
+
+#: comments.php:12
+#@ onetone
+msgid "leave a reply"
+msgstr "оставьте ответ"
+
+#: comments.php:12
+#@ onetone
+msgid " or "
+msgstr "или"
+
+#: comments.php:12
+#@ onetone
+msgid "Trackback"
+msgstr ""
+
+#: comments.php:12
+#@ onetone
+msgid "this post."
+msgstr "эта почта."
+
+#: comments.php:24
+#@ onetone
+msgid "Comment pages"
+msgstr "Страницы комментариев"
+
+#: comments.php:54
+#, php-format
+#@ onetone
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вы должны <a href=\"%s\">войти в систему</a>, чтобы оставить комментарий."
+
+#: comments.php:65
+#@ onetone
+msgid "Your email address will not be published."
+msgstr "Ваш электронный адрес не будет опубликован."
+
+#: comments.php:68
+#@ onetone
+msgid "Leave a Reply"
+msgstr "оставьте ответ"
+
+#: comments.php:73
+#: home-sections/section-9.php:63
+#@ onetone
+msgid "Message"
+msgstr "Сообщение"
+
+#: comments.php:77
+#: home-sections/section-9.php:61
+#@ onetone
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:81
+#: home-sections/section-9.php:62
+#@ onetone
+msgid "Email"
+msgstr "Эл. адрес"
+
+#: comments.php:85
+#@ onetone
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: content-article.php:26
+#: content.php:30
+#: single.php:54
+#@ onetone
+msgid "No comments yet"
+msgstr "Пока без коментариев"
+
+#: content-article.php:26
+#: content.php:30
+#: single.php:54
+#@ onetone
+msgid "1 comment"
+msgstr "1 Комментарий"
+
+#: content-article.php:33
+#: content.php:44
+#@ onetone
+msgid "Read More"
+msgstr "Прочитайте больше"
+
+#: content-none.php:13
+#@ onetone
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: content-none.php:19
+#, php-format
+#@ onetone
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готов опубликовать свой первый пост? <a href=\"%1$s\">Начало здесь</a>."
+
+#: content-none.php:23
+#@ onetone
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не соответствуют условия поиска. Пожалуйста, попытайтесь снова с другими ключевыми словами."
+
+#: content-none.php:28
+#@ onetone
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: footer.php:35
+#, php-format
+#@ onetone
+msgid "Designed by <a href=\"%s\">MageeWP Themes</a>."
+msgstr "Разработанный <a href=\"%s\">KSV</a>."
+
+#: footer.php:37
+#@ onetone
+msgid "Designed by MageeWP Themes."
+msgstr "Дизайн KSV."
+
+#: functions.php:94
+#@ onetone
+msgid "Magee Shortcodes"
+msgstr ""
+
+#: functions.php:126
+#: includes/class-tgm-plugin-activation.php:301
+#@ onetone
+msgid "Install Required Plugins"
+msgstr "Необходима установка дополнительных плагинов"
+
+#: functions.php:127
+#: includes/class-tgm-plugin-activation.php:302
+#@ onetone
+msgid "Install Plugins"
+msgstr "Установка плагинов"
+
+#: functions.php:128
+#: includes/class-tgm-plugin-activation.php:303
+#, php-format
+#@ onetone
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина:% s"
+
+#: functions.php:129
+#: includes/class-tgm-plugin-activation.php:304
+#@ onetone
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с плагином API."
+
+#: functions.php:130
+#, php-format
+#@ onetone
+msgid "This theme requires the following plugin: %1$s.<br/><span style=\"color:red;\">NOTICE:</span> Onetone includes all shortcodes inside the Magee Shortcodes plugin. As to best user experience, please activate it now."
+msgid_plural "This theme requires the following plugins: %1$s.<br/><span style=\"color:red;\">NOTICE:</span> Onetone includes all shortcodes inside the Magee Shortcodes plugin. As to best user experience, please activate it now."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:131
+#: includes/class-tgm-plugin-activation.php:311
+#, php-format
+#@ onetone
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:132
+#, php-format
+#@ onetone
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:133
+#, php-format
+#@ onetone
+msgid "The following required plugin is currently inactive: %1$s.<br/><span style=\"color:red;\">NOTICE:</span> Onetone includes all shortcodes inside the Magee Shortcodes plugin. As to best user experience, please activate it now."
+msgid_plural "The following required plugins are currently inactive: %1$s.<br/><span style=\"color:red;\">NOTICE:</span> Onetone includes all shortcodes inside the Magee Shortcodes plugin. As to best user experience, please activate it now."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:134
+#: includes/class-tgm-plugin-activation.php:341
+#, php-format
+#@ onetone
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:135
+#, php-format
+#@ onetone
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:136
+#: includes/class-tgm-plugin-activation.php:321
+#, php-format
+#@ onetone
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:137
+#, php-format
+#@ onetone
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:138
+#: includes/class-tgm-plugin-activation.php:351
+#@ onetone
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:139
+#: includes/class-tgm-plugin-activation.php:361
+#@ onetone
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:140
+#: includes/class-tgm-plugin-activation.php:365
+#@ onetone
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться в требуемые подключаемые модули Installer"
+
+#: functions.php:141
+#: includes/class-tgm-plugin-activation.php:367
+#: includes/class-tgm-plugin-activation.php:2955
+#@ onetone
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: functions.php:142
+#, php-format
+#@ onetone
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины установлены и успешно активирован. %s"
+
+#: header-home.php:114
+#: header-home.php:200
+#: header.php:109
+#: header.php:146
+#@ onetone
+msgid "Toggle navigation"
+msgstr "Переключение навигации"
+
+#: includes/admin-options.php:55
+#@ onetone
+msgid "-- Default --"
+msgstr "-- По умолчанию --"
+
+#: includes/admin-options.php:94
+#: includes/admin-options.php:100
+#: includes/admin-options.php:107
+#: includes/metabox-options.php:208
+#: includes/metabox-options.php:216
+#@ onetone
+msgid "Yes"
+msgstr "Да"
+
+#: includes/admin-options.php:95
+#: includes/admin-options.php:101
+#: includes/admin-options.php:106
+#: includes/metabox-options.php:207
+#: includes/metabox-options.php:217
+#@ onetone
+msgid "No"
+msgstr "Нет"
+
+#: includes/admin-options.php:111
+#: includes/admin-options.php:597
+#: includes/metabox-options.php:164
+#@ onetone
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/admin-options.php:112
+#: includes/admin-options.php:1469
+#@ onetone
+msgid "left"
+msgstr "левый"
+
+#: includes/admin-options.php:113
+#: includes/admin-options.php:1471
+#@ onetone
+msgid "right"
+msgstr "правый"
+
+#: includes/admin-options.php:114
+#@ onetone
+msgid "center"
+msgstr "центр"
+
+#: includes/admin-options.php:118
+#@ onetone
+msgid "repeat"
+msgstr "повтор"
+
+#: includes/admin-options.php:119
+#@ onetone
+msgid "repeat-x"
+msgstr "Повторяю-х"
+
+#: includes/admin-options.php:120
+#@ onetone
+msgid "repeat-y"
+msgstr "Повторяю-y"
+
+#: includes/admin-options.php:121
+#@ onetone
+msgid "no-repeat"
+msgstr "нет повтора"
+
+#: includes/admin-options.php:126
+#@ onetone
+msgid "Blank"
+msgstr "пустой"
+
+#: includes/admin-options.php:127
+#@ onetone
+msgid "Self"
+msgstr "мне лично"
+
+#: includes/admin-options.php:132
+#@ onetone
+msgid "top left"
+msgstr "верхний левый"
+
+#: includes/admin-options.php:133
+#@ onetone
+msgid "top center"
+msgstr "верхний центральный"
+
+#: includes/admin-options.php:134
+#@ onetone
+msgid "top right"
+msgstr "верхний правый"
+
+#: includes/admin-options.php:135
+#@ onetone
+msgid "center left"
+msgstr "в центре слева"
+
+#: includes/admin-options.php:136
+#@ onetone
+msgid "center center"
+msgstr "центр в центре "
+
+#: includes/admin-options.php:137
+#@ onetone
+msgid "center right"
+msgstr "в центре справа"
+
+#: includes/admin-options.php:138
+#@ onetone
+msgid "bottom left"
+msgstr "внизу левая"
+
+#: includes/admin-options.php:139
+#@ onetone
+msgid "bottom center"
+msgstr "внизу центр"
+
+#: includes/admin-options.php:140
+#@ onetone
+msgid "bottom right"
+msgstr "внизу справа"
+
+#: includes/admin-options.php:266
+#@ onetone
+msgid "Section 1 - Banner"
+msgstr "Раздел 1 - Баннер"
+
+#: includes/admin-options.php:267
+#@ onetone
+msgid "Section 2 - Slogan"
+msgstr "Раздел 2 - Слоган"
+
+#: includes/admin-options.php:268
+#@ onetone
+msgid "Section 3 - Service"
+msgstr "Раздел 3 - Сервис"
+
+#: includes/admin-options.php:269
+#@ onetone
+msgid "Section 4 - Gallery"
+msgstr "Раздел 4 - Галерея"
+
+#: includes/admin-options.php:270
+#@ onetone
+msgid "Section 5 - Team"
+msgstr "Раздел 5 - Команда"
+
+#: includes/admin-options.php:271
+#@ onetone
+msgid "Section 6 - About"
+msgstr "Раздел 6 - О компании"
+
+#: includes/admin-options.php:272
+#@ onetone
+msgid "Section 7 - Custom"
+msgstr "Раздел 7 - Пользовательские"
+
+#: includes/admin-options.php:273
+#@ onetone
+msgid "Section 8 - Testimonial"
+msgstr "Раздел 8 - Рекомендации"
+
+#: includes/admin-options.php:274
+#@ onetone
+msgid "Section 9 - Contact"
+msgstr "Раздел 9 - Контактная информация"
+
+#: includes/admin-options.php:275
+#: includes/admin-options.php:276
+#: includes/admin-options.php:277
+#: includes/admin-options.php:278
+#: includes/admin-options.php:279
+#: includes/admin-options.php:280
+#, php-format
+#@ onetone
+msgid "Section %s"
+msgstr "Раздел %s"
+
+#: includes/admin-options.php:292
+#@ onetone
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: includes/admin-options.php:300
+#@ onetone
+msgid "Home Page Header Overlay"
+msgstr "Домашняя страница Заголовок наложения"
+
+#: includes/admin-options.php:301
+#@ onetone
+msgid "Choose to set header in home page as overlay style"
+msgstr "Выберите, чтобы установить заголовок на домашней странице в качестве наложения стиля"
+
+#: includes/admin-options.php:320
+#@ onetone
+msgid "YouTube Video Background Options"
+msgstr "YouTube видео Настройки фона"
+
+#: includes/admin-options.php:329
+#@ onetone
+msgid "YouTube ID for Video Background"
+msgstr "YouTube ID для Видео-Фона"
+
+#: includes/admin-options.php:329
+#@ onetone
+msgid "Insert the eleven-letter id here, not url."
+msgstr "Вставьте одиннадцать букв идентификатор здесь, а не URL."
+
+#: includes/admin-options.php:332
+#@ onetone
+msgid "Start Time"
+msgstr "Время начала"
+
+#: includes/admin-options.php:332
+#@ onetone
+msgid "Choose time to start to play, in seconds."
+msgstr "Выберите время, чтобы начать воспроизведение"
+
+#: includes/admin-options.php:336
+#@ onetone
+msgid "Display Video Controls"
+msgstr "Дисплей управления видео"
+
+#: includes/admin-options.php:337
+#@ onetone
+msgid "Choose to display video controls at bottom of the section with video background."
+msgstr "Выберите, чтобы отобразить элементы управления видео в нижней части раздела с видео фоном."
+
+#: includes/admin-options.php:345
+#@ onetone
+msgid "Mute"
+msgstr "Без звука"
+
+#: includes/admin-options.php:346
+#@ onetone
+msgid "Choose to set the video mute."
+msgstr "Выберите, чтобы установить видео без звука."
+
+#: includes/admin-options.php:354
+#@ onetone
+msgid "AutoPlay"
+msgstr "Автовоспроизведение"
+
+#: includes/admin-options.php:355
+#@ onetone
+msgid "Choose to set the video autoplay."
+msgstr "Выберите, чтобы установить автозапуск видео."
+
+#: includes/admin-options.php:363
+#@ onetone
+msgid "Loop"
+msgstr "Петля (повтор)"
+
+#: includes/admin-options.php:364
+#@ onetone
+msgid "Choose to set the video loop."
+msgstr "Выберите, чтобы установить видео петлю(повтор)."
+
+#: includes/admin-options.php:372
+#@ onetone
+msgid "Background Type"
+msgstr "Тип фона"
+
+#: includes/admin-options.php:373
+#@ onetone
+msgid "Choose to set the video as background of the whole site or just one section."
+msgstr "Выберите, чтобы установить видео в качестве фона всего сайта или только один раздел."
+
+#: includes/admin-options.php:377
+#@ onetone
+msgid "Body Background"
+msgstr "Основной фон"
+
+#: includes/admin-options.php:377
+#: includes/admin-options.php:524
+#@ onetone
+msgid "Section Background"
+msgstr "Раздел Фона"
+
+#: includes/admin-options.php:384
+#@ onetone
+msgid "No video background"
+msgstr "Без видео фона"
+
+#: includes/admin-options.php:388
+#@ onetone
+msgid "Video Background Section"
+msgstr "Раздел для фонового видео"
+
+#: includes/admin-options.php:389
+#@ onetone
+msgid "Choose a section to set the video as background for."
+msgstr "Выберите раздел для установки видео в качестве фона."
+
+#: includes/admin-options.php:393
+#@ onetone
+msgid "Display slider instead in section 1"
+msgstr "Слайдер дисплей вместо этого в разделе 1"
+
+#: includes/admin-options.php:397
+#@ onetone
+msgid "Content"
+msgstr "Содержание"
+
+#: includes/admin-options.php:397
+#: includes/admin-options.php:2468
+#@ onetone
+msgid "Slider"
+msgstr "Слайдер"
+
+#: includes/admin-options.php:398
+#@ onetone
+msgid "Choose to display default slider instead of section contents here."
+msgstr "Выберите, чтобы отобразить слайдер по умолчанию вместо содержимого раздела здесь."
+
+#: includes/admin-options.php:401
+#@ onetone
+msgid "Enable Animation"
+msgstr "Включить анимацию"
+
+#: includes/admin-options.php:401
+#@ onetone
+msgid "Enable animation for default section content. You need to activate Magee Shortcodes plugin to apply animation effects."
+msgstr "Включить анимацию для содержания раздела по умолчанию. Вам нужно активировать плагин Magee Shortcodes  применять эффекты анимации."
+
+#: includes/admin-options.php:414
+#@ onetone
+msgid "Sections Order"
+msgstr "порядок разделов"
+
+#: includes/admin-options.php:426
+#, php-format
+#@ onetone
+msgid "<span style=\"padding-left:20px;\">Get the <a href=\"%s\" target=\"_blank\">Pro version</a> of Onetone to acquire this feature.</span>"
+msgstr "<span style=\"padding-left:20px;\">Get the <a href=\"%s\" target=\"_blank\">Pro версию</a> из Onetone приобрести эту функцию.</span>"
+
+#: includes/admin-options.php:488
+#@ onetone
+msgid "Hide Section"
+msgstr "Скрыть раздел"
+
+#: includes/admin-options.php:493
+#@ onetone
+msgid "Hide this section on front page."
+msgstr "Скрыть этот раздел на первой странице."
+
+#: includes/admin-options.php:497
+#@ onetone
+msgid "Section Title"
+msgstr "Название раздела"
+
+#: includes/admin-options.php:502
+#@ onetone
+msgid "Insert title for this section. It would appear at the top of the section."
+msgstr "Вставьте название для этого раздела. Что бы оказалось, в верхней части секции."
+
+#: includes/admin-options.php:507
+#@ onetone
+msgid "Menu Title"
+msgstr "Меню Название"
+
+#: includes/admin-options.php:511
+#@ onetone
+msgid "Insert menu title for this section. This title would appear in the header menu. If leave it as blank, the link of this section would not be displayed in header menu."
+msgstr "Вставьте заголовок меню для этого раздела. Это название будет отображаться в меню заголовка. Если оставить это как пустое, ссылка в этом разделе не будет отображаться в меню заголовка."
+
+#: includes/admin-options.php:515
+#@ onetone
+msgid "Menu Slug"
+msgstr "Menu Slug-краткое имя для ссылки на это меню"
+
+#: includes/admin-options.php:519
+#@ onetone
+msgid "Attention! The \"slug\" is the URL-friendly version of menu title. It is usually all lowercase and contains only letters, numbers, and hyphens. If the menu title contains non-eng characters or spaces, you need to fill this form."
+msgstr "Внимание! \"slug\" является URL-дружественное наименование заголовка меню. Это, как правило, все в нижнем регистре и содержит только буквы, цифры и дефис. Если заголовок меню содержит символы, не анг или пробелы, вам нужно заполнить эту форму."
+
+#: includes/admin-options.php:529
+#@ onetone
+msgid "Set background color & background image for this section"
+msgstr "Установить цвет фона и фоновое изображение для этого раздела"
+
+#: includes/admin-options.php:533
+#@ onetone
+msgid "Parallax Scrolling Background Image"
+msgstr "Parallax Scrolling фоновое изображение"
+
+#: includes/admin-options.php:539
+#@ onetone
+msgid "Choose to apply parallax scrolling effect for background image"
+msgstr "Выберите, чтобы применить эффект параллакса прокрутки для фонового изображения"
+
+#: includes/admin-options.php:544
+#@ onetone
+msgid "Section Css Class"
+msgstr "Раздел Css Класс"
+
+#: includes/admin-options.php:549
+#@ onetone
+msgid "Set an aditional css class of this section"
+msgstr "Установить дополнительный класс CSS этого раздела"
+
+#: includes/admin-options.php:552
+#@ onetone
+msgid "Section Padding"
+msgstr "Создать отступы вокруг содержимого"
+
+#: includes/admin-options.php:557
+#@ onetone
+msgid "Set padding for this section. In pixels (px), eg: 10px 20px 30px 0. These four numbers represent padding top/right/bottom/left"
+msgstr "Установить отступы вокруг содержимого для этого раздела. В пикселях (px), например: 10px 20px 30px 0. Эти четыре цифры представляют собой отступа сверху / справа / снизу / влево"
+
+#: includes/admin-options.php:561
+#@ onetone
+msgid "Text Align"
+msgstr "Горизонтальное выравнивание текста"
+
+#: includes/admin-options.php:567
+#@ onetone
+msgid "Set content align for this section"
+msgstr "Установка выравнивания содержимого для этого раздела"
+
+#: includes/admin-options.php:572
+#@ onetone
+msgid "Section Title Typography"
+msgstr "Название раздела Typography"
+
+#: includes/admin-options.php:581
+#@ onetone
+msgid "Section Content Typography"
+msgstr "Раздел Содержание Typography"
+
+#: includes/admin-options.php:591
+#@ onetone
+msgid "Section Content Model"
+msgstr "Модель Раздела Содержимое"
+
+#: includes/admin-options.php:596
+#@ onetone
+msgid "Default: fixed layout, no code knowledge needed; Custom: non-fixed layout, user can use html and shortcode to get more complex structure"
+msgstr "По умолчанию фиксированный макет без знания кода, если необходимо пользователю получить более сложную структуру, пользователь может использовать HTML и шоркод."
+
+#: includes/admin-options.php:597
+#@ onetone
+msgid "Custom"
+msgstr "пользовательские"
+
+#: includes/admin-options.php:605
+#@ onetone
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: includes/admin-options.php:606
+#@ onetone
+msgid "Set font color for the content of this section"
+msgstr "Установите цвет шрифта для содержания этого раздела"
+
+#: includes/admin-options.php:614
+#@ onetone
+msgid "Section Subtitle"
+msgstr "Раздел субтитров"
+
+#: includes/admin-options.php:619
+#@ onetone
+msgid "Insert sub-title for this section. It would appear at the bottom of the section title"
+msgstr "Вставьте подзаголовок для этого раздела. Что бы оказалось, в нижней части заголовка раздела"
+
+#: includes/admin-options.php:626
+#@ onetone
+msgid "Icon"
+msgstr "Иконка"
+
+#: includes/admin-options.php:629
+#@ onetone
+msgid "The image will display above the section title."
+msgstr "Изображение будет отображаться над заголовком раздела."
+
+#: includes/admin-options.php:635
+#: includes/admin-options.php:687
+#: includes/admin-options.php:1041
+#@ onetone
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: includes/admin-options.php:639
+#: includes/admin-options.php:690
+#: includes/admin-options.php:1044
+#@ onetone
+msgid "Insert text for the button"
+msgstr "Вставить текст для кнопки"
+
+#: includes/admin-options.php:643
+#: includes/admin-options.php:695
+#@ onetone
+msgid "Button Link"
+msgstr "  Кнопка ссылка\n"
+
+#: includes/admin-options.php:646
+#: includes/admin-options.php:698
+#@ onetone
+msgid "Insert link for the button, begin with http:// or https://"
+msgstr "Вставить ссылку на эту кнопку, начните с http:// or https://"
+
+#: includes/admin-options.php:651
+#: includes/admin-options.php:703
+#@ onetone
+msgid "Button Target"
+msgstr "Кнопка Target"
+
+#: includes/admin-options.php:654
+#: includes/admin-options.php:706
+#: includes/admin-options.php:765
+#: includes/admin-options.php:819
+#@ onetone
+msgid "Self: open in the same window; blank: open in a new window"
+msgstr "Self: откроется в том же окне;  blank: откроется в новом окне"
+
+#: includes/admin-options.php:664
+#: includes/admin-options.php:1426
+#: includes/admin-options.php:2794
+#@ onetone
+msgid "Social Icon"
+msgstr "Социальная Иконка"
+
+#: includes/admin-options.php:669
+#: includes/admin-options.php:732
+#@ onetone
+msgid "Insert Fontawsome icon code"
+msgstr "Вставить код иконки Fontawsome"
+
+#: includes/admin-options.php:672
+#: includes/admin-options.php:1436
+#: includes/admin-options.php:2804
+#@ onetone
+msgid "Social Icon Link"
+msgstr "Ссылка на социальную иконку"
+
+#: includes/admin-options.php:677
+#: includes/admin-options.php:912
+#@ onetone
+msgid "Insert link for the icon"
+msgstr "Вставить ссылку на иконку"
+
+#: includes/admin-options.php:713
+#@ onetone
+msgid "Description"
+msgstr "Описание"
+
+#: includes/admin-options.php:716
+#: includes/admin-options.php:775
+#@ onetone
+msgid "Insert content for the banner, html tags allowed"
+msgstr "Вставить содержимое для баннера, HTML-теги разрешены"
+
+#: includes/admin-options.php:729
+#, php-format
+#@ onetone
+msgid "Service Icon %d"
+msgstr "Сервис Иконка %d"
+
+#: includes/admin-options.php:737
+#, php-format
+#@ onetone
+msgid "Service Image %d"
+msgstr "Сервис Изображение %d"
+
+#: includes/admin-options.php:740
+#@ onetone
+msgid "Or choose to upload icon image"
+msgstr "Или выбрать, чтобы загрузить изображение значка"
+
+#: includes/admin-options.php:745
+#, php-format
+#@ onetone
+msgid "Service Title %d"
+msgstr "Название сервиса"
+
+#: includes/admin-options.php:748
+#@ onetone
+msgid "Set title for service item"
+msgstr "Установить название для пункта обслуживания"
+
+#: includes/admin-options.php:753
+#, php-format
+#@ onetone
+msgid "Title Link %d"
+msgstr "Ссылка на название %d"
+
+#: includes/admin-options.php:756
+#@ onetone
+msgid "Insert link for service item"
+msgstr "Вставьте ссылку на пункт обслуживания"
+
+#: includes/admin-options.php:762
+#: includes/admin-options.php:816
+#, php-format
+#@ onetone
+msgid "Link Target %d"
+msgstr "Target ссылка %d"
+
+#: includes/admin-options.php:772
+#, php-format
+#@ onetone
+msgid "Service Description %d"
+msgstr "Описание услуг %d"
+
+#: includes/admin-options.php:798
+#, php-format
+#@ onetone
+msgid "Image %d"
+msgstr "Изображение %d"
+
+#: includes/admin-options.php:801
+#@ onetone
+msgid "Choose to upload image for gallery item"
+msgstr "Выберите пункт, чтобы загрузить изображение для галереи"
+
+#: includes/admin-options.php:807
+#: includes/admin-options.php:865
+#, php-format
+#@ onetone
+msgid "Link %d"
+msgstr "Ссылка %d"
+
+#: includes/admin-options.php:810
+#@ onetone
+msgid "Insert link for this item"
+msgstr "Вставить ссылку для этого элемента"
+
+#: includes/admin-options.php:845
+#: includes/admin-options.php:979
+#@ onetone
+msgid "Columns"
+msgstr "столбцы"
+
+#: includes/admin-options.php:846
+#@ onetone
+msgid "Set columns for team module"
+msgstr "Набор столбцов для модуля команды"
+
+#: includes/admin-options.php:856
+#: includes/admin-options.php:994
+#, php-format
+#@ onetone
+msgid "Avatar %d"
+msgstr "Аватар %d"
+
+#: includes/admin-options.php:859
+#@ onetone
+msgid "Choose to upload image for the person avatar"
+msgstr "Выберите, чтобы загрузить изображение для лица аватара"
+
+#: includes/admin-options.php:868
+#@ onetone
+msgid "Set link for the person"
+msgstr "Установить ссылку для человека"
+
+#: includes/admin-options.php:873
+#: includes/admin-options.php:1003
+#, php-format
+#@ onetone
+msgid "Name %d"
+msgstr "Имя %d"
+
+#: includes/admin-options.php:876
+#@ onetone
+msgid "Set name for the person"
+msgstr "Установить имя для человека"
+
+#: includes/admin-options.php:881
+#: includes/admin-options.php:1011
+#, php-format
+#@ onetone
+msgid "Byline %d"
+msgstr "Подпись %d"
+
+#: includes/admin-options.php:884
+#@ onetone
+msgid "Set byline for the person"
+msgstr "Установить подписи автора для человека"
+
+#: includes/admin-options.php:889
+#: includes/admin-options.php:1019
+#, php-format
+#@ onetone
+msgid "Description %d"
+msgstr "Описание %d"
+
+#: includes/admin-options.php:892
+#@ onetone
+msgid "Insert description for the person"
+msgstr "Включить описание для человека"
+
+#: includes/admin-options.php:901
+#, php-format
+#@ onetone
+msgid "Social Icon %d - %d"
+msgstr "Социальные Иконки %d - %d"
+
+#: includes/admin-options.php:905
+#@ onetone
+msgid "Choose social icon"
+msgstr "Выберите социальную иконку"
+
+#: includes/admin-options.php:910
+#, php-format
+#@ onetone
+msgid "Social Icon Link %d - %d"
+msgstr "Ссылка на социальную иконку %d - %d"
+
+#: includes/admin-options.php:926
+#: includes/admin-options.php:1329
+#@ onetone
+msgid "Left Content"
+msgstr "Содержание слева"
+
+#: includes/admin-options.php:931
+#@ onetone
+msgid "Insert content for the left column, html tags allowed"
+msgstr "Вставить содержимое для левой колонке, HTML-теги разрешены"
+
+#: includes/admin-options.php:936
+#: includes/admin-options.php:1346
+#@ onetone
+msgid "Right Content"
+msgstr "Содержание справа"
+
+#: includes/admin-options.php:954
+#@ onetone
+msgid "Insert content for the right column, html tags allowed"
+msgstr "Вставить содержимое для правой колонке, HTML-теги разрешены"
+
+#: includes/admin-options.php:982
+#@ onetone
+msgid "Set columns for testimonial module"
+msgstr "Установить столбцы для  модуля рекомендации"
+
+#: includes/admin-options.php:997
+#@ onetone
+msgid "Choose to upload image for the client avatar"
+msgstr "Выберите для загрузки изображения для клиента аватар"
+
+#: includes/admin-options.php:1006
+#@ onetone
+msgid "Insert name for the client"
+msgstr "Вставить имя для клиента"
+
+#: includes/admin-options.php:1014
+#@ onetone
+msgid "Insert byline for the client"
+msgstr "Вставьте подписи автора для клиента"
+
+#: includes/admin-options.php:1022
+#@ onetone
+msgid "Insert description for the client"
+msgstr "Вставьте описание для клиента"
+
+#: includes/admin-options.php:1032
+#@ onetone
+msgid "Your E-mail"
+msgstr "Ваш адрес электронной почты"
+
+#: includes/admin-options.php:1035
+#@ onetone
+msgid "Set email address to receive mails from contact form"
+msgstr "Установить адрес электронной почты, чтобы получать почту от контактной формы"
+
+#: includes/admin-options.php:1053
+#@ onetone
+msgid "Section Content"
+msgstr "Раздел Содержание"
+
+#: includes/admin-options.php:1080
+#@ onetone
+msgid "General Options"
+msgstr "Общие настройки"
+
+#: includes/admin-options.php:1086
+#@ onetone
+msgid "Back to Top Button"
+msgstr "Кнопка \\\"Наверх\\\""
+
+#: includes/admin-options.php:1089
+#@ onetone
+msgid "Choose to display back to top button"
+msgstr "Выберите Показать Кнопку \\\"Наверх\\\""
+
+#: includes/admin-options.php:1092
+#@ onetone
+msgid "Show"
+msgstr "шоу, демонстрация, показ"
+
+#: includes/admin-options.php:1092
+#@ onetone
+msgid "Hide"
+msgstr "Спрятать"
+
+#: includes/admin-options.php:1097
+#@ onetone
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: includes/admin-options.php:1098
+#@ onetone
+msgid "The following css code will add to the header before the closing &lt;/head&gt; tag."
+msgstr "Следующий код CSS будет добавлять в заголовок перед закрытием &lt;/head&gt; tag."
+
+#: includes/admin-options.php:1105
+#@ onetone
+msgid "Tracking"
+msgstr "отслеживание"
+
+#: includes/admin-options.php:1117
+#@ onetone
+msgid "Tracking Code"
+msgstr "Код отслеживания"
+
+#: includes/admin-options.php:1118
+#@ onetone
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the header template of your theme. Please put code inside script tags."
+msgstr "Вставить ваш Google Analytics (или другой) код отслеживания здесь. Это будет добавлено в шаблон заголовка вашей темы. Пожалуйста, поставьте код внутри тегов сценария"
+
+#: includes/admin-options.php:1128
+#@ onetone
+msgid "Space before &lt;/head&gt;"
+msgstr "Пространство перед тем &lt;/head&gt;"
+
+#: includes/admin-options.php:1129
+#@ onetone
+msgid "Add code before the head tag."
+msgstr "Добавьте код перед головным тегом."
+
+#: includes/admin-options.php:1140
+#@ onetone
+msgid "Space before &lt;/body&gt;"
+msgstr "Пространство перед тем &lt;/body&gt; "
+
+#: includes/admin-options.php:1141
+#@ onetone
+msgid "Add code before the body tag."
+msgstr "Добавьте код перед основным тегом."
+
+#: includes/admin-options.php:1155
+#@ onetone
+msgid "Header"
+msgstr "Заголовок"
+
+#: includes/admin-options.php:1163
+#@ onetone
+msgid "Header Options"
+msgstr "Параметры заголовка"
+
+#: includes/admin-options.php:1176
+#@ onetone
+msgid "Full Width Header"
+msgstr "Полная ширина заголовка"
+
+#: includes/admin-options.php:1177
+#@ onetone
+msgid "Enable header full width."
+msgstr "Включить заголовок полную ширину."
+
+#: includes/admin-options.php:1188
+#@ onetone
+msgid "Nav Hover Effect"
+msgstr "Nav Hover Эффект"
+
+#: includes/admin-options.php:1210
+#@ onetone
+msgid "Header Background"
+msgstr "Фон заголовка"
+
+#: includes/admin-options.php:1222
+#@ onetone
+msgid "Header Background Image"
+msgstr "Фоновое изображение заголовка"
+
+#: includes/admin-options.php:1223
+#@ onetone
+msgid "Background Image For Header Area"
+msgstr "Фоновое изображение для площади заголовка"
+
+#: includes/admin-options.php:1233
+#: includes/admin-options.php:2700
+#@ onetone
+msgid "100% Background Image"
+msgstr "100% фоновое изображение"
+
+#: includes/admin-options.php:1234
+#@ onetone
+msgid "Turn on to have the header background image display at 100% in width and height and scale according to the browser size."
+msgstr "Включите, чтобы иметь заголовок фонового отображения изображения на 100% по ширине и высоте, и масштабировать в соответствии с размером браузера."
+
+#: includes/admin-options.php:1244
+#: includes/admin-options.php:2711
+#@ onetone
+msgid "Parallax Background Image"
+msgstr "Параллакс фоновое изображение"
+
+#: includes/admin-options.php:1245
+#@ onetone
+msgid "Turn on to enable parallax scrolling on the background image for header top positions."
+msgstr "Включите, чтобы включить параллакс прокрутки на фоновое изображение для верхней позиции заголовка."
+
+#: includes/admin-options.php:1256
+#: includes/admin-options.php:2722
+#@ onetone
+msgid "Background Repeat"
+msgstr "Фон Повтор"
+
+#: includes/admin-options.php:1257
+#@ onetone
+msgid "Select how the background image repeats."
+msgstr "Выберите, как фоновое изображение повторяется."
+
+#: includes/admin-options.php:1267
+#@ onetone
+msgid "Header Top Padding"
+msgstr "Заголовок отступ сверху"
+
+#: includes/admin-options.php:1268
+#: includes/admin-options.php:1279
+#: includes/admin-options.php:1945
+#: includes/admin-options.php:1956
+#: includes/admin-options.php:2745
+#: includes/admin-options.php:2756
+#@ onetone
+msgid "In pixels or percentage, ex: 10px or 10%."
+msgstr "В пикселях или в процентах, например: 10px или 10%."
+
+#: includes/admin-options.php:1278
+#@ onetone
+msgid "Header Bottom Padding"
+msgstr "Заголовок отступ снизу"
+
+#: includes/admin-options.php:1294
+#@ onetone
+msgid "Top Bar Options"
+msgstr "Основные параметры Бара"
+
+#: includes/admin-options.php:1307
+#@ onetone
+msgid "Display Top Bar"
+msgstr "Дисплей Верхней Панели"
+
+#: includes/admin-options.php:1308
+#@ onetone
+msgid "Choose to display top bar above the header"
+msgstr "Выберите, чтобы отобразить верхнюю панель над головой"
+
+#: includes/admin-options.php:1318
+#@ onetone
+msgid "Background Color"
+msgstr "Фоновый цвет"
+
+#: includes/admin-options.php:1319
+#@ onetone
+msgid "Set background color for top bar"
+msgstr "Установить цвет фона для верхней панели"
+
+#: includes/admin-options.php:1330
+#@ onetone
+msgid "Choose content in left side"
+msgstr "Выберите содержание в левой части"
+
+#: includes/admin-options.php:1337
+#: includes/admin-options.php:1354
+#@ onetone
+msgid "info"
+msgstr "Информация"
+
+#: includes/admin-options.php:1338
+#: includes/admin-options.php:1356
+#@ onetone
+msgid "sns"
+msgstr "социальная сеть"
+
+#: includes/admin-options.php:1339
+#: includes/admin-options.php:1358
+#@ onetone
+msgid "menu"
+msgstr "меню"
+
+#: includes/admin-options.php:1340
+#: includes/admin-options.php:1360
+#@ onetone
+msgid "none"
+msgstr "никто"
+
+#: includes/admin-options.php:1347
+#@ onetone
+msgid "Choose content in right side"
+msgstr "Выберите содержимое в правой части"
+
+#: includes/admin-options.php:1368
+#@ onetone
+msgid "Info Color"
+msgstr "Информация Цвет"
+
+#: includes/admin-options.php:1369
+#@ onetone
+msgid "Set color for info in top bar"
+msgstr "Установить цвет для информации в верхней строке"
+
+#: includes/admin-options.php:1379
+#@ onetone
+msgid "Info Content"
+msgstr "Информация о содержании"
+
+#: includes/admin-options.php:1380
+#@ onetone
+msgid "Insert content for info in top bar"
+msgstr "Вставить содержимое для информации в верхней строке"
+
+#: includes/admin-options.php:1390
+#@ onetone
+msgid "Menu Color"
+msgstr "Цвет меню"
+
+#: includes/admin-options.php:1391
+#@ onetone
+msgid "Set color for menu in top bar"
+msgstr "Установить цвет для меню в верхней панели"
+
+#: includes/admin-options.php:1401
+#@ onetone
+msgid "Social Links"
+msgstr "Социальные ссылки"
+
+#: includes/admin-options.php:1416
+#: includes/admin-options.php:2784
+#@ onetone
+msgid "Social Title"
+msgstr "Социальный Название"
+
+#: includes/admin-options.php:1417
+#: includes/admin-options.php:2785
+#@ onetone
+msgid "Set title for social icon"
+msgstr "Установить название для социальной иконку"
+
+#: includes/admin-options.php:1427
+#@ onetone
+msgid "Choose FontAwesome Icon"
+msgstr "Выбор шрифта Высокий Icon"
+
+#: includes/admin-options.php:1437
+#: includes/admin-options.php:2805
+#@ onetone
+msgid "Set link for social icon"
+msgstr "Установить ссылку на социальную иконку"
+
+#: includes/admin-options.php:1452
+#@ onetone
+msgid "Social Icons Color"
+msgstr "Социальный Иконки Цвет"
+
+#: includes/admin-options.php:1453
+#@ onetone
+msgid "Set color for social icons in top bar"
+msgstr "Установить цвет для социальных иконок в верхней панели"
+
+#: includes/admin-options.php:1462
+#@ onetone
+msgid "Social Icon Tooltip Position"
+msgstr "Социальное Положение Всплывающей Подсказки Значка"
+
+#: includes/admin-options.php:1463
+#@ onetone
+msgid "Set position for tooltip of social icon"
+msgstr "Установить позицию для подсказке социальной иконку"
+
+#: includes/admin-options.php:1473
+#@ onetone
+msgid "bottom"
+msgstr "нижний"
+
+#: includes/admin-options.php:1483
+#@ onetone
+msgid "Sticky Header"
+msgstr "Липкий Заголовок"
+
+#: includes/admin-options.php:1490
+#@ onetone
+msgid "Enable Sticky Header"
+msgstr "Включить Липкий Заголовок"
+
+#: includes/admin-options.php:1491
+#@ onetone
+msgid "Choose to enable sticky header"
+msgstr "Выберите, чтобы включить липкий заголовок"
+
+#: includes/admin-options.php:1501
+#@ onetone
+msgid "Enable Sticky Header on Tablets"
+msgstr "Включить липкий Заголовок на Планшете"
+
+#: includes/admin-options.php:1502
+#@ onetone
+msgid "Choose to enable sticky header on tablets"
+msgstr "Выберите, чтобы включить липкий заголовок на Планшете"
+
+#: includes/admin-options.php:1512
+#@ onetone
+msgid "Enable Sticky Header on Mobiles"
+msgstr "Включить липкий заголовок на мобильных телефонах"
+
+#: includes/admin-options.php:1513
+#@ onetone
+msgid "Choose to enable sticky header on mobiles"
+msgstr "Выберите, чтобы включить липкий заголовок на мобильном телефоне"
+
+#: includes/admin-options.php:1524
+#@ onetone
+msgid "Sticky Header Menu Item Padding"
+msgstr "Липкий Заголовок в окантовке Пункта Меню "
+
+#: includes/admin-options.php:1525
+#@ onetone
+msgid "Controls the space between each menu item in the sticky header. Use a number without 'px', default is 0. ex: 10"
+msgstr "Управляет пространство между каждым пунктом меню в липком заголовке. Используйте номер без 'px', default is 0. ex: 10"
+
+#: includes/admin-options.php:1535
+#@ onetone
+msgid "Sticky Header Navigation Font Size"
+msgstr "Липкий Заголовок навигации Размер шрифта"
+
+#: includes/admin-options.php:1536
+#@ onetone
+msgid "Controls the font size of the menu items in the sticky header. Use a number without 'px', default is 14. ex: 14"
+msgstr "Управляет размером шрифта пунктов меню в липком заголовке. Используйте номер без 'px', default is 14. ex: 14"
+
+#: includes/admin-options.php:1546
+#@ onetone
+msgid "Sticky Header Logo Width"
+msgstr "Липкий Заголовок Ширина логотипа"
+
+#: includes/admin-options.php:1547
+#@ onetone
+msgid "Controls the logo width in the sticky header. Use a number without 'px'."
+msgstr "Управляет ширину логотип в липком заголовке. Используйте номер без ''px\\\"."
+
+#: includes/admin-options.php:1559
+#: includes/admin-options.php:1566
+#@ onetone
+msgid "Logo"
+msgstr "Логотип"
+
+#: includes/admin-options.php:1579
+#: includes/admin-options.php:1644
+#@ onetone
+msgid "Upload Logo"
+msgstr "Загрузить логотип"
+
+#: includes/admin-options.php:1580
+#: includes/admin-options.php:1645
+#@ onetone
+msgid "Select an image file for your logo."
+msgstr "Выберите файл изображения для вашего логотипа."
+
+#: includes/admin-options.php:1591
+#: includes/admin-options.php:1656
+#@ onetone
+msgid "Upload Logo (Retina Version @2x)"
+msgstr "Загрузить логотип (Retina Version @2x)"
+
+#: includes/admin-options.php:1592
+#: includes/admin-options.php:1657
+#@ onetone
+msgid "Select an image file for the retina version of the logo. It should be exactly 2x the size of main logo."
+msgstr "Выберите файл изображения для версии сетчатке логотипа. Она должна быть точно 2x размер основного логотипа."
+
+#: includes/admin-options.php:1602
+#@ onetone
+msgid "Standard Logo Width for Retina Logo"
+msgstr "Стандартный Ширина логотипа для Retina логотипа"
+
+#: includes/admin-options.php:1603
+#: includes/admin-options.php:1668
+#@ onetone
+msgid "If retina logo is uploaded, enter the standard logo (1x) version width, do not enter the retina logo width. Use a number without 'px', ex: 40"
+msgstr "Если сетчатка логотип загружен, введите стандартный логотип (1x) ширина версии, не входят в ширину сетчатки глаза логотип. Используйте номер без 'px', ex: 40"
+
+#: includes/admin-options.php:1614
+#@ onetone
+msgid "Standard Logo Height for Retina Logo"
+msgstr "Стандартный Высота логотипа для Retina логотипа"
+
+#: includes/admin-options.php:1615
+#: includes/admin-options.php:1680
+#@ onetone
+msgid "If retina logo is uploaded, enter the standard logo (1x) version height, do not enter the retina logo height. Use a number without 'px', ex: 40"
+msgstr "Если сетчатка логотип загружен, введите стандартный логотип (1x) высота версии, не вводите высоту сетчатка логотип. Используйте номер без 'px', ex: 40"
+
+#: includes/admin-options.php:1631
+#@ onetone
+msgid "Sticky Header Logo"
+msgstr "Липкий заголовок Логотип"
+
+#: includes/admin-options.php:1667
+#@ onetone
+msgid "Sticky Logo Width for Retina Logo"
+msgstr "Липкий Ширина логотипа для Retina Логотип"
+
+#: includes/admin-options.php:1679
+#@ onetone
+msgid "Sticky Logo Height for Retina Logo"
+msgstr "Липкий Высота логотипа для Retina Логотип"
+
+#: includes/admin-options.php:1695
+#@ onetone
+msgid "Logo Position"
+msgstr "Расположение логотипа"
+
+#: includes/admin-options.php:1696
+#@ onetone
+msgid "Set position for logo in header"
+msgstr "Установите положение для логотипа в заголовке"
+
+#: includes/admin-options.php:1706
+#@ onetone
+msgid "Logo Left Margin"
+msgstr "Логотип Левое поле"
+
+#: includes/admin-options.php:1707
+#: includes/admin-options.php:1718
+#: includes/admin-options.php:1729
+#: includes/admin-options.php:1740
+#@ onetone
+msgid "Use a number without 'px', ex: 40"
+msgstr "Используйте номер без 'px', ex: 40"
+
+#: includes/admin-options.php:1717
+#@ onetone
+msgid "Logo Right Margin"
+msgstr "Логотип Правое поле"
+
+#: includes/admin-options.php:1728
+#@ onetone
+msgid "Logo Top Margin"
+msgstr "Логотип Верхнее поле"
+
+#: includes/admin-options.php:1739
+#@ onetone
+msgid "Logo Bottom Margin"
+msgstr "Логотип Нижнее поле"
+
+#: includes/admin-options.php:1752
+#@ onetone
+msgid "Styling"
+msgstr "стайлинг"
+
+#: includes/admin-options.php:1758
+#@ onetone
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: includes/admin-options.php:1759
+#@ onetone
+msgid "Set primary color for the theme"
+msgstr "Установите основной цвет для темы"
+
+#: includes/admin-options.php:1771
+#@ onetone
+msgid "Background Colors"
+msgstr "Цвета фона"
+
+#: includes/admin-options.php:1784
+#@ onetone
+msgid "Sticky Header Background Color"
+msgstr "Липкий заголовка Цвет фона"
+
+#: includes/admin-options.php:1785
+#@ onetone
+msgid "Set background color for sticky header"
+msgstr "Установить цвет фона для липких заголовка"
+
+#: includes/admin-options.php:1795
+#@ onetone
+msgid "Sticky Header Background Opacity"
+msgstr "Липкий Фон заголовка Непрозрачность"
+
+#: includes/admin-options.php:1796
+#: includes/admin-options.php:1819
+#@ onetone
+msgid "Opacity only works with header top position and ranges between 0 (transparent) and 1."
+msgstr "Непрозрачность работает только с верхней позиции заголовка и колеблется в пределах от 0 (прозрачный) и 1."
+
+#: includes/admin-options.php:1807
+#@ onetone
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка"
+
+#: includes/admin-options.php:1808
+#@ onetone
+msgid "Set background color for main header"
+msgstr "Установить цвет фона для основного заголовка"
+
+#: includes/admin-options.php:1818
+#@ onetone
+msgid "Header Background Opacity"
+msgstr "Фон заголовка Непрозрачность"
+
+#: includes/admin-options.php:1831
+#@ onetone
+msgid "Content Background Color"
+msgstr "Содержание Цвет фона"
+
+#: includes/admin-options.php:1832
+#@ onetone
+msgid "Set background color for site content"
+msgstr "Установить цвет фона для содержимого сайта"
+
+#: includes/admin-options.php:1842
+#@ onetone
+msgid "Sidebar Background Color"
+msgstr "Боковая панель Цвет фона"
+
+#: includes/admin-options.php:1843
+#@ onetone
+msgid "Set background color for sidebar"
+msgstr "Установить цвет фона для боковой панели"
+
+#: includes/admin-options.php:1853
+#@ onetone
+msgid "Footer Background Color"
+msgstr "Цвет фона нижнего колонтитула"
+
+#: includes/admin-options.php:1854
+#@ onetone
+msgid "Set background color for the footer"
+msgstr "Установить цвет фона для нижнего колонтитула"
+
+#: includes/admin-options.php:1865
+#@ onetone
+msgid "Copyright Background Color"
+msgstr "Цвет фона Copyright"
+
+#: includes/admin-options.php:1866
+#@ onetone
+msgid "Set background color for the copyright area in footer"
+msgstr "Установить цвет фона для области авторского права в футере"
+
+#: includes/admin-options.php:1880
+#@ onetone
+msgid "Element Colors"
+msgstr "Элемент Цвета"
+
+#: includes/admin-options.php:1894
+#@ onetone
+msgid "Form Background Color"
+msgstr "Цвет фона формы"
+
+#: includes/admin-options.php:1895
+#@ onetone
+msgid "Controls the background color of form fields"
+msgstr "Управляет цвет фона полей формы"
+
+#: includes/admin-options.php:1905
+#@ onetone
+msgid "Form Text Color"
+msgstr "Форма Цвет текста"
+
+#: includes/admin-options.php:1906
+#@ onetone
+msgid "Controls the text color for forms"
+msgstr "Управление цветом текста для форм"
+
+#: includes/admin-options.php:1916
+#@ onetone
+msgid "Form Border Color"
+msgstr "Форма Цвет рамки"
+
+#: includes/admin-options.php:1917
+#@ onetone
+msgid "Controls the border color for forms"
+msgstr "Управляет цвет рамки для форм"
+
+#: includes/admin-options.php:1931
+#@ onetone
+msgid "Layout Options"
+msgstr "параметры макета"
+
+#: includes/admin-options.php:1944
+#@ onetone
+msgid "Page Content Top Padding"
+msgstr "содержание страницы отступ сверху"
+
+#: includes/admin-options.php:1955
+#@ onetone
+msgid "Page Content Bottom Padding"
+msgstr "содержание страницы отступ снизу"
+
+#: includes/admin-options.php:1966
+#@ onetone
+msgid "100% Width Left/Right Padding ###"
+msgstr "100% Ширина: левый / правый отступ ###"
+
+#: includes/admin-options.php:1967
+#@ onetone
+msgid "This option controls the left/right padding for page content when using 100% site width or 100% width page template. In pixels or percentage, ex: 10px or 10%."
+msgstr "Эта опция контролирует левый / правый отступы для содержимого страницы при использовании 100% ширины сайта или 100% ширины страницы шаблона. В пикселях или в процентах, например: 10px или 10%."
+
+#: includes/admin-options.php:1977
+#@ onetone
+msgid "Sidebar Padding"
+msgstr "Боковая панель отступ"
+
+#: includes/admin-options.php:1978
+#@ onetone
+msgid "Enter a pixel or percentage based value, ex: 5px or 5%"
+msgstr "Введите пиксель или на основе значения в процентах, например: 5px или 5%"
+
+#: includes/admin-options.php:1988
+#@ onetone
+msgid "Column Top Margin"
+msgstr "Колонка Верхнее поле"
+
+#: includes/admin-options.php:1989
+#@ onetone
+msgid "Controls the top margin for all column sizes. In pixels or percentage, ex: 10px or 10%."
+msgstr "Управляет верхнего поля для всех размеров столбцов. В пикселях или в процентах, например: 10px или 10%."
+
+#: includes/admin-options.php:1999
+#@ onetone
+msgid "Column Bottom Margin"
+msgstr "Колонка Нижнее поле"
+
+#: includes/admin-options.php:2000
+#@ onetone
+msgid "Controls the bottom margin for all column sizes. In pixels or percentage, ex: 10px or 10%."
+msgstr "Управляет нижнего поля для всех размеров столбцов. В пикселях или в процентах, например: 10px или 10%."
+
+#: includes/admin-options.php:2015
+#@ onetone
+msgid "Font Colors"
+msgstr "шрифт Цвета"
+
+#: includes/admin-options.php:2029
+#@ onetone
+msgid "Header Tagline"
+msgstr "Заголовок Слоган"
+
+#: includes/admin-options.php:2030
+#@ onetone
+msgid "Set color for tagline in header"
+msgstr "Установить цвет для подзаголовка в заголовке"
+
+#: includes/admin-options.php:2040
+#@ onetone
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: includes/admin-options.php:2041
+#@ onetone
+msgid "Set color for page title"
+msgstr "Установить цвет для заголовка страницы"
+
+#: includes/admin-options.php:2052
+#@ onetone
+msgid "Heading 1 (H1) Font Color"
+msgstr "Заголовок 1 (H1) Цвет шрифта"
+
+#: includes/admin-options.php:2053
+#@ onetone
+msgid "Choose color for H1 headings"
+msgstr "Выберите цвет для H1 заголовков"
+
+#: includes/admin-options.php:2063
+#@ onetone
+msgid "Heading 2 (H2) Font Color"
+msgstr "Заголовок 2 (H2) Цвет шрифта"
+
+#: includes/admin-options.php:2064
+#@ onetone
+msgid "Choose color for H2 headings"
+msgstr "Выберите цвет для заголовков H2"
+
+#: includes/admin-options.php:2074
+#@ onetone
+msgid "Heading 3 (H3) Font Color"
+msgstr "Заголовок 3 (Н3) Цвет Шрифта"
+
+#: includes/admin-options.php:2075
+#@ onetone
+msgid "Choose color for H3 headings"
+msgstr "Выберите цвет для H3 заголовков"
+
+#: includes/admin-options.php:2085
+#@ onetone
+msgid "Heading 4 (H4) Font Color"
+msgstr "Заголовок 4 (H4) Цвет шрифта"
+
+#: includes/admin-options.php:2086
+#@ onetone
+msgid "Choose color for H4 headings"
+msgstr "Выберите цвет для H4 заголовков"
+
+#: includes/admin-options.php:2096
+#@ onetone
+msgid "Heading 5 (H5) Font Color"
+msgstr "Заголовок 5 (H5) Цвет шрифта"
+
+#: includes/admin-options.php:2097
+#@ onetone
+msgid "Choose color for H5 headings"
+msgstr "Выберите цвет для H5 заголовков"
+
+#: includes/admin-options.php:2107
+#@ onetone
+msgid "Heading 6 (H6) Font Color"
+msgstr "Заголовок 6 (H6) Цвет шрифта"
+
+#: includes/admin-options.php:2108
+#@ onetone
+msgid "Choose color for H6 headings"
+msgstr "Выберите цвет для заголовков H6"
+
+#: includes/admin-options.php:2119
+#@ onetone
+msgid "Body Text Color"
+msgstr "Основной Цвет текста"
+
+#: includes/admin-options.php:2120
+#@ onetone
+msgid "Choose color for body text"
+msgstr "Выберите основной цвет для текста"
+
+#: includes/admin-options.php:2130
+#@ onetone
+msgid "Links Color"
+msgstr "Цвет ссылок"
+
+#: includes/admin-options.php:2131
+#@ onetone
+msgid "Choose color for links"
+msgstr "Выберите цвет для ссылок"
+
+#: includes/admin-options.php:2141
+#@ onetone
+msgid "Breadcrumbs Text Color"
+msgstr "«хлебные крошки» (путь к файлу)  цвет текста"
+
+#: includes/admin-options.php:2142
+#@ onetone
+msgid "Choose color for breadcrumbs"
+msgstr "Выберите цвет для «хлебные крошки»"
+
+#: includes/admin-options.php:2153
+#@ onetone
+msgid "Sidebar Widget Headings Color"
+msgstr "Боковая панель виджетов Заголовки Цвет"
+
+#: includes/admin-options.php:2154
+#@ onetone
+msgid "Choose color for Sidebar widget headings"
+msgstr "Выберите цвет для боковой панели виджетов заголовков"
+
+#: includes/admin-options.php:2164
+#@ onetone
+msgid "Footer Headings Color"
+msgstr "\\\"Подвал\\\" Цвет Заголовка"
+
+#: includes/admin-options.php:2165
+#@ onetone
+msgid "Choose color for footer headings"
+msgstr "Выберите цвет для заголовков колонтитулов \\\"подвала\\\""
+
+#: includes/admin-options.php:2175
+#@ onetone
+msgid "Footer Text Color"
+msgstr "\\\"Подвал\\\" цвет текста"
+
+#: includes/admin-options.php:2176
+#@ onetone
+msgid "Choose color for footer text"
+msgstr "Выберите цвет для текста колонтитула подвала"
+
+#: includes/admin-options.php:2186
+#@ onetone
+msgid "Footer Link Color"
+msgstr "Подвал Цвет ссылки"
+
+#: includes/admin-options.php:2187
+#@ onetone
+msgid "Choose color for links in footer"
+msgstr "Выберите цвет для ссылок в подвале"
+
+#: includes/admin-options.php:2201
+#@ onetone
+msgid "Main Menu Colors"
+msgstr "Главное меню Цвета"
+
+#: includes/admin-options.php:2214
+#@ onetone
+msgid "Main Menu Background Color"
+msgstr "Основной цвет фона меню"
+
+#: includes/admin-options.php:2215
+#@ onetone
+msgid "Choose background color for main menu"
+msgstr "Выберите цвет фона для главного меню"
+
+#: includes/admin-options.php:2225
+#@ onetone
+msgid "Main Menu Font Color ( First Level )"
+msgstr "Главное меню Цвет шрифта (первый уровень)"
+
+#: includes/admin-options.php:2226
+#@ onetone
+msgid "Choose font color for first level of main menu"
+msgstr "Выберите цвет шрифта для первого уровня главного меню"
+
+#: includes/admin-options.php:2236
+#@ onetone
+msgid "Main Menu Font Hover Color ( First Level )"
+msgstr "Главное Меню Шрифта При Наведении Цвет ( Первый Уровень )"
+
+#: includes/admin-options.php:2237
+#@ onetone
+msgid "Choose hover color for first level of main menu"
+msgstr "Выберите цвет при наведении для первого уровня главного меню"
+
+#: includes/admin-options.php:2247
+#@ onetone
+msgid "Main Menu Background Color ( Sub Level )"
+msgstr "Главное Меню Цвет Фона ( Подуровне )"
+
+#: includes/admin-options.php:2248
+#@ onetone
+msgid "Choose background color for sub level of main menu"
+msgstr "Выберите цвет фона для суб уровне главного меню"
+
+#: includes/admin-options.php:2259
+#@ onetone
+msgid "Main Menu Font Color ( Sub Level )"
+msgstr "Главное меню Цвет шрифта (Подуровень)"
+
+#: includes/admin-options.php:2260
+#@ onetone
+msgid "Choose font color for sub level of main menu"
+msgstr "Выберите цвет шрифта для суб уровне главного меню"
+
+#: includes/admin-options.php:2270
+#@ onetone
+msgid "Main Menu Font Hover Color ( Sub Level )"
+msgstr "Главное Меню Шрифта При Наведении Цвет ( Подуровне )"
+
+#: includes/admin-options.php:2271
+#@ onetone
+msgid "Choose hover color for sub level of main menu"
+msgstr "Выбрать цвет при наведении мыши на суб уровень в главном меню"
+
+#: includes/admin-options.php:2281
+#@ onetone
+msgid "Main Menu Separator Color ( Sub Levels )"
+msgstr "Главная Разделитель Меню Цвет ( Подуровнями )"
+
+#: includes/admin-options.php:2282
+#@ onetone
+msgid "Choose separator color for sub level of main menu"
+msgstr "Выбрать цвет регулятора на подуровне основного меню"
+
+#: includes/admin-options.php:2297
+#@ onetone
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: includes/admin-options.php:2303
+#@ onetone
+msgid "Blog Posts"
+msgstr "Посты В Блоге"
+
+#: includes/admin-options.php:2317
+#: includes/admin-options.php:2358
+#: includes/admin-options.php:2400
+#: includes/admin-options.php:2441
+#: includes/metabox-options.php:237
+#@ onetone
+msgid "Left Sidebar"
+msgstr "Боковая панель слева"
+
+#: includes/admin-options.php:2318
+#@ onetone
+msgid "Choose left sidebar for blog posts"
+msgstr "Выберите левую боковую панель для сообщений в блоге"
+
+#: includes/admin-options.php:2329
+#: includes/admin-options.php:2370
+#: includes/admin-options.php:2412
+#: includes/admin-options.php:2453
+#: includes/metabox-options.php:238
+#@ onetone
+msgid "Right Sidebar"
+msgstr "Боковая панель справа"
+
+#: includes/admin-options.php:2330
+#@ onetone
+msgid "Choose right sidebar for blog posts"
+msgstr "Выберите правую боковую панель для сообщений в блоге"
+
+#: includes/admin-options.php:2345
+#@ onetone
+msgid "Blog Archive / Category Pages"
+msgstr "Архив Блога / Категория Страницы"
+
+#: includes/admin-options.php:2359
+#@ onetone
+msgid "Choose left sidebar for blog archive page"
+msgstr "Выберите левую боковую панель для страницы архива блога"
+
+#: includes/admin-options.php:2371
+#@ onetone
+msgid "Choose right sidebar for blog archive page"
+msgstr "Выберите правую боковую панель страницы архива блога"
+
+#: includes/admin-options.php:2387
+#@ onetone
+msgid "Search Page"
+msgstr "Страница поиска"
+
+#: includes/admin-options.php:2401
+#@ onetone
+msgid "Choose left sidebar for blog search result page"
+msgstr "Выберите левую боковую панель для блога страницы результатов поиска"
+
+#: includes/admin-options.php:2413
+#@ onetone
+msgid "Choose right sidebar for blog search result page"
+msgstr "Выберите правую боковой панели блога страницы результатов поиска"
+
+#: includes/admin-options.php:2428
+#@ onetone
+msgid "404 Page"
+msgstr "404 Страница"
+
+#: includes/admin-options.php:2442
+#@ onetone
+msgid "Choose left sidebar for 404 page"
+msgstr "Выберите левую боковую панель для 404 страницы"
+
+#: includes/admin-options.php:2454
+#@ onetone
+msgid "Choose right sidebar for 404 page"
+msgstr "Выберите правую боковую панель для 404 страницы"
+
+#: includes/admin-options.php:2474
+#@ onetone
+msgid "Slideshow"
+msgstr "Слайд-шоу"
+
+#: includes/admin-options.php:2479
+#@ onetone
+msgid "Slide 1"
+msgstr ""
+
+#: includes/admin-options.php:2489
+#: includes/admin-options.php:2521
+#: includes/admin-options.php:2552
+#: includes/admin-options.php:2583
+#: includes/admin-options.php:2613
+#@ onetone
+msgid "Image"
+msgstr ""
+
+#: includes/admin-options.php:2498
+#: includes/admin-options.php:2529
+#: includes/admin-options.php:2560
+#: includes/admin-options.php:2591
+#: includes/admin-options.php:2620
+#@ onetone
+msgid "Caption"
+msgstr "подпись"
+
+#: includes/admin-options.php:2511
+#@ onetone
+msgid "Slide 2"
+msgstr ""
+
+#: includes/admin-options.php:2542
+#@ onetone
+msgid "Slide 3"
+msgstr ""
+
+#: includes/admin-options.php:2573
+#@ onetone
+msgid "Slide 4"
+msgstr ""
+
+#: includes/admin-options.php:2603
+#@ onetone
+msgid "Slide 5"
+msgstr ""
+
+#: includes/admin-options.php:2629
+#@ onetone
+msgid "Slide Speed"
+msgstr ""
+
+#: includes/admin-options.php:2632
+#@ onetone
+msgid "Milliseconds between the end of the sliding effect and the start of the nex one."
+msgstr "Миллисекундах между концом эффект скольжения и начала некс один."
+
+#: includes/admin-options.php:2640
+#@ onetone
+msgid "Footer"
+msgstr "Подвал"
+
+#: includes/admin-options.php:2648
+#@ onetone
+msgid "Footer Widgets Area Options"
+msgstr "Подвал Виджеты Параметры Области"
+
+#: includes/admin-options.php:2661
+#@ onetone
+msgid "Display footer widgets?"
+msgstr "Показывать виджеты в подвале?"
+
+#: includes/admin-options.php:2662
+#@ onetone
+msgid "Choose to display footer widgets"
+msgstr "Выберите для отображения виджетов подвала"
+
+#: includes/admin-options.php:2672
+#@ onetone
+msgid "Number of Footer Columns"
+msgstr "Количество столбцов подвала"
+
+#: includes/admin-options.php:2673
+#@ onetone
+msgid "Set column number for footer widget area"
+msgstr "Установить количество столбцов в области виджет подвала"
+
+#: includes/admin-options.php:2689
+#@ onetone
+msgid "Upload Background Image"
+msgstr "Загрузить фоновое изображение"
+
+#: includes/admin-options.php:2690
+#@ onetone
+msgid "Choose to upload background image for footer"
+msgstr "Выберите, чтобы загрузить фоновое изображение для нижнего колонтитула"
+
+#: includes/admin-options.php:2701
+#@ onetone
+msgid "Select yes to have the footer widgets area background image display at 100% in width and height and scale according to the browser size."
+msgstr "Выберите да, чтобы иметь нижний колонтитулы виджеты области отображения фонового изображения на 100% в ширину и высоту и масштабировать в зависимости от размера браузера."
+
+#: includes/admin-options.php:2712
+#@ onetone
+msgid "Choose to set parallax background effect for footer"
+msgstr "Выберите, чтобы установить параллакса фоновый эффект для колонтитула"
+
+#: includes/admin-options.php:2723
+#@ onetone
+msgid "Set repeat for background image in footer"
+msgstr "Набор для повторения фонового изображения в колонтитул"
+
+#: includes/admin-options.php:2733
+#@ onetone
+msgid "Background Position"
+msgstr "Фон Позиция"
+
+#: includes/admin-options.php:2734
+#@ onetone
+msgid "Set position for background image in footer"
+msgstr "Установить позицию для фонового изображения в колонтитул"
+
+#: includes/admin-options.php:2744
+#@ onetone
+msgid "Footer Top Padding"
+msgstr "Верхний отступ нижнего колонтитула"
+
+#: includes/admin-options.php:2755
+#@ onetone
+msgid "Footer Bottom Padding"
+msgstr "Нижний отступ нижнего колонтитула"
+
+#: includes/admin-options.php:2766
+#@ onetone
+msgid "Footer Social Icons"
+msgstr "Соц иконки в подвале"
+
+#: includes/admin-options.php:2795
+#@ onetone
+msgid "Choose FontAwesome icon"
+msgstr "Выбор шрифта Высокий значок"
+
+#: includes/admin-options.php:2821
+#@ onetone
+msgid "404 page"
+msgstr "страница 404"
+
+#: includes/admin-options.php:2826
+#@ onetone
+msgid "404 page content"
+msgstr "Содержание 404"
+
+#: includes/admin-options.php:2838
+#@ onetone
+msgid "Blog"
+msgstr "Блог"
+
+#: includes/admin-options.php:2845
+#@ onetone
+msgid "Display Author Info?"
+msgstr "Отображать информации об Авторе?"
+
+#: includes/admin-options.php:2846
+#@ onetone
+msgid "Display author info on single page."
+msgstr "Отображение информации об авторе на одной странице."
+
+#: includes/admin-options.php:2853
+#@ onetone
+msgid "Display Related Posts?"
+msgstr "Отображать похожие сообщения?"
+
+#: includes/admin-options.php:2854
+#@ onetone
+msgid "Display related posts on single page."
+msgstr "Отображение связанных сообщений на одной странице."
+
+#: includes/admin-options.php:2864
+#: includes/admin-options.php:2869
+#@ onetone
+msgid "Options Backup"
+msgstr "Функции резервного копирования"
+
+#: includes/admin-options.php:2886
+#: includes/theme-functions.php:785
+#@ onetone
+msgid "Backup"
+msgstr "Резервное копирование"
+
+#: includes/admin-options.php:2887
+#: includes/theme-functions.php:786
+#@ onetone
+msgid "Restore"
+msgstr "Восстановление"
+
+#: includes/admin-options.php:2888
+#: includes/theme-functions.php:787
+#@ onetone
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/admin-options.php:2897
+#@ onetone
+msgid "Create New Backup"
+msgstr "Создать новую резервную копию"
+
+#: includes/admin-options.php:2897
+#@ onetone
+msgid "Theme options have been backuped."
+msgstr "Опции темы были в бэкапе."
+
+#: includes/breadcrumbs.php:147
+#@ onetone
+msgid "Browse:"
+msgstr "Просматривать:"
+
+#: includes/breadcrumbs.php:148
+#@ onetone
+msgid "Home"
+msgstr "Главная"
+
+#: includes/breadcrumbs.php:149
+#@ onetone
+msgid "404 Not Found"
+msgstr "404 Не Найдено"
+
+#: includes/breadcrumbs.php:150
+#@ onetone
+msgid "Archives"
+msgstr "Архив"
+
+#. Translators: %s is the search query. The HTML entities are opening and closing curly quotes.
+#: includes/breadcrumbs.php:152
+#, php-format
+#@ onetone
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Результаты поиска &#8220;%s&#8221;"
+
+#. Translators: %s is the page number.
+#: includes/breadcrumbs.php:154
+#, php-format
+#@ onetone
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: includes/breadcrumbs.php:156
+#, php-format
+#@ onetone
+msgid "Minute %s"
+msgstr "Минут %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: includes/breadcrumbs.php:158
+#, php-format
+#@ onetone
+msgid "Week %s"
+msgstr "Неделю %s "
+
+#: includes/breadcrumbs.php:577
+#@ onetone
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: includes/breadcrumbs.php:591
+#@ onetone
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: includes/breadcrumbs.php:605
+#@ onetone
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: includes/breadcrumbs.php:618
+#: includes/breadcrumbs.php:641
+#: includes/breadcrumbs.php:662
+#: includes/breadcrumbs.php:683
+#: includes/breadcrumbs.php:831
+#@ onetone
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: includes/breadcrumbs.php:619
+#: includes/breadcrumbs.php:663
+#: includes/breadcrumbs.php:834
+#@ onetone
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: includes/breadcrumbs.php:620
+#: includes/breadcrumbs.php:837
+#@ onetone
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: includes/breadcrumbs.php:642
+#@ onetone
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: includes/breadcrumbs.php:907
+#: includes/breadcrumbs.php:933
+#: includes/breadcrumbs.php:945
+#: includes/breadcrumbs.php:967
+#: single.php:55
+#@ onetone
+msgid "Edit"
+msgstr "Редактировать"
+
+#: includes/breadcrumbs.php:927
+#@ onetone
+msgid "Split"
+msgstr "Разделить"
+
+#: includes/breadcrumbs.php:930
+#@ onetone
+msgid "Merge"
+msgstr "идти"
+
+#: includes/class-tgm-plugin-activation.php:306
+#, php-format
+#@ onetone
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:316
+#, php-format
+#@ onetone
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:326
+#, php-format
+#@ onetone
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:331
+#, php-format
+#@ onetone
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:336
+#, php-format
+#@ onetone
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:346
+#, php-format
+#@ onetone
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:356
+#@ onetone
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:366
+#@ onetone
+msgid "Return to the dashboard"
+msgstr "Возврат к приборной панели"
+
+#: includes/class-tgm-plugin-activation.php:369
+#, php-format
+#@ onetone
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Никаких действий не принимается. Плагин %1$s уже был активным."
+
+#: includes/class-tgm-plugin-activation.php:370
+#, php-format
+#@ onetone
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активируется. Чем выше версия %s требуется для этой темы. Необходимо обновить плагин."
+
+#: includes/class-tgm-plugin-activation.php:371
+#, php-format
+#@ onetone
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и успешно активирован. %1$s"
+
+#: includes/class-tgm-plugin-activation.php:372
+#@ onetone
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#: includes/class-tgm-plugin-activation.php:373
+#@ onetone
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору этого сайта за помощью."
+
+#: includes/class-tgm-plugin-activation.php:488
+#@ onetone
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин должен быть обновлен, чтобы быть совместимым с вашей темой."
+
+#: includes/class-tgm-plugin-activation.php:489
+#@ onetone
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: includes/class-tgm-plugin-activation.php:603
+#@ onetone
+msgid "The \"tgmpa_admin_menu_use_add_theme_page\" filter"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:603
+#@ onetone
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:794
+#: includes/class-tgm-plugin-activation.php:3360
+#@ onetone
+msgid "Return to the Dashboard"
+msgstr "Вернуться к панели управления"
+
+#: includes/class-tgm-plugin-activation.php:901
+#@ onetone
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Пакет удаленный плагин не содержит папку с нужной пулей и переименование не работает."
+
+#: includes/class-tgm-plugin-activation.php:901
+#: includes/class-tgm-plugin-activation.php:904
+#@ onetone
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Пожалуйста, обратитесь к поставщику плагинов и попросить их упаковать их плагин в соответствии с рекомендациями WordPress."
+
+#: includes/class-tgm-plugin-activation.php:904
+#@ onetone
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет удаленный модуль состоит из более чем одного файла, но файлы не упакованы в папке."
+
+#: includes/class-tgm-plugin-activation.php:1082
+#: includes/class-tgm-plugin-activation.php:2779
+#@ onetone
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: includes/class-tgm-plugin-activation.php:1847
+#, php-format
+#@ onetone
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2118
+#@ onetone
+msgid "Required"
+msgstr "необходимые"
+
+#: includes/class-tgm-plugin-activation.php:2121
+#@ onetone
+msgid "Recommended"
+msgstr "рекомендуемые"
+
+#: includes/class-tgm-plugin-activation.php:2137
+#@ onetone
+msgid "WordPress Repository"
+msgstr "Репозитория WordPress"
+
+#: includes/class-tgm-plugin-activation.php:2140
+#@ onetone
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: includes/class-tgm-plugin-activation.php:2143
+#@ onetone
+msgid "Pre-Packaged"
+msgstr "Предварительно Упакованные"
+
+#: includes/class-tgm-plugin-activation.php:2160
+#@ onetone
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: includes/class-tgm-plugin-activation.php:2164
+#@ onetone
+msgid "Installed But Not Activated"
+msgstr "Установленные но не активированы"
+
+#: includes/class-tgm-plugin-activation.php:2166
+#@ onetone
+msgid "Active"
+msgstr "активный"
+
+#: includes/class-tgm-plugin-activation.php:2172
+#@ onetone
+msgid "Required Update not Available"
+msgstr "Требуемое обновление не доступно"
+
+#: includes/class-tgm-plugin-activation.php:2175
+#@ onetone
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: includes/class-tgm-plugin-activation.php:2178
+#@ onetone
+msgid "Update recommended"
+msgstr "Обновление рекомендуется"
+
+#: includes/class-tgm-plugin-activation.php:2186
+#, php-format
+#@ onetone
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2231
+#, php-format
+#@ onetone
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:2234
+#, php-format
+#@ onetone
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:2237
+#, php-format
+#@ onetone
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:2240
+#, php-format
+#@ onetone
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:2322
+#@ onetone
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2330
+#@ onetone
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: includes/class-tgm-plugin-activation.php:2338
+#@ onetone
+msgid "Minimum required version:"
+msgstr "Минимальная требуемая версия:"
+
+#: includes/class-tgm-plugin-activation.php:2350
+#@ onetone
+msgid "Available version:"
+msgstr "Доступные версии:"
+
+#: includes/class-tgm-plugin-activation.php:2373
+#, php-format
+#@ onetone
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "Нет плагинов устанавливать, обновлять или активировать. <a href=\"%1$s\"> Вернитесь к панели инструментов </a>"
+
+#: includes/class-tgm-plugin-activation.php:2387
+#@ onetone
+msgid "Plugin"
+msgstr "Плагин"
+
+#: includes/class-tgm-plugin-activation.php:2388
+#@ onetone
+msgid "Source"
+msgstr "Источник"
+
+#: includes/class-tgm-plugin-activation.php:2389
+#@ onetone
+msgid "Type"
+msgstr "Тип"
+
+#: includes/class-tgm-plugin-activation.php:2393
+#@ onetone
+msgid "Version"
+msgstr "Версия"
+
+#: includes/class-tgm-plugin-activation.php:2394
+#@ onetone
+msgid "Status"
+msgstr "Статус"
+
+#: includes/class-tgm-plugin-activation.php:2442
+#, php-format
+#@ onetone
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2446
+#, php-format
+#@ onetone
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2451
+#, php-format
+#@ onetone
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2521
+#@ onetone
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение обновления от автора плагина:"
+
+#: includes/class-tgm-plugin-activation.php:2554
+#@ onetone
+msgid "Install"
+msgstr "устанавливать"
+
+#: includes/class-tgm-plugin-activation.php:2560
+#@ onetone
+msgid "Update"
+msgstr "Обновить"
+
+#: includes/class-tgm-plugin-activation.php:2563
+#@ onetone
+msgid "Activate"
+msgstr "активировать"
+
+#: includes/class-tgm-plugin-activation.php:2594
+#@ onetone
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Нет выбранных плагинов для установки. Никаких действий не принимается."
+
+#: includes/class-tgm-plugin-activation.php:2596
+#@ onetone
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Нет выбранных плагинов, чтобы быть обновлены. Никаких действий не принимается."
+
+#: includes/class-tgm-plugin-activation.php:2632
+#@ onetone
+msgid "No plugins are available to be installed at this time."
+msgstr "Нет плагинов доступны для установки в это время."
+
+#: includes/class-tgm-plugin-activation.php:2634
+#@ onetone
+msgid "No plugins are available to be updated at this time."
+msgstr "Нет плагинов доступны для обновления на данный момент."
+
+#: includes/class-tgm-plugin-activation.php:2739
+#@ onetone
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Нет плагинов были выбраны, чтобы быть активирована. Никаких действий не принимается."
+
+#: includes/class-tgm-plugin-activation.php:2765
+#@ onetone
+msgid "No plugins are available to be activated at this time."
+msgstr "Нет плагинов доступны для активации в это время."
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: includes/class-tgm-plugin-activation.php:2783
+#: includes/class-tgm-plugin-activation.php:368
+#@ onetone
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:2954
+#@ onetone
+msgid "Plugin activation failed."
+msgstr "Плагин активации не удалось."
+
+#: includes/class-tgm-plugin-activation.php:3284
+#, php-format
+#@ onetone
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3286
+#, php-format
+#@ onetone
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: includes/class-tgm-plugin-activation.php:3287
+#, php-format
+#@ onetone
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась"
+
+#: includes/class-tgm-plugin-activation.php:3291
+#@ onetone
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки и активации начинается. Этот процесс может занять некоторое время на некоторых хостов, поэтому, пожалуйста, будьте терпеливы."
+
+#: includes/class-tgm-plugin-activation.php:3292
+#, php-format
+#@ onetone
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+#: includes/class-tgm-plugin-activation.php:3292
+#: includes/class-tgm-plugin-activation.php:3298
+#@ onetone
+msgid "Show Details"
+msgstr "Показать детали"
+
+#: includes/class-tgm-plugin-activation.php:3292
+#: includes/class-tgm-plugin-activation.php:3298
+#@ onetone
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: includes/class-tgm-plugin-activation.php:3293
+#@ onetone
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активаций были завершены."
+
+#: includes/class-tgm-plugin-activation.php:3294
+#, php-format
+#@ onetone
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагинов %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3297
+#@ onetone
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки начинается. Этот процесс может занять некоторое время на некоторых хостов, поэтому, пожалуйста, будьте терпеливы."
+
+#: includes/class-tgm-plugin-activation.php:3298
+#, php-format
+#@ onetone
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: includes/class-tgm-plugin-activation.php:3299
+#@ onetone
+msgid "All installations have been completed."
+msgstr "Все установки были завершены."
+
+#: includes/class-tgm-plugin-activation.php:3300
+#, php-format
+#@ onetone
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагинов %1$s (%2$d/%3$d)"
+
+#: includes/metabox-options.php:36
+#@ onetone
+msgid "Onetone Metabox Options"
+msgstr ""
+
+#: includes/metabox-options.php:48
+#@ onetone
+msgid "Select a slider"
+msgstr "Выберите slider"
+
+#: includes/metabox-options.php:180
+#@ onetone
+msgid "None"
+msgstr "Никто"
+
+#: includes/metabox-options.php:204
+#@ onetone
+msgid "Content Full Width"
+msgstr "Содержание Полная ширина"
+
+#: includes/metabox-options.php:213
+#@ onetone
+msgid "Display Breadcrumb"
+msgstr "Экран Навигатора"
+
+#: includes/metabox-options.php:221
+#@ onetone
+msgid "Padding Top"
+msgstr "Верхний отступ"
+
+#: includes/metabox-options.php:227
+#@ onetone
+msgid "Padding Bottom"
+msgstr "Нижний отступ"
+
+#: includes/metabox-options.php:233
+#@ onetone
+msgid "Page Layout"
+msgstr "макет страницы, разметка страницы"
+
+#: includes/metabox-options.php:236
+#: includes/theme-widget.php:8
+#@ onetone
+msgid "No Sidebar"
+msgstr "Нет Боковая панель"
+
+#: includes/metabox-options.php:239
+#@ onetone
+msgid "Both Sidebar"
+msgstr "Обе Боковая панель"
+
+#: includes/metabox-options.php:244
+#@ onetone
+msgid "Select Left Sidebar"
+msgstr "Выберите левой боковой панели"
+
+#: includes/metabox-options.php:253
+#@ onetone
+msgid "Select Right Sidebar"
+msgstr "Выберите правой боковой панели"
+
+#: includes/theme-functions.php:33
+#@ onetone
+msgid "Please enter your name."
+msgstr "Пожалуйста, введите Ваше имя."
+
+#: includes/theme-functions.php:40
+#@ onetone
+msgid "Please enter your email address."
+msgstr "Пожалуйста, введите Ваш адрес электронной почты."
+
+#: includes/theme-functions.php:43
+#@ onetone
+msgid "You entered an invalid email address."
+msgstr "Вы ввели неверный адрес электронной почты."
+
+#: includes/theme-functions.php:50
+#@ onetone
+msgid "Please enter a message."
+msgstr "Пожалуйста, введите сообщение."
+
+#: includes/theme-functions.php:75
+#@ onetone
+msgid "Your message has been successfully sent!"
+msgstr "Ваше сообщение было успешно отправлено!"
+
+#: includes/theme-functions.php:154
+#, php-format
+#@ onetone
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/theme-functions.php:155
+#@ onetone
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: includes/theme-functions.php:156
+#@ onetone
+msgid "Reply"
+msgstr "Ответить"
+
+#: includes/theme-functions.php:160
+#@ onetone
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: includes/theme-functions.php:216
+#@ onetone
+msgid "Upgrade to Pro"
+msgstr "Обновление до Pro"
+
+#: includes/theme-functions.php:217
+#@ onetone
+msgid "MageeWP Themes"
+msgstr ""
+
+#: includes/theme-functions.php:218
+#@ onetone
+msgid "Manual"
+msgstr "Руководство"
+
+#: includes/theme-functions.php:219
+#@ onetone
+msgid "FAQ"
+msgstr "Вопросы-Ответы"
+
+#: includes/theme-functions.php:220
+#@ onetone
+msgid "Knowledge"
+msgstr "Знание"
+
+#: includes/theme-functions.php:221
+#@ onetone
+msgid "Support Forums"
+msgstr "Форумы поддержки"
+
+#: includes/theme-functions.php:244
+#, php-format
+#@ onetone
+msgid " Page %s "
+msgstr "страница %s "
+
+#: includes/theme-functions.php:272
+#@ onetone
+msgid "TOP"
+msgstr "ВВЕРХ"
+
+#: includes/theme-functions.php:446
+#@ onetone
+msgid " Prev"
+msgstr "предыдущий"
+
+#: includes/theme-functions.php:447
+#@ onetone
+msgid "Next "
+msgstr "следующий"
+
+#: includes/theme-functions.php:647
+#@ onetone
+msgid "About Onetone"
+msgstr "О Onetone"
+
+#: includes/theme-functions.php:649
+#@ onetone
+msgid "Based on Bootstrap and coded with HTML5 and CSS3 language, Onetone is fully responsive in desktops and mobile devices. With enriched settings in theme options , you can not only change header and footer patterns, but also customize background colors, page layouts and social links, etc. Read below for additional information about Onetone."
+msgstr "На основе Bootstrap и кодируются с помощью HTML5 и CSS3 языка, Onetone полностью реагировать на настольных компьютерах и мобильных устройствах. Обогащенным параметры в параметры темы, вы можете не только изменить структуру колонтитулов, но также настроить цвет фона, макетов страниц и социальных связей и т.д. Читайте ниже для получения дополнительной информации о Onetone."
+
+#: includes/theme-functions.php:653
+#@ onetone
+msgid "Theme Support"
+msgstr "тема поддержки"
+
+#: includes/theme-functions.php:677
+#@ onetone
+msgid ""
+"<div class=\"theme-support\"><div class=\"col-1-3\">\n"
+"  <h4>Documentation</h4>\n"
+"  <p>The online documentaiton for Onetone is an incredible resource for learning how to use Onetone. You could follow this manual step by step to build your site.</p>\n"
+"  <a class=\"button button-primary\" href=\"http://www.mageewp.com/manuals/theme-guide-onetone.html\" target=\"_blank\">Documentation</a>\n"
+"</div>\n"
+"<div class=\"col-1-3\">\n"
+"  <h4>Support Forum</h4><p>We also have a support forum for users to communicate. If you have any problem while using this theme, feel free to post in the forum. Our support team would reply you asap.</p>\n"
+"<a class=\"button button-primary\" href=\"http://www.mageewp.com/forums/onetone/\" target=\"_blank\">Support Forum</a>  \n"
+"</div>\n"
+"<div class=\"col-1-3 last\">\n"
+"  <h4>Theme Center</h4><p>Like our themes? Come here to get more.</p>\n"
+"<a class=\"button button-primary\" href=\"http://www.mageewp.com/wordpress-themes\" target=\"_blank\">Theme Center</a>\n"
+"</div></div>"
+msgstr ""
+
+#: includes/theme-functions.php:706
+#@ onetone
+msgid "Onetone step 2"
+msgstr "Onetone шаг 2"
+
+#: includes/theme-functions.php:706
+#: includes/theme-functions.php:707
+#@ onetone
+msgid "Customize Content for Homepage"
+msgstr "Настройка содержимого для Главная"
+
+#: includes/theme-functions.php:707
+#@ onetone
+msgid "Open this page to edit content for homepage and customize styles of the site."
+msgstr "Открыть страницу для редактирования контента для главной страницы и настроить стили сайта."
+
+#: includes/theme-functions.php:827
+#@ onetone
+msgid "Restore successfully."
+msgstr "Восстановление успешно."
+
+#: includes/theme-setup.php:28
+#@ onetone
+msgid "Primary Menu"
+msgstr "основное меню"
+
+#: includes/theme-setup.php:29
+#@ onetone
+msgid "Home Page Header Menu"
+msgstr "Меню Заголовка Главной Страницы"
+
+#: includes/theme-setup.php:30
+#@ onetone
+msgid "Top Bar Menu"
+msgstr "Верхнее Меню"
+
+#: includes/theme-setup.php:545
+#, php-format
+#@ onetone
+msgid "To edit contents for homepage, please go to <a href=\"%s\">Theme Options</a>"
+msgstr "Чтобы изменить содержимое на странице, пожалуйста, перейдите на <a href=\"%s\">Настройка Темы</a>"
+
+#: includes/theme-setup.php:644
+#: includes/theme-setup.php:645
+#@ onetone
+msgid "Onetone Options"
+msgstr "Onetone Опции"
+
+#: includes/theme-setup.php:676
+#@ onetone
+msgid "Untitled"
+msgstr "Без названия"
+
+#: includes/theme-widget.php:9
+#@ onetone
+msgid "Default Sidebar"
+msgstr "По умолчанию боковая панель"
+
+#: includes/theme-widget.php:10
+#@ onetone
+msgid "Sidebar 1"
+msgstr "Боковая панель 1"
+
+#: includes/theme-widget.php:11
+#@ onetone
+msgid "Sidebar 2"
+msgstr "Боковая панель 2"
+
+#: includes/theme-widget.php:12
+#@ onetone
+msgid "Sidebar 3"
+msgstr "Боковая панель 3"
+
+#: includes/theme-widget.php:13
+#@ onetone
+msgid "Sidebar 4"
+msgstr "Боковая панель 4"
+
+#: includes/theme-widget.php:14
+#: includes/theme-widget.php:15
+#@ onetone
+msgid "Sidebar 5"
+msgstr "Боковая панель 5"
+
+#: includes/theme-widget.php:16
+#@ onetone
+msgid "Sidebar 6"
+msgstr "Боковая панель 6"
+
+#: includes/theme-widget.php:17
+#@ onetone
+msgid "Sidebar 7"
+msgstr "Боковая панель 7"
+
+#: includes/theme-widget.php:18
+#@ onetone
+msgid "Sidebar 8"
+msgstr "Боковая панель 8"
+
+#: includes/theme-widget.php:19
+#@ onetone
+msgid "Footer Area One"
+msgstr "Область нижнего колонтитула 1"
+
+#: includes/theme-widget.php:20
+#@ onetone
+msgid "Footer Area Two"
+msgstr "Область нижнего колонтитула 2"
+
+#: includes/theme-widget.php:21
+#@ onetone
+msgid "Footer Area Three"
+msgstr "Область нижнего колонтитула 3"
+
+#: includes/theme-widget.php:22
+#@ onetone
+msgid "Footer Area Four"
+msgstr "Область нижнего колонтитула 4"
+
+#: page.php:73
+#: single.php:62
+#@ onetone
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: single.php:81
+#@ onetone
+msgid "About the author"
+msgstr "Об авторе"
+
+#: single.php:104
+#@ onetone
+msgid "Related Posts"
+msgstr "Похожие сообщения"
+

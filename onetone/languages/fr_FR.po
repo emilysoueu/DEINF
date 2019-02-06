@@ -1,0 +1,1826 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: onetone 1.6.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-21 18:05-0500\n"
+"PO-Revision-Date: 2016-02-18 17:27+0800\n"
+"Language-Team: technocyclope.com <matthieu@technocyclope.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: shijun quan <support@mageewp.com>\n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/includes/class-options-framework-admin.php:91
+#: admin/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: admin/includes/class-options-framework-admin.php:204
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+"Cliquez sur OK pour réinitialiser. Tous les réglages du thème seront perdus !"
+
+#: admin/includes/class-options-framework-admin.php:235
+msgid "Default options restored."
+msgstr "Les options par défaut restaurées."
+
+#: admin/includes/class-options-framework-admin.php:291
+msgid "Options saved."
+msgstr "Options enregistrées."
+
+#: admin/includes/class-options-interface.php:132
+msgid "Save"
+msgstr "Enregistrer"
+
+#: admin/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr "Aucun fichier sélectionné"
+
+#: admin/includes/class-options-media-uploader.php:65
+#: admin/includes/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr "Téléverser"
+
+#: admin/includes/class-options-media-uploader.php:67
+#: admin/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr "Supprimer"
+
+#: admin/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+"Mettre à jour votre version de WordPress pour le support media complet."
+
+#: admin/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr "Afficher le fichier"
+
+#: admin/includes/class-options-sanitization.php:320
+msgid "No Repeat"
+msgstr "Pas de répétitions"
+
+#: admin/includes/class-options-sanitization.php:321
+msgid "Repeat Horizontally"
+msgstr "Répétition horizontale"
+
+#: admin/includes/class-options-sanitization.php:322
+msgid "Repeat Vertically"
+msgstr "Répétition verticale"
+
+#: admin/includes/class-options-sanitization.php:323
+msgid "Repeat All"
+msgstr "Tout répéter"
+
+#: admin/includes/class-options-sanitization.php:335
+msgid "Top Left"
+msgstr "Haut gauche"
+
+#: admin/includes/class-options-sanitization.php:336
+msgid "Top Center"
+msgstr "Haut centre"
+
+#: admin/includes/class-options-sanitization.php:337
+msgid "Top Right"
+msgstr "Haut droit"
+
+#: admin/includes/class-options-sanitization.php:338
+msgid "Middle Left"
+msgstr "Milieu gauche"
+
+#: admin/includes/class-options-sanitization.php:339
+msgid "Middle Center"
+msgstr "Milieu centre"
+
+#: admin/includes/class-options-sanitization.php:340
+msgid "Middle Right"
+msgstr "Milieu droit"
+
+#: admin/includes/class-options-sanitization.php:341
+msgid "Bottom Left"
+msgstr "Bas gauche"
+
+#: admin/includes/class-options-sanitization.php:342
+msgid "Bottom Center"
+msgstr "Bas centre"
+
+#: admin/includes/class-options-sanitization.php:343
+msgid "Bottom Right"
+msgstr "Bas droite"
+
+#: admin/includes/class-options-sanitization.php:355
+msgid "Scroll Normally"
+msgstr "Défiler normalement"
+
+#: admin/includes/class-options-sanitization.php:356
+msgid "Fixed in Place"
+msgstr "Fixe"
+
+#: admin/includes/class-options-sanitization.php:428
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/includes/class-options-sanitization.php:429
+msgid "Italic"
+msgstr "Italique"
+
+#: admin/includes/class-options-sanitization.php:430
+msgid "Bold"
+msgstr "Gras"
+
+#: admin/includes/class-options-sanitization.php:431
+msgid "Bold Italic"
+msgstr "Gras Italique"
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Cet article est protégé par mot de passe. Entrez le mot de passe pour voir "
+"les commentaires."
+
+#: comments.php:11
+msgid "No comment"
+msgstr "Aucun commentaire"
+
+#: comments.php:11
+msgid "Has one comment"
+msgstr "a un commentaire"
+
+#: comments.php:11 content-article.php:26 content.php:30 single.php:52
+#, php-format
+msgid "% comments"
+msgstr "% commentaires"
+
+#: comments.php:11
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "à «%s»"
+
+#: comments.php:12
+msgid "You can "
+msgstr "Vous pouvez "
+
+#: comments.php:12
+msgid "leave a reply"
+msgstr "laisser un commentaire"
+
+#: comments.php:12
+msgid " or "
+msgstr "ou"
+
+#: comments.php:12
+msgid "Trackback"
+msgstr "Rétroliens (trackbacks)"
+
+#: comments.php:12
+msgid "this post."
+msgstr "cet article."
+
+#: comments.php:24
+msgid "Comment pages"
+msgstr "Pages de commentaires"
+
+#: comments.php:54
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Vous devez être <a href=\"%s\">connecté</a> pour publier un commentaire."
+
+#: comments.php:65
+msgid "Your email address will not be published."
+msgstr "Votre adresse courriel ne sera pas rendu publique."
+
+#: comments.php:68
+msgid "Leave a Reply"
+msgstr "Laissez un commentaire"
+
+#: comments.php:73
+msgid "Message"
+msgstr "Message"
+
+#: comments.php:77
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:81
+msgid "Email"
+msgstr "Courriel"
+
+#: comments.php:85
+msgid "Website"
+msgstr "Site"
+
+#: content-article.php:26 content.php:30 single.php:52
+msgid "No comments yet"
+msgstr "aucun commentaire pour l'instant"
+
+#: content-article.php:26 content.php:30 single.php:52
+msgid "1 comment"
+msgstr "1 commentaire"
+
+#: content-article.php:33 content.php:44
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article ? <a href=\"%1$s\">Commencez ici</a>."
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Aucun résultat ne correspond à vos critères de recherche. Veuillez essayer "
+"avec d'autres mots-clés."
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous n'avons pas pu trouver ce que vous cherchez. Essayez "
+"plutôt la recherche."
+
+#: footer.php:48
+#, php-format
+msgid "Designed by <a href=\"%s\">MageeWP Themes</a>."
+msgstr "Conçu par <a href=\"%s\">MageeWP Themes</a>."
+
+#: footer.php:50
+msgid "Designed by MageeWP Themes."
+msgstr "Conçu par MageeWP Themes."
+
+#: functions.php:84
+msgid "Magee Shortcodes"
+msgstr "Magee Shortcodes"
+
+#: functions.php:116 includes/class-tgm-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr "Installer les extensions requises"
+
+#: functions.php:117 includes/class-tgm-plugin-activation.php:302
+msgid "Install Plugins"
+msgstr "Installer les extensions"
+
+#: functions.php:118 includes/class-tgm-plugin-activation.php:303
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installation de l'extension : %s"
+
+#: functions.php:119 includes/class-tgm-plugin-activation.php:304
+msgid "Something went wrong with the plugin API."
+msgstr "Il y a eu un problème avec l'API des extensions."
+
+#: functions.php:130 includes/class-tgm-plugin-activation.php:365
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à l'installeur des extensions requises"
+
+#: functions.php:131 includes/class-tgm-plugin-activation.php:367
+#: includes/class-tgm-plugin-activation.php:2955
+msgid "Plugin activated successfully."
+msgstr "Extension activée avec succès."
+
+#: functions.php:132
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Toutes les extensions sont installées et activées avec succès. %s"
+
+#: header-home.php:103 header-home.php:187 header.php:101 header.php:138
+msgid "Toggle navigation"
+msgstr "Navigation - bascule"
+
+#: includes/admin-options.php:46
+msgid "-- Default --"
+msgstr "-- par défaut --"
+
+#: includes/admin-options.php:85 includes/admin-options.php:91
+#: includes/admin-options.php:98 includes/metabox-options.php:208
+#: includes/metabox-options.php:216
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/admin-options.php:86 includes/admin-options.php:92
+#: includes/admin-options.php:97 includes/metabox-options.php:207
+#: includes/metabox-options.php:217
+msgid "No"
+msgstr "Non"
+
+#: includes/admin-options.php:102 includes/metabox-options.php:164
+msgid "Default"
+msgstr "Valeur par défaut"
+
+#: includes/admin-options.php:103 includes/admin-options.php:909
+msgid "left"
+msgstr "left"
+
+#: includes/admin-options.php:104 includes/admin-options.php:911
+msgid "right"
+msgstr "right"
+
+#: includes/admin-options.php:105
+msgid "center"
+msgstr "center"
+
+#: includes/admin-options.php:109
+msgid "repeat"
+msgstr "repeat"
+
+#: includes/admin-options.php:110
+msgid "repeat-x"
+msgstr "repeat-x"
+
+#: includes/admin-options.php:111
+msgid "repeat-y"
+msgstr "repeat-y"
+
+#: includes/admin-options.php:112
+msgid "no-repeat"
+msgstr "no-repeat"
+
+#: includes/admin-options.php:118
+msgid "top left"
+msgstr "top left"
+
+#: includes/admin-options.php:119
+msgid "top center"
+msgstr "top center"
+
+#: includes/admin-options.php:120
+msgid "top right"
+msgstr "top right"
+
+#: includes/admin-options.php:121
+msgid "center left"
+msgstr "centre gauche"
+
+#: includes/admin-options.php:122
+msgid "center center"
+msgstr "centre centre"
+
+#: includes/admin-options.php:123
+msgid "center right"
+msgstr "centre droit"
+
+#: includes/admin-options.php:124
+msgid "bottom left"
+msgstr "bas gauche"
+
+#: includes/admin-options.php:125
+msgid "bottom center"
+msgstr "bas centre"
+
+#: includes/admin-options.php:126
+msgid "bottom right"
+msgstr "bas droite"
+
+#: includes/admin-options.php:355
+msgid "Home Page"
+msgstr "Page d'accueil"
+
+#: includes/admin-options.php:361
+msgid "Number of Sections in Homepage"
+msgstr "Nombre de sections dans la page d'accueil"
+
+#: includes/admin-options.php:362
+msgid ""
+"Insert the number of sections here. You need to click the following \"save\" "
+"button to refresh this page so your change would be applied."
+msgstr ""
+"Insérez le nombre de sections ici. Vous devrez cliquer sur le bouton "
+"«enregistrer» pour actualiser cette page afin que vos modifications "
+"s'appliquent."
+
+#: includes/admin-options.php:371
+msgid "YouTube Video Background Options"
+msgstr "Options de la vidéo YouTube de fond"
+
+#: includes/admin-options.php:380
+msgid "YouTube ID for Video Background"
+msgstr "Identifiant YouTube de la vidéo de fond"
+
+#: includes/admin-options.php:380
+msgid "Insert the eleven-letter id here, not url."
+msgstr "Entrez l'identifiant à onze lettres, pas l'adresse URL."
+
+#: includes/admin-options.php:384
+msgid "Video Controls"
+msgstr "Commandes de la vidéo"
+
+#: includes/admin-options.php:385
+msgid ""
+"Choose to display video controls at bottom of the section with video "
+"background."
+msgstr ""
+"Choisissez d'afficher les contrôles vidéo en bas de la section avec "
+"l'arrière-plan vidéo."
+
+#: includes/admin-options.php:400
+msgid "Video Background Section"
+msgstr "Section avec fond vidéo"
+
+#: includes/admin-options.php:404
+msgid "Section 1 Content"
+msgstr "Contenu de la section 1"
+
+#: includes/admin-options.php:433
+#, php-format
+msgid "Section %s"
+msgstr "Section : %s"
+
+#: includes/admin-options.php:454
+msgid "Section Title"
+msgstr "Titre de la section"
+
+#: includes/admin-options.php:459
+msgid ""
+"Insert title for this section. It would appear at the top of the section."
+msgstr "Insérer le titre de cette section. Il apparaît en haut de la section."
+
+#: includes/admin-options.php:462
+msgid "Menu Title"
+msgstr "Titre du menu"
+
+#: includes/admin-options.php:466
+msgid ""
+"Insert menu title for this section. This title would appear in the header "
+"menu. If leave it as blank, the link of this section would not be displayed "
+"in header menu."
+msgstr ""
+"Insérer le titre de menu pour cette section. Ce titre apparaît dans le menu "
+"d'entête. S'il est vide, le lien de cette section ne serait pas affiché dans "
+"le menu de l'entête."
+
+#: includes/admin-options.php:470
+msgid "Menu Slug"
+msgstr "Label du menu"
+
+#: includes/admin-options.php:474
+msgid ""
+"The \"slug\" is the URL-friendly version of menu title. It is usually all "
+"lowercase and contains only letters, numbers, and hyphens. If the menu title "
+"contains non-eng characters, you need to fill this form."
+msgstr ""
+"Le «label» est la version «adresse» du titre du menu. Il est généralement en "
+"minuscule et ne contient que des lettres, des chiffres et des traits "
+"d'union. Si le titre du menu contient des caractères non-anglais, vous devez "
+"remplir ce champs."
+
+#: includes/admin-options.php:479
+msgid "Section Background"
+msgstr "Fond de la section"
+
+#: includes/admin-options.php:484
+msgid "Set background color & background image for this section."
+msgstr "Définir la couleur de fond & l'image de fond pour cette section."
+
+#: includes/admin-options.php:488
+msgid "Parallax Scrolling Background Image"
+msgstr "Image de fond défilante avec effet de parallaxe"
+
+#: includes/admin-options.php:494
+msgid "Choose to apply parallax scrolling effect for background image."
+msgstr ""
+"Choisir d'appliquer l'effet de défilement parallaxe pour l'image de fond."
+
+#: includes/admin-options.php:499
+msgid "Section Css Class"
+msgstr "Class CSS de la section"
+
+#: includes/admin-options.php:504
+msgid "Set an aditional css class of this section."
+msgstr "Définir une classe CSS additionnelle pour cette section."
+
+#: includes/admin-options.php:507
+msgid "Section Padding"
+msgstr "Marge interne de la section"
+
+#: includes/admin-options.php:512
+msgid ""
+"Set padding for this section. In pixels (px), eg: 10px 20px 30px 0. These "
+"four numbers represent padding top/right/bottom/left."
+msgstr ""
+"Définir la marge interne pour cette section. En pixels (px), eg : 10px 20px "
+"30px 0. Ces quatre nombres représentent les marges internes haut/droit/bas/"
+"gauche."
+
+#: includes/admin-options.php:516
+msgid "Text Align"
+msgstr "Alignement du texte"
+
+#: includes/admin-options.php:522
+msgid "Set content align for this section."
+msgstr "Définir l'alignement pour cette section."
+
+#: includes/admin-options.php:527
+msgid "Section Content"
+msgstr "Contenu de la section"
+
+#: includes/admin-options.php:535
+msgid "Section Title Typography"
+msgstr "Typographie du titre de la section"
+
+#: includes/admin-options.php:543
+msgid "Section Content Typography"
+msgstr "Typographie du contenu de la section"
+
+#: includes/admin-options.php:554
+msgid "Delete this section"
+msgstr "Supprimer cette section"
+
+#: includes/admin-options.php:571
+msgid "General Options"
+msgstr "Options générales"
+
+#: includes/admin-options.php:576
+msgid "Back to Top Button"
+msgstr "Bouton de retour vers le haut"
+
+#: includes/admin-options.php:581
+msgid "Show"
+msgstr "Afficher"
+
+#: includes/admin-options.php:581
+msgid "Hide"
+msgstr "Cacher"
+
+#: includes/admin-options.php:586
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: includes/admin-options.php:587
+msgid ""
+"The following css code will add to the header before the closing &lt;/"
+"head&gt; tag."
+msgstr ""
+"Le code CSS suivant va s'ajouter à l’entête avant la balise &lt;/head&gt; de "
+"fermeture."
+
+#: includes/admin-options.php:594
+msgid "Tracking"
+msgstr "Suivi"
+
+#: includes/admin-options.php:606
+msgid "Tracking Code"
+msgstr "Code de suivi"
+
+#: includes/admin-options.php:607
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header template of your theme. Please put code inside script "
+"tags."
+msgstr ""
+"Collez votre code de suivi (Tracking code) de Google Analytics (ou autre) "
+"ici. Ce code sera ajouté dans le gabarit de l’entête de votre thème. S’il "
+"vous plaît mettre le code dans des balises de script."
+
+#: includes/admin-options.php:618
+msgid "Space before &lt;/head&gt;"
+msgstr "Espace avant &lt;/head&gt;"
+
+#: includes/admin-options.php:619
+msgid "Add code before the head tag."
+msgstr "Ajouter du code avant la balise HEAD."
+
+#: includes/admin-options.php:630
+msgid "Space before &lt;/body&gt;"
+msgstr "Espace avant &lt;/body&gt;"
+
+#: includes/admin-options.php:631
+msgid "Add code before the body tag."
+msgstr "Ajouter du code avant la balise BODY."
+
+#: includes/admin-options.php:645
+msgid "Header"
+msgstr "Entête"
+
+#: includes/admin-options.php:653
+msgid "Header Background"
+msgstr "Fond de l'entête"
+
+#: includes/admin-options.php:667
+msgid "Header Background Image"
+msgstr "Image de fond de l'entête"
+
+#: includes/admin-options.php:668
+msgid "Background Image For Header Area"
+msgstr "Image d’arrière-plan pour la zone d’en-tête"
+
+#: includes/admin-options.php:678
+msgid "100% Background Image"
+msgstr "Image d’arrière-plan à 100%"
+
+#: includes/admin-options.php:679
+msgid ""
+"Turn on to have the header background image display at 100% in width and "
+"height and scale according to the browser size."
+msgstr ""
+"Cochez cette case pour que l’image de fond de l’entête s'affiche à 100% en "
+"largeur et en hauteur et se mette à l’échelle en fonction de la taille du "
+"navigateur."
+
+#: includes/admin-options.php:689
+msgid "Parallax Background Image"
+msgstr "Image de fond avec effet de parallaxe"
+
+#: includes/admin-options.php:690
+msgid ""
+"Turn on to enable parallax scrolling on the background image for header top "
+"positions."
+msgstr ""
+"Cocher cette case pour activer le défilement parallaxe de l’image de fond "
+"pour les positions hautes de l'entête."
+
+#: includes/admin-options.php:701
+msgid "Background Repeat"
+msgstr "Répétition de l’arrière-plan"
+
+#: includes/admin-options.php:702
+msgid "Select how the background image repeats."
+msgstr "Choisir comment l’image de fond se répète."
+
+#: includes/admin-options.php:712
+msgid "Header Top Padding"
+msgstr "Marge du haut de l’entête"
+
+#: includes/admin-options.php:713 includes/admin-options.php:724
+#: includes/admin-options.php:1390 includes/admin-options.php:1401
+msgid "In pixels or percentage, ex: 10px or 10%."
+msgstr "En pixels ou pourcentage, ex : 10px ou 10%."
+
+#: includes/admin-options.php:723
+msgid "Header Bottom Padding"
+msgstr "Marge du bas de l’entête"
+
+#: includes/admin-options.php:736
+msgid "Top Bar Options"
+msgstr "Options de la barre supérieure"
+
+#: includes/admin-options.php:748
+msgid "Display Top Bar"
+msgstr "Afficher la barre supérieure"
+
+#: includes/admin-options.php:759
+msgid "Background Color"
+msgstr "Couleur de l’arrière-plan"
+
+#: includes/admin-options.php:770
+msgid "Left Content"
+msgstr "Contenu gauche"
+
+#: includes/admin-options.php:778 includes/admin-options.php:795
+msgid "info"
+msgstr "information"
+
+#: includes/admin-options.php:779 includes/admin-options.php:797
+msgid "sns"
+msgstr "social"
+
+#: includes/admin-options.php:780 includes/admin-options.php:799
+msgid "menu"
+msgstr "menu"
+
+#: includes/admin-options.php:781 includes/admin-options.php:801
+msgid "none"
+msgstr "aucun"
+
+#: includes/admin-options.php:787
+msgid "Right Content"
+msgstr "Contenu de droite"
+
+#: includes/admin-options.php:808
+msgid "Info Color"
+msgstr "Couleur de l'information"
+
+#: includes/admin-options.php:819
+msgid "Info Content"
+msgstr "Contenu de l'information"
+
+#: includes/admin-options.php:830
+msgid "Menu Color"
+msgstr "Couleur du menu"
+
+#: includes/admin-options.php:841
+msgid "Social Links"
+msgstr "Réseaux sociaux"
+
+#: includes/admin-options.php:856
+msgid "Social Title"
+msgstr "Titre pour les réseaux sociaux"
+
+#: includes/admin-options.php:866
+msgid "Social Icon"
+msgstr "Icône de réseau social"
+
+#: includes/admin-options.php:867
+msgid "FontAwesome Icon"
+msgstr "Icône FontAwesome"
+
+#: includes/admin-options.php:876
+msgid "Social Icon Link"
+msgstr "Lien de l'icône de réseau social"
+
+#: includes/admin-options.php:892
+msgid "Social Icons Color"
+msgstr "Couleur des icônes des réseaux sociaux"
+
+#: includes/admin-options.php:902
+msgid "Social Icon Tooltip Position"
+msgstr "Position de l’info-bulle des icônes des réseaux sociaux"
+
+#: includes/admin-options.php:913
+msgid "bottom"
+msgstr "bas"
+
+#: includes/admin-options.php:922
+msgid "Sticky Header"
+msgstr "Entête épinglée"
+
+#: includes/admin-options.php:929
+msgid "Enable Sticky Header"
+msgstr "Activer l’entête épinglé"
+
+#: includes/admin-options.php:940
+msgid "Enable Sticky Header on Tablets"
+msgstr "Activer l’entête épinglé sur les tablettes"
+
+#: includes/admin-options.php:951
+msgid "Enable Sticky Header on Mobiles"
+msgstr "Activer l’entête épinglé sur les mobiles"
+
+#: includes/admin-options.php:966
+msgid "Sticky Header Menu Item Padding"
+msgstr "Marge interne de l'élément de menu de l'entête épinglée"
+
+#: includes/admin-options.php:967
+msgid ""
+"Controls the space between each menu item in the sticky header. Use a number "
+"without 'px', default is 0. ex: 10"
+msgstr ""
+"Contrôle l’espace entre chaque élément du menu dans l’entête épinglée. "
+"Utilisez un nombre sans ‘px’. La valeur par défaut est de 0. Par ex: 10"
+
+#: includes/admin-options.php:977
+msgid "Sticky Header Navigation Font Size"
+msgstr "Taille de la police de la barre de navigation de l'entête épinglée"
+
+#: includes/admin-options.php:978
+msgid ""
+"Controls the font size of the menu items in the sticky header. Use a number "
+"without 'px', default is 14. ex: 14"
+msgstr ""
+"Contrôle la taille de la police des éléments de menu dans l’en-tête fixe. "
+"Utilisez un nombre sans ‘px’. La valeur par défaut est de 14. Par ex: 14"
+
+#: includes/admin-options.php:988
+msgid "Sticky Header Logo Width"
+msgstr "Largeur du logo de l'entête épinglée"
+
+#: includes/admin-options.php:989
+msgid ""
+"Controls the logo width in the sticky header. Use a number without 'px'."
+msgstr ""
+"Contrôle la largeur de logo dans l'entête épinglée. Utilisez un nombre sans "
+"«px»."
+
+#: includes/admin-options.php:1003 includes/admin-options.php:1008
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/admin-options.php:1020 includes/admin-options.php:1079
+msgid "Upload Logo"
+msgstr "Téléverser le logo"
+
+#: includes/admin-options.php:1021 includes/admin-options.php:1080
+msgid "Select an image file for your logo."
+msgstr "Sélectionnez une image pour votre logo."
+
+#: includes/admin-options.php:1032 includes/admin-options.php:1091
+msgid "Upload Logo (Retina Version @2x)"
+msgstr "Téléverser le logo (Version Retina @2x)"
+
+#: includes/admin-options.php:1033 includes/admin-options.php:1092
+msgid ""
+"Select an image file for the retina version of the logo. It should be "
+"exactly 2x the size of main logo."
+msgstr ""
+"Sélectionnez une image pour la version Retina du logo. Elle doit être "
+"exactement 2x la taille du logo principal."
+
+#: includes/admin-options.php:1043
+msgid "Standard Logo Width for Retina Logo"
+msgstr "Largeur standard du logo Retina"
+
+#: includes/admin-options.php:1044 includes/admin-options.php:1103
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version width, do "
+"not enter the retina logo width. Use a number without 'px', ex: 40"
+msgstr ""
+"Si vous téléversez le logo Retina, entrez la largeur du logo standard (1x), "
+"n'entrez pas la largeur du logo Retina. Utiliser un nombre sans ‘px’, ex : 40"
+
+#: includes/admin-options.php:1055
+msgid "Standard Logo Height for Retina Logo"
+msgstr "Hauteur standard du logo Retina"
+
+#: includes/admin-options.php:1056 includes/admin-options.php:1115
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version height, do "
+"not enter the retina logo height. Use a number without 'px', ex: 40"
+msgstr ""
+"Si vous téléversez le logo Retina, entrez la hauteur du logo standard (1x), "
+"n'entrez pas la hauteur du logo Retina. Utilisez un nombre sans ‘px’, ex : 40"
+
+#: includes/admin-options.php:1067
+msgid "Sticky Header Logo"
+msgstr "Logo de l'entête épinglée"
+
+#: includes/admin-options.php:1102
+msgid "Sticky Logo Width for Retina Logo"
+msgstr "Largeur du logo Retina de l'entête épinglée"
+
+#: includes/admin-options.php:1114
+msgid "Sticky Logo Height for Retina Logo"
+msgstr "Hauteur du logo Retina de l'entête épinglée"
+
+#: includes/admin-options.php:1126
+msgid "Logo Left Margin"
+msgstr "Marge gauche du logo"
+
+#: includes/admin-options.php:1127 includes/admin-options.php:1138
+#: includes/admin-options.php:1149 includes/admin-options.php:1160
+msgid "Use a number without 'px', ex: 40"
+msgstr "Utilisez un nombre sans «px», ex : 40"
+
+#: includes/admin-options.php:1137
+msgid "Logo Right Margin"
+msgstr "Marge droite du logo"
+
+#: includes/admin-options.php:1148
+msgid "Logo Top Margin"
+msgstr "Marge supérieure du logo"
+
+#: includes/admin-options.php:1159
+msgid "Logo Bottom Margin"
+msgstr "Marge inférieure du logo"
+
+#: includes/admin-options.php:1172
+msgid "Styling"
+msgstr "Stylisme"
+
+#: includes/admin-options.php:1198
+msgid "Primary Color"
+msgstr "Couleur principale"
+
+#: includes/admin-options.php:1211
+msgid "Background Colors"
+msgstr "Couleurs d’arrière-plan"
+
+#: includes/admin-options.php:1223
+msgid "Sticky Header Background Color"
+msgstr "Couleur de fond de l'entête épinglée"
+
+#: includes/admin-options.php:1234
+msgid "Sticky Header Background Opacity"
+msgstr "Opacité du fond de l'entête épinglée"
+
+#: includes/admin-options.php:1235 includes/admin-options.php:1258
+msgid ""
+"Opacity only works with header top position and ranges between 0 "
+"(transparent) and 1."
+msgstr ""
+"L'opacité fonctionne uniquement avec la position haut de l'entête et varie "
+"entre 0 (transparent) et 1."
+
+#: includes/admin-options.php:1246
+msgid "Header Background Color"
+msgstr "Couleur de fond de l'entête"
+
+#: includes/admin-options.php:1257
+msgid "Header Background Opacity"
+msgstr "Opacité du fond de l'entête"
+
+#: includes/admin-options.php:1270
+msgid "Content Background Color"
+msgstr "Couleur de fond du contenu"
+
+#: includes/admin-options.php:1281
+msgid "Sidebar Background Color"
+msgstr "Couleur de fond de la barre latérale"
+
+#: includes/admin-options.php:1292
+msgid "Footer Background Color"
+msgstr "Couleur de fond du pied de page"
+
+#: includes/admin-options.php:1304
+msgid "Copyright Background Color"
+msgstr "Couleur de fond du copyright"
+
+#: includes/admin-options.php:1319
+msgid "Element Colors"
+msgstr "Couleurs d'éléments divers"
+
+#: includes/admin-options.php:1331
+msgid "Footer Widget Divider Color"
+msgstr "Couleur de diviseur de widget de pied de page"
+
+#: includes/admin-options.php:1332
+msgid "Controls the divider color in the footer."
+msgstr "Contrôle la couleur de diviseur dans le pied de page."
+
+#: includes/admin-options.php:1342
+msgid "Form Background Color"
+msgstr "Couleur de fond du formulaire"
+
+#: includes/admin-options.php:1343
+msgid "Controls the background color of form fields."
+msgstr "Contrôle la couleur d'arrière plan des champs de formulaire."
+
+#: includes/admin-options.php:1353
+msgid "Form Text Color"
+msgstr "Couleur de texte du formulaire"
+
+#: includes/admin-options.php:1354
+msgid "Controls the text color for forms."
+msgstr "Contrôle la couleur du texte pour les formulaires."
+
+#: includes/admin-options.php:1364
+msgid "Form Border Color"
+msgstr "Couleur de bordure du formulaire"
+
+#: includes/admin-options.php:1365
+msgid "Controls the border color for forms."
+msgstr "Contrôle la couleur de la bordure pour les formulaires."
+
+#: includes/admin-options.php:1377
+msgid "Layout Options"
+msgstr "Options de disposition"
+
+#: includes/admin-options.php:1389
+msgid "Page Content Top Padding"
+msgstr "Marges internes supérieures du contenu de la page"
+
+#: includes/admin-options.php:1400
+msgid "Page Content Bottom Padding"
+msgstr "Marge interne inférieure du contenu de la page"
+
+#: includes/admin-options.php:1411
+msgid "100% Width Left/Right Padding ###"
+msgstr "Marges internes gauche/droite de largeur à 100%"
+
+#: includes/admin-options.php:1412
+msgid ""
+"This option controls the left/right padding for page content when using 100% "
+"site width or 100% width page template. In pixels or percentage, ex: 10px or "
+"10%."
+msgstr ""
+"Cette option contrôle les marges internes gauche/droite pour le contenu de "
+"la page lors de l’utilisation de la largeur 100% du site ou du gabarit de "
+"page de largeur 100%. En pixels ou en pourcentage, ex : 10px ou 10%."
+
+#: includes/admin-options.php:1422
+msgid "Sidebar Padding"
+msgstr "Marge interne de la barre latérale"
+
+#: includes/admin-options.php:1423
+msgid "Enter a pixel or percentage based value, ex: 5px or 5%"
+msgstr ""
+"Entrez une valeur basée sur les pixel ou les pourcentages, ex: 5px ou 5%"
+
+#: includes/admin-options.php:1433
+msgid "Column Top Margin"
+msgstr "Marge supérieure de colonne"
+
+#: includes/admin-options.php:1434
+msgid ""
+"Controls the top margin for all column sizes. In pixels or percentage, ex: "
+"10px or 10%."
+msgstr ""
+"Contrôle la marge supérieure pour toutes les tailles de colonnes. En pixels "
+"ou en pourcentage, ex: 10px ou 10%."
+
+#: includes/admin-options.php:1444
+msgid "Column Bottom Margin"
+msgstr "Marge inférieure de colonne"
+
+#: includes/admin-options.php:1445
+msgid ""
+"Controls the bottom margin for all column sizes. In pixels or percentage, "
+"ex: 10px or 10%."
+msgstr ""
+"Contrôle la marge inférieure pour toutes les tailles de colonnes. En pixels "
+"ou en pourcentage, ex: 10px ou 10%."
+
+#: includes/admin-options.php:1458
+msgid "Font Colors"
+msgstr "Couleurs de police"
+
+#: includes/admin-options.php:1475
+msgid "Header Tagline"
+msgstr "Slogan de l'entête"
+
+#: includes/admin-options.php:1486
+msgid "Page Title"
+msgstr "Titre de la page"
+
+#: includes/admin-options.php:1498
+msgid "Heading 1 (H1) Font Color"
+msgstr "Titre 1 (H1) Couleur de police"
+
+#: includes/admin-options.php:1509
+msgid "Heading 2 (H2) Font Color"
+msgstr "Titre 2 (H2) Couleur de police"
+
+#: includes/admin-options.php:1520
+msgid "Heading 3 (H3) Font Color"
+msgstr "Titre 3 (H3) Couleur de police"
+
+#: includes/admin-options.php:1531
+msgid "Heading 4 (H4) Font Color"
+msgstr "Titre 4 (H4) Couleur de police"
+
+#: includes/admin-options.php:1542
+msgid "Heading 5 (H5) Font Color"
+msgstr "Titre 5 (H5) Couleur de police"
+
+#: includes/admin-options.php:1553
+msgid "Heading 6 (H6) Font Color"
+msgstr "Titre 6 (H6) Couleur de police"
+
+#: includes/admin-options.php:1565
+msgid "Body Text Color"
+msgstr "Couleur du corps du texte"
+
+#: includes/admin-options.php:1576
+msgid "Links Color"
+msgstr "Couleur des liens"
+
+#: includes/admin-options.php:1587
+msgid "Breadcrumbs Text Color"
+msgstr "Couleur du texte du Fil d’Ariane :"
+
+#: includes/admin-options.php:1599
+msgid "Sidebar Widget Headings Color"
+msgstr "Couleur des Titres des Widgets de la barre latérale"
+
+#: includes/admin-options.php:1610
+msgid "Footer Headings Color"
+msgstr "Couleur des titres de pied de page"
+
+#: includes/admin-options.php:1621
+msgid "Footer Text Color"
+msgstr "Couleur du texte du pied de page"
+
+#: includes/admin-options.php:1632
+msgid "Footer Link Color"
+msgstr "Couleur des liens dans le pied de page"
+
+#: includes/admin-options.php:1647
+msgid "Main Menu Colors"
+msgstr "Couleurs du menu principal"
+
+#: includes/admin-options.php:1660
+msgid "Main Menu Background Color"
+msgstr "Couleur de fond du menu principal"
+
+#: includes/admin-options.php:1671
+msgid "Main Menu Font Color ( First Level )"
+msgstr "Couleur de police du menu principal (premier niveau)"
+
+#: includes/admin-options.php:1682
+msgid "Main Menu Font Hover Color ( First Level )"
+msgstr "Couleur de police au survol du menu principal (Premier niveau)"
+
+#: includes/admin-options.php:1693
+msgid "Main Menu Background Color ( Sub Level )"
+msgstr "Couleur de fond du menu principal (sous niveau)"
+
+#: includes/admin-options.php:1705
+msgid "Main Menu Font Color ( Sub Level )"
+msgstr "Couleur de police du menu principal (sous niveau)"
+
+#: includes/admin-options.php:1716
+msgid "Main Menu Font Hover Color ( Sub Level )"
+msgstr "Couleur de police au survol du menu principal (sous niveau)"
+
+#: includes/admin-options.php:1727
+msgid "Main Menu Separator Color ( Sub Levels )"
+msgstr "Couleur de séparateur du menu principal (sous niveaux)"
+
+#: includes/admin-options.php:1744
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: includes/admin-options.php:1750
+msgid "Blog Posts"
+msgstr "Articles"
+
+#: includes/admin-options.php:1763 includes/admin-options.php:1804
+#: includes/admin-options.php:1843 includes/admin-options.php:1882
+#: includes/metabox-options.php:237
+msgid "Left Sidebar"
+msgstr "Barre latérale gauche"
+
+#: includes/admin-options.php:1775 includes/admin-options.php:1816
+#: includes/admin-options.php:1855 includes/admin-options.php:1894
+#: includes/metabox-options.php:238
+msgid "Right Sidebar"
+msgstr "Barre latérale droite"
+
+#: includes/admin-options.php:1791
+msgid "Blog Archive / Category Pages"
+msgstr "Archive / pages des catégories"
+
+#: includes/admin-options.php:1830
+msgid "Search Page"
+msgstr "Page de recherche"
+
+#: includes/admin-options.php:1869
+msgid "404 Page"
+msgstr "Page 404"
+
+#: includes/admin-options.php:1911
+msgid "Slider"
+msgstr "Diaporama"
+
+#: includes/admin-options.php:1917
+msgid "Slideshow"
+msgstr "Diaporama"
+
+#: includes/admin-options.php:1922
+msgid "Slide 1"
+msgstr "Diapositive 1"
+
+#: includes/admin-options.php:1932 includes/admin-options.php:1961
+#: includes/admin-options.php:1988 includes/admin-options.php:2017
+#: includes/admin-options.php:2044
+msgid "Image"
+msgstr "Image"
+
+#: includes/admin-options.php:1941 includes/admin-options.php:1969
+#: includes/admin-options.php:1996 includes/admin-options.php:2025
+#: includes/admin-options.php:2051
+msgid "Text"
+msgstr "Texte"
+
+#: includes/admin-options.php:1952
+msgid "Slide 2"
+msgstr "Diapositive 2"
+
+#: includes/admin-options.php:1978
+msgid "Slide 3"
+msgstr "Diapositive 3"
+
+#: includes/admin-options.php:2007
+msgid "Slide 4"
+msgstr "Diapositive 4"
+
+#: includes/admin-options.php:2033
+msgid "Slide 5"
+msgstr "Diapositive 5"
+
+#: includes/admin-options.php:2062
+msgid "Slide Speed"
+msgstr "Vitesse de la diapositive"
+
+#: includes/admin-options.php:2065
+msgid ""
+"Milliseconds between the end of the sliding effect and the start of the nex "
+"one."
+msgstr ""
+"Durée en millisecondes entre la fin de l'effet de transistion et le début du "
+"suivant."
+
+#: includes/admin-options.php:2073
+msgid "Footer"
+msgstr "Pied de page"
+
+#: includes/admin-options.php:2077
+msgid "Enable Footer Widgets Area"
+msgstr "Activer les widgets du pied de page"
+
+#: includes/admin-options.php:2087
+msgid "404 page"
+msgstr "page 404"
+
+#: includes/admin-options.php:2092
+msgid "404 page content"
+msgstr "contenu de la page d’erreur 404"
+
+#: includes/breadcrumbs.php:147
+msgid "Browse:"
+msgstr "Parcourir :"
+
+#: includes/breadcrumbs.php:148
+msgid "Home"
+msgstr "Accueil"
+
+#: includes/breadcrumbs.php:149
+msgid "404 Not Found"
+msgstr "404 Page non trouvée"
+
+#: includes/breadcrumbs.php:150
+msgid "Archives"
+msgstr "Archives"
+
+#: includes/breadcrumbs.php:152
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Résultats de recherche pour «%s»"
+
+#: includes/breadcrumbs.php:154
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: includes/breadcrumbs.php:156
+#, php-format
+msgid "Minute %s"
+msgstr "Minute %s"
+
+#: includes/breadcrumbs.php:158
+#, php-format
+msgid "Week %s"
+msgstr "Semaine %s"
+
+#: includes/breadcrumbs.php:907 includes/breadcrumbs.php:933
+#: includes/breadcrumbs.php:945 includes/breadcrumbs.php:967 single.php:53
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/breadcrumbs.php:927
+msgid "Split"
+msgstr "Diviser"
+
+#: includes/breadcrumbs.php:930
+msgid "Merge"
+msgstr "Fusionner"
+
+#: includes/class-tgm-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr "Retour au tableau de bord"
+
+#: includes/class-tgm-plugin-activation.php:368
+msgid "The following plugin was activated successfully:"
+msgstr "L'extension suivante a été activée avec succès :"
+
+#: includes/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune action. L'extension %1$ s était déjà active."
+
+#: includes/class-tgm-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"L'extension n’est pas activée. Une version plus récente de %s est nécessaire "
+"pour ce thème. Veuillez mettre à jour l'extension."
+
+#: includes/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions ont été installées et activées avec succès. %1$s"
+
+#: includes/class-tgm-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr "Cacher cette notification"
+
+#: includes/class-tgm-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr "Veuillez contacter l’administrateur du site pour obtenir de l’aide."
+
+#: includes/class-tgm-plugin-activation.php:603
+msgid "The \"tgmpa_admin_menu_use_add_theme_page\" filter"
+msgstr "Le filtre «tgmpa_admin_menu_use_add_theme_page»"
+
+#: includes/class-tgm-plugin-activation.php:2118
+msgid "Required"
+msgstr "Requis"
+
+#: includes/class-tgm-plugin-activation.php:2121
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: includes/class-tgm-plugin-activation.php:2137
+msgid "WordPress Repository"
+msgstr "Logithèque WordPress"
+
+#: includes/class-tgm-plugin-activation.php:2140
+msgid "External Source"
+msgstr "Source externe"
+
+#: includes/class-tgm-plugin-activation.php:2143
+msgid "Pre-Packaged"
+msgstr "Préemballé"
+
+#: includes/class-tgm-plugin-activation.php:2160
+msgid "Not Installed"
+msgstr "Pas installé"
+
+#: includes/class-tgm-plugin-activation.php:2164
+msgid "Installed But Not Activated"
+msgstr "Installé mais non activé"
+
+#: includes/class-tgm-plugin-activation.php:2166
+msgid "Active"
+msgstr "Actif"
+
+#: includes/class-tgm-plugin-activation.php:2172
+msgid "Required Update not Available"
+msgstr "Mise à jour requise indisponible"
+
+#: includes/class-tgm-plugin-activation.php:2175
+msgid "Requires Update"
+msgstr "Nécessite une mise à jour"
+
+#: includes/class-tgm-plugin-activation.php:2178
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: includes/class-tgm-plugin-activation.php:2330
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: includes/class-tgm-plugin-activation.php:2338
+msgid "Minimum required version:"
+msgstr "Version minimum requise :"
+
+#: includes/class-tgm-plugin-activation.php:2350
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: includes/class-tgm-plugin-activation.php:2373
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Aucune extension à installer mettre à jour ou à activer. <a href=\"%1$s"
+"\">Retour au tableau de bord</a>"
+
+#: includes/class-tgm-plugin-activation.php:2387
+msgid "Plugin"
+msgstr "Extension"
+
+#: includes/class-tgm-plugin-activation.php:2388
+msgid "Source"
+msgstr "Source"
+
+#: includes/class-tgm-plugin-activation.php:2389
+msgid "Type"
+msgstr "Type"
+
+#: includes/class-tgm-plugin-activation.php:2393
+msgid "Version"
+msgstr "Version"
+
+#: includes/class-tgm-plugin-activation.php:2394
+msgid "Status"
+msgstr "Statut"
+
+#: includes/class-tgm-plugin-activation.php:2554
+msgid "Install"
+msgstr "Installer"
+
+#: includes/class-tgm-plugin-activation.php:2560
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: includes/class-tgm-plugin-activation.php:2563
+msgid "Activate"
+msgstr "Activer"
+
+#: includes/class-tgm-plugin-activation.php:2594
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Aucune extension n’a été sélectionnée pour être installée. Aucune action."
+
+#: includes/class-tgm-plugin-activation.php:2596
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Aucune extension n’a été sélectionnée pour être mise à jour. Aucune action."
+
+#: includes/class-tgm-plugin-activation.php:2632
+msgid "No plugins are available to be installed at this time."
+msgstr "Aucune extension n’est disponible pour être installée pour le moment."
+
+#: includes/class-tgm-plugin-activation.php:2634
+msgid "No plugins are available to be updated at this time."
+msgstr "Aucune mise à jour d'extension n’est actuellement disponible."
+
+#: includes/class-tgm-plugin-activation.php:2954
+msgid "Plugin activation failed."
+msgstr "Échec de l'activation de l'extension."
+
+#: includes/class-tgm-plugin-activation.php:3284
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour de l'extension %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3286
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Il y a eu une erreur pendant l'installation : %1$s: <strong>%2$s</strong>."
+
+#: includes/class-tgm-plugin-activation.php:3287
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué."
+
+#: includes/class-tgm-plugin-activation.php:3291
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Le processus d'installation et d'activation démarre. Cela peut prendre un "
+"certain temps sur certains ordinateurs, donc s'il vous plaît soyez patient."
+
+#: includes/class-tgm-plugin-activation.php:3292
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installé et activé avec succès."
+
+#: includes/class-tgm-plugin-activation.php:3293
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations ont été complétées."
+
+#: includes/class-tgm-plugin-activation.php:3294
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l'extension %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3297
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Le processus d'installation process démarre. Cela peut prendre un certain "
+"temps sur certains ordinateurs, donc s'il vous plaît soyez patient."
+
+#: includes/class-tgm-plugin-activation.php:3299
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été complétées."
+
+#: includes/class-tgm-plugin-activation.php:3300
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l'extension %1$s (%2$d/%3$d)"
+
+#: includes/metabox-options.php:36
+msgid "Onetone Metabox Options"
+msgstr "Options metabox Onetone"
+
+#: includes/metabox-options.php:48
+msgid "Select a slider"
+msgstr "Choisir un diaporama"
+
+#: includes/metabox-options.php:180
+msgid "None"
+msgstr "Aucun"
+
+#: includes/metabox-options.php:204
+msgid "Content Full Width"
+msgstr "Contenu pleine largeur"
+
+#: includes/metabox-options.php:213
+msgid "Display Breadcrumb"
+msgstr "Afficher le fil d’ariane"
+
+#: includes/metabox-options.php:221
+msgid "Padding Top"
+msgstr "Marge interne supérieure"
+
+#: includes/metabox-options.php:227
+msgid "Padding Bottom"
+msgstr "Marge interne inférieure"
+
+#: includes/metabox-options.php:233
+msgid "Page Layout"
+msgstr "Disposition de la page"
+
+#: includes/metabox-options.php:236 includes/theme-widget.php:8
+msgid "No Sidebar"
+msgstr "Pas de barre latérale"
+
+#: includes/metabox-options.php:239
+msgid "Both Sidebar"
+msgstr "Les deux barres latérales"
+
+#: includes/metabox-options.php:244
+msgid "Select Left Sidebar"
+msgstr "Sélectionner la barre latérale de gauche"
+
+#: includes/metabox-options.php:253
+msgid "Select Right Sidebar"
+msgstr "Sélectionnez la barre latérale de droite"
+
+#: includes/theme-functions.php:30
+msgid "Please enter your name."
+msgstr "Veuillez entrer votre nom."
+
+#: includes/theme-functions.php:37
+msgid "Please enter your email address."
+msgstr "Veuillez entrer votre adresse courriel."
+
+#: includes/theme-functions.php:40
+msgid "You entered an invalid email address."
+msgstr "Vous avez entré une adresse courriel invalide."
+
+#: includes/theme-functions.php:47
+msgid "Please enter a message."
+msgstr "Veuillez saisir un message."
+
+#: includes/theme-functions.php:72
+msgid "Your message has been successfully sent!"
+msgstr "Votre message a été envoyé avec succès !"
+
+#: includes/theme-functions.php:151
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "le %1$s à %2$s"
+
+#: includes/theme-functions.php:152
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: includes/theme-functions.php:153
+msgid "Reply"
+msgstr "Répondre"
+
+#: includes/theme-functions.php:157
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: includes/theme-functions.php:232 includes/theme-functions.php:725
+msgid "Upgrade to Pro"
+msgstr "Passer à la version Pro"
+
+#: includes/theme-functions.php:233
+msgid "MageeWP Themes"
+msgstr "MageeWP Themes"
+
+#: includes/theme-functions.php:234
+msgid "Manual"
+msgstr "Manuel"
+
+#: includes/theme-functions.php:235
+msgid "FAQ"
+msgstr "FAQ"
+
+#: includes/theme-functions.php:236
+msgid "Knowledge"
+msgstr "Connaissances"
+
+#: includes/theme-functions.php:237
+msgid "Support Forums"
+msgstr "Forums d'assistance"
+
+#: includes/theme-functions.php:260
+#, php-format
+msgid " Page %s "
+msgstr "Page %s"
+
+#: includes/theme-functions.php:288
+msgid "TOP"
+msgstr "HAUT"
+
+#: includes/theme-functions.php:462
+msgid " Prev"
+msgstr "Précédent"
+
+#: includes/theme-functions.php:463
+msgid "Next "
+msgstr "Suivant"
+
+#: includes/theme-functions.php:666
+msgid "About Onetone"
+msgstr "À propos de Onetone"
+
+#: includes/theme-functions.php:668
+msgid ""
+"Based on Bootstrap and coded with HTML5 and CSS3 language, Onetone is fully "
+"responsive in desktops and mobile devices. With enriched settings in theme "
+"options , you can not only change header and footer patterns, but also "
+"customize background colors, page layouts and social links, etc. Read below "
+"for additional information about Onetone."
+msgstr ""
+"Basé sur Bootstrap et construit avec les langages HTML5 et CSS3, Onetone est "
+"pleinement adaptable sur les ordinateurs et les appareils mobiles. Avec ses "
+"multiples réglages dans les options du thème, vous pouvez changer non "
+"seulement les motifs de l'entête et du pied de page, mais aussi vous pouvez "
+"personnaliser les couleurs de fond, la disposition des pages, ajouter des "
+"liens vers des réseaux sociaux, etc. Veuillez lire ce qui suit pour plus "
+"d'information à propos de Onetone."
+
+#: includes/theme-functions.php:672
+msgid "Theme Support"
+msgstr "Assistance pour le thème"
+
+#: includes/theme-functions.php:672
+msgid "Import Demos"
+msgstr "Importation des Démos"
+
+#: includes/theme-functions.php:696
+msgid ""
+"<div class=\"theme-support\"><div class=\"col-1-3\">\n"
+"  <h4>Documentation</h4>\n"
+"  <p>The online documentaiton for Onetone is an incredible resource for "
+"learning how to use Onetone. You could follow this manual step by step to "
+"build your site.</p>\n"
+"  <a class=\"button button-primary\" href=\"http://www.mageewp.com/manuals/"
+"theme-guide-onetone.html\" target=\"_blank\">Documentation</a>\n"
+"</div>\n"
+"<div class=\"col-1-3\">\n"
+"  <h4>Support Forum</h4><p>We also have a support forum for users to "
+"communicate. If you have any problem while using this theme, feel free to "
+"post in the forum. Our support team would reply you asap.</p>\n"
+"<a class=\"button button-primary\" href=\"http://www.mageewp.com/forums/"
+"onetone/\" target=\"_blank\">Support Forum</a>  \n"
+"</div>\n"
+"<div class=\"col-1-3 last\">\n"
+"  <h4>Theme Center</h4><p>Like our themes? Come here to get more.</p>\n"
+"<a class=\"button button-primary\" href=\"http://www.mageewp.com/wordpress-"
+"themes\" target=\"_blank\">Theme Center</a>\n"
+"</div></div>"
+msgstr ""
+"<div class=\"theme-support\"><div class=\"col-1-3\">\n"
+"  <h4>Documentation</h4>\n"
+"  <p>La documentation en ligne pour Onetone est une ressource formidable "
+"pour apprendre comment utiliser Onetone. Vous pouvez suivre ce guide étape "
+"par étape pour construire votre site.</p>\n"
+"  <a class=\"button button-primary\" href=\"http://www.mageewp.com/manuals/"
+"theme-guide-onetone.html\" target=\"_blank\">Documentation</a>\n"
+"</div>\n"
+"<div class=\"col-1-3\">\n"
+"  <h4>Forum d'assistance</h4><p>Nous avons également un forum d'assistance. "
+"Si vous avez un problème à utiliser ce thème, n'hésitez pas à laisser un "
+"message sur le forum. Notre équipe d'assistance vous répondra dès que "
+"possible.</p>\n"
+"<a class=\"button button-primary\" href=\"http://www.mageewp.com/forums/"
+"onetone/\" target=\"_blank\">Forum d'assistance</a>  \n"
+"</div>\n"
+"<div class=\"col-1-3 last\">\n"
+"  <h4>Centre des thèmes</h4><p>Vous aimez nos thèmes ? Venez en voir "
+"d'autres.</p>\n"
+"<a class=\"button button-primary\" href=\"http://www.mageewp.com/wordpress-"
+"themes\" target=\"_blank\">Centre des thèmes</a>\n"
+"</div></div>"
+
+#: includes/theme-functions.php:713
+msgid "Import Onetone Demos"
+msgstr "Importation des Démos Onetone"
+
+#: includes/theme-functions.php:724
+msgid "Check out the pro version to import these demos."
+msgstr "Découvrez la version pro pour importer ces démonstations."
+
+#: includes/theme-functions.php:758 includes/theme-functions.php:767
+#: includes/theme-functions.php:776
+msgid "Check out the pro version to import this demo."
+msgstr "Découvrez la version pro pour importer cette démonstation."
+
+#: includes/theme-functions.php:758 includes/theme-functions.php:767
+#: includes/theme-functions.php:776
+msgid "Import"
+msgstr "Importer"
+
+#: includes/theme-functions.php:758 includes/theme-functions.php:767
+#: includes/theme-functions.php:776
+msgid "Preview"
+msgstr "Aperçu"
+
+#: includes/theme-functions.php:804
+msgid "Onetone step 2"
+msgstr "Onetone étape 2"
+
+#: includes/theme-functions.php:804 includes/theme-functions.php:805
+msgid "Customize Content for Homepage"
+msgstr "Personnaliser le contenu pour la page d'accueil"
+
+#: includes/theme-functions.php:805
+msgid ""
+"Open this page to edit content for homepage and customize styles of the site."
+msgstr ""
+"Ouvrez cette page pour modifier le contenu de la page d'accueil et "
+"personnaliser les styles du site."
+
+#: includes/theme-functions.php:813
+msgid ""
+"To save any changes on onetone options, click on the <strong  style=\"color:"
+"orange;\">Save All Options</strong> button on the right side."
+msgstr ""
+"Pour enregistrer les modifications apportées sur onetone options, cliquez "
+"sur le bouton <strong style=\"color:orange;\">Enregistrer toutes les "
+"Options</strong> sur le côté droit."
+
+#: includes/theme-functions.php:813
+msgid "Save All Options"
+msgstr "Enregistrer toutes les options"
+
+#: includes/theme-functions.php:814
+msgid "Options Updated"
+msgstr "Options mises à jour"
+
+#: includes/theme-functions.php:815
+msgid "Options Saving"
+msgstr "Enregistrement des options"
+
+#: includes/theme-setup.php:28
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: includes/theme-setup.php:29
+msgid "Home Page Header Menu"
+msgstr "Menu d'entête de page d'accueil"
+
+#: includes/theme-setup.php:30
+msgid "Top Bar Menu"
+msgstr "Menu de la barre supérieure"
+
+#: includes/theme-setup.php:529 includes/theme-setup.php:530
+msgid "Onetone Options"
+msgstr "Options Onetone"
+
+#: includes/theme-setup.php:561
+msgid "Untitled"
+msgstr "Sans titre"
+
+#: includes/theme-widget.php:9
+msgid "Default Sidebar"
+msgstr "Barre latérale par défaut"
+
+#: includes/theme-widget.php:10
+msgid "Sidebar 1"
+msgstr "Barre latérale 1"
+
+#: includes/theme-widget.php:11
+msgid "Sidebar 2"
+msgstr "Barre latérale 2"
+
+#: includes/theme-widget.php:12
+msgid "Sidebar 3"
+msgstr "Barre latérale 3"
+
+#: includes/theme-widget.php:13
+msgid "Sidebar 4"
+msgstr "Barre latérale 4"
+
+#: includes/theme-widget.php:14 includes/theme-widget.php:15
+msgid "Sidebar 5"
+msgstr "Barre latérale 5"
+
+#: includes/theme-widget.php:16
+msgid "Sidebar 6"
+msgstr "Barre latérale 6"
+
+#: includes/theme-widget.php:17
+msgid "Sidebar 7"
+msgstr "Barre latérale 7"
+
+#: includes/theme-widget.php:18
+msgid "Sidebar 8"
+msgstr "Barre latérale 8"
+
+#: includes/theme-widget.php:19
+msgid "Footer Area One"
+msgstr "Zone 1 du pied de page"
+
+#: includes/theme-widget.php:20
+msgid "Footer Area Two"
+msgstr "Zone 2 du pied de page"
+
+#: includes/theme-widget.php:21
+msgid "Footer Area Three"
+msgstr "Zone 3 du pied de page"
+
+#: includes/theme-widget.php:22
+msgid "Footer Area Four"
+msgstr "Zone 4 du pied de page"
+
+#: page.php:73 single.php:60
+msgid "Pages:"
+msgstr "Pages :"
+
+#: single.php:78
+msgid "About the author"
+msgstr "À propos de l'auteur"
+
+#: single.php:98
+msgid "Related Posts"
+msgstr "Articles similaires"

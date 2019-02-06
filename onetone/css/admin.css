@@ -1,0 +1,65 @@
+
+.customize-partial-refreshing{
+	opacity: 1;
+	}
+
+.onetone-create-frontpage,
+.onetone-update-notice,
+.onetone-install-notice {
+    border: 0;
+    border-radius: 5px;
+    background-color: #FBEBEB;
+    color: #dc3232;
+    border: 2px solid currentColor;
+    padding: 1em;
+}
+.onetone-create-frontpage p,
+.onetone-update-notice p,
+.onetone-install-notice p {
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.control-panel-mesmerize-customizer-panels-contentpanel .customize-section-description {
+    margin-top: 0;
+    line-height: 1.8;
+}
+
+.onetone-create-frontpage {
+    margin-top: 10px!important;
+}
+.onetone-info-wrap{
+	position: relative;
+    overflow: auto;
+    margin: 16px 0;
+    padding: 0 10px;
+    border: 1px solid #e5e5e5;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    background: #fff;
+    font-size: 13px;
+    line-height: 2.1em;
+}
+
+.onetone-info-wrap .onetone-message.blue {
+    border-left-color: #00a0d2;
+}
+
+.onetone-info-wrap .onetone-message.green {
+    border-left-color: #5fba7d;
+}
+.onetone-info-wrap .onetone-message {
+    background: #fff;
+    border-left: 4px solid #fff;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+    padding: 10px 10px;
+    margin: 15px 0 15px;
+    border-left-color: #ffb900;
+}
+
+.onetone_menu_custom_fields{
+	display:none;
+}
+.menu-item-depth-0 .onetone_menu_custom_fields{
+	display:block;
+}
