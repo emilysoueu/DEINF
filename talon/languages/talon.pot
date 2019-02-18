@@ -1,0 +1,1450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Talon\n"
+"POT-Creation-Date: 2016-09-07 12:42+0300\n"
+"PO-Revision-Date: 2016-09-07 12:43+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_attr__;esc_html_e;esc_attr_e;"
+"_n_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:51
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: functions.php:51 inc/customizer.php:742
+msgid "Footer"
+msgstr ""
+
+#: functions.php:105
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:107
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:118
+msgid "Footer "
+msgstr ""
+
+#: functions.php:334
+#, php-format
+msgid ""
+"You need to install and activate the following plugin to use Talon as a "
+"business theme: %1$s."
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Header area"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Header type"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Homepage header type"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "This option refers only to your homepage"
+msgstr ""
+
+#: inc/customizer.php:66 inc/customizer.php:88
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer.php:67 inc/customizer.php:89
+msgid "Image"
+msgstr ""
+
+#: inc/customizer.php:68 inc/customizer.php:90
+msgid "Only menu"
+msgstr ""
+
+#: inc/customizer.php:84
+msgid "Site header type"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "This option refers to all pages except your homepage"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Header Slider"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid ""
+"Configure your header slider here, then go to <strong>Header Area > Header "
+"Type</strong> and choose where you want to display it."
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Slider speed"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Slider speed in miliseconds [default: 4000]"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Slide "
+msgstr ""
+
+#: inc/customizer.php:144 inc/framework/widgets/widget-image.php:27
+msgid "Upload your image"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Slide title"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Slide subtitle"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Button URL"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Button text"
+msgstr ""
+
+#: inc/customizer.php:217 inc/customizer.php:257
+msgid "Menu style"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Sticky menu"
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Sticky"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Static"
+msgstr ""
+
+#: inc/customizer.php:260
+msgid "Inline"
+msgstr ""
+
+#: inc/customizer.php:261
+msgid "Centered"
+msgstr ""
+
+#: inc/customizer.php:280
+msgid "Primary color"
+msgstr ""
+
+#: inc/customizer.php:299 inc/customizer.php:563
+msgid "Site title"
+msgstr ""
+
+#: inc/customizer.php:318 inc/customizer.php:582
+msgid "Site description"
+msgstr ""
+
+#: inc/customizer.php:337
+msgid "Header (menu background)"
+msgstr ""
+
+#: inc/customizer.php:355 inc/customizer.php:601
+msgid "Menu items"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Header text"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "Header subtext"
+msgstr ""
+
+#: inc/customizer.php:412
+msgid "Footer background"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "Footer text color"
+msgstr ""
+
+#: inc/customizer.php:450
+msgid "Body text color"
+msgstr ""
+
+#: inc/customizer.php:463
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer.php:468
+msgid "Font selection"
+msgstr ""
+
+#: inc/customizer.php:472
+msgid "Find the fonts "
+msgstr ""
+
+#: inc/customizer.php:473 inc/customizer.php:717
+#: inc/framework/widgets/widget-clients.php:130
+#: inc/framework/widgets/widget-employees.php:136
+#: inc/framework/widgets/widget-portfolio.php:121
+#: inc/framework/widgets/widget-services.php:154
+#: inc/framework/widgets/widget-testimonials.php:124
+msgid "here"
+msgstr ""
+
+#: inc/customizer.php:474
+msgid "If you need help, check the "
+msgstr ""
+
+#: inc/customizer.php:475
+msgid "documentation"
+msgstr ""
+
+#: inc/customizer.php:490
+msgid "Body font"
+msgstr ""
+
+#: inc/customizer.php:507
+msgid "Headings font"
+msgstr ""
+
+#: inc/customizer.php:527
+msgid "Font weights to load"
+msgstr ""
+
+#: inc/customizer.php:529
+msgid "300"
+msgstr ""
+
+#: inc/customizer.php:530
+msgid "300 italic"
+msgstr ""
+
+#: inc/customizer.php:531
+msgid "400"
+msgstr ""
+
+#: inc/customizer.php:532
+msgid "400 italic"
+msgstr ""
+
+#: inc/customizer.php:533
+msgid "500"
+msgstr ""
+
+#: inc/customizer.php:534
+msgid "500 italic"
+msgstr ""
+
+#: inc/customizer.php:535
+msgid "600"
+msgstr ""
+
+#: inc/customizer.php:536
+msgid "600 italic"
+msgstr ""
+
+#: inc/customizer.php:546
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:621
+msgid "Body (sitewide)"
+msgstr ""
+
+#: inc/customizer.php:641
+msgid "Builder section titles"
+msgstr ""
+
+#: inc/customizer.php:661
+msgid "Index post titles"
+msgstr ""
+
+#: inc/customizer.php:681
+msgid "Single post titles"
+msgstr ""
+
+#: inc/customizer.php:701
+msgid "Sidebar widget titles"
+msgstr ""
+
+#: inc/customizer.php:715
+msgid "Icons"
+msgstr ""
+
+#: inc/customizer.php:717
+msgid ""
+"You can load an extra icon pack directly from a CDN by adding the URL here. "
+"Help for this is available "
+msgstr ""
+
+#: inc/customizer.php:730
+msgid "Icons URL"
+msgstr ""
+
+#: inc/customizer.php:757
+msgid "Footer widget area"
+msgstr ""
+
+#: inc/customizer.php:759
+msgid ""
+"Choose the number of widget areas in the footer, then go to Appearance > "
+"Widgets and add your widgets."
+msgstr ""
+
+#: inc/customizer.php:761
+msgid "One"
+msgstr ""
+
+#: inc/customizer.php:762
+msgid "Two"
+msgstr ""
+
+#: inc/customizer.php:763
+msgid "Three"
+msgstr ""
+
+#: inc/customizer.php:773
+msgid "Blog options"
+msgstr ""
+
+#: inc/customizer.php:789
+msgid "Blog layout"
+msgstr ""
+
+#: inc/customizer.php:793
+msgid "List"
+msgstr ""
+
+#: inc/customizer.php:794
+msgid "Full width (no sidebar)"
+msgstr ""
+
+#: inc/customizer.php:795
+msgid "Masonry (grid style)"
+msgstr ""
+
+#: inc/customizer.php:810
+msgid "Full width single posts?"
+msgstr ""
+
+#: inc/customizer.php:827
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/customizer.php:843
+msgid "Read more text"
+msgstr ""
+
+#: inc/customizer.php:844
+msgid "Fill this field to replace the [&hellip;] with a link"
+msgstr ""
+
+#: inc/customizer.php:863
+msgid "Hide meta on single posts?"
+msgstr ""
+
+#: inc/customizer.php:879
+msgid "Hide meta on blog index?"
+msgstr ""
+
+#: inc/customizer.php:895
+msgid "Hide featured images on single posts?"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:52
+msgid "Talon Widgets"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:66
+msgid "Top padding"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:70
+msgid "Top padding for this row."
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:74
+msgid "Bottom padding"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:78
+msgid "Bottom padding for this row."
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:82
+msgid "Mobile top/bottom padding"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:86
+msgid "0"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:87
+msgid "25px"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:88
+msgid "50px"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:89
+msgid "75px"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:90
+msgid "100px"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:93
+msgid "Top and bottom padding for this row on mobile on screen widths < 991px."
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:97
+msgid "Enable row overlay?"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:100
+msgid ""
+"This adds a semi-transparent overlay. Useful if you have a background image "
+"for your row."
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:104
+msgid "Row overlay color"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:111
+msgid "Enable fullscreen mode?"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:114
+msgid ""
+"This makes your row full browser height. Set Row Layout if you need it full "
+"width too."
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:127
+msgid "Content alignment"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:131
+#: inc/framework/widgets/widget-button.php:43
+msgid "Left"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:132
+#: inc/framework/widgets/widget-button.php:44
+msgid "Center"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:133
+#: inc/framework/widgets/widget-button.php:45
+msgid "Right"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:136
+msgid "This setting depends on the content, it may or may not work"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:140
+msgid "Widget title color"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:147
+msgid "Headings color"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:151
+msgid "This applies to all headings in the widget, except the widget title"
+msgstr ""
+
+#: inc/framework/builder/page-builder.php:235
+msgid ""
+"<em>Tips: 1. click the buttons below to start building your page. 2. To edit "
+"the row options, hover over the wrench icon you will find on the right hand "
+"side of each row. 3. To edit widget options, hover the desired widget and "
+"click the edit button.</em>"
+msgstr ""
+
+#: inc/framework/widgets/widget-blog.php:11
+msgid "Show the latest news from your blog."
+msgstr ""
+
+#: inc/framework/widgets/widget-blog.php:12
+msgid "Talon: Blog"
+msgstr ""
+
+#: inc/framework/widgets/widget-blog.php:25
+#: inc/framework/widgets/widget-button.php:26
+#: inc/framework/widgets/widget-clients.php:28
+#: inc/framework/widgets/widget-employees.php:27
+#: inc/framework/widgets/widget-facts.php:33
+#: inc/framework/widgets/widget-image.php:24
+#: inc/framework/widgets/widget-services.php:29
+#: inc/framework/widgets/widget-skills.php:29
+#: inc/framework/widgets/widget-testimonials.php:27
+#: inc/framework/widgets/widget-video.php:19
+msgid "Title"
+msgstr ""
+
+#: inc/framework/widgets/widget-blog.php:29
+msgid ""
+"Enter the slug for your category or leave empty to show posts from all "
+"categories."
+msgstr ""
+
+#: inc/framework/widgets/widget-blog.php:32
+msgid ""
+"Add the text for the button here if you want to change the default <em>See "
+"all our news</em>"
+msgstr ""
+
+#: inc/framework/widgets/widget-blog.php:35
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/framework/widgets/widget-blog.php:57
+#: inc/framework/widgets/widget-blog.php:59
+msgid "See all our news"
+msgstr ""
+
+#: inc/framework/widgets/widget-button.php:11
+msgid "Display a button."
+msgstr ""
+
+#: inc/framework/widgets/widget-button.php:12
+msgid "Talon: Button"
+msgstr ""
+
+#: inc/framework/widgets/widget-button.php:25
+msgid "With this widget you can create one or two side-by-side buttons"
+msgstr ""
+
+#: inc/framework/widgets/widget-button.php:28
+msgid "Link for the first button"
+msgstr ""
+
+#: inc/framework/widgets/widget-button.php:30
+msgid "Title for the first button"
+msgstr ""
+
+#: inc/framework/widgets/widget-button.php:33
+msgid "Link for the second button"
+msgstr ""
+
+#: inc/framework/widgets/widget-button.php:35
+msgid "Title for the second button"
+msgstr ""
+
+#: inc/framework/widgets/widget-button.php:39
+msgid "Open the link in a new tab?"
+msgstr ""
+
+#: inc/framework/widgets/widget-button.php:41
+msgid "Buttons alignment"
+msgstr ""
+
+#: inc/framework/widgets/widget-clients.php:11
+msgid "Display your clients list."
+msgstr ""
+
+#: inc/framework/widgets/widget-clients.php:12
+msgid "Talon: Clients"
+msgstr ""
+
+#: inc/framework/widgets/widget-clients.php:26
+msgid ""
+"In order to display this widget, you must first add some clients from your "
+"admin area. Set your client logos as featured images."
+msgstr ""
+
+#: inc/framework/widgets/widget-clients.php:31
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr ""
+
+#: inc/framework/widgets/widget-clients.php:33
+msgid ""
+"The URL for your button [In case you want a button below your clients block]"
+msgstr ""
+
+#: inc/framework/widgets/widget-clients.php:35
+msgid ""
+"The text for the button [Defaults to <em>See all our clients</em> if left "
+"empty]"
+msgstr ""
+
+#: inc/framework/widgets/widget-clients.php:37
+msgid "Enter the slug for your category or leave empty to show all clients."
+msgstr ""
+
+#: inc/framework/widgets/widget-clients.php:40
+msgid "Open clients links in a new tab?"
+msgstr ""
+
+#: inc/framework/widgets/widget-clients.php:118
+msgid "See all our clients"
+msgstr ""
+
+#: inc/framework/widgets/widget-clients.php:128
+#, php-format
+msgid ""
+"Info: you have not created any clients. Make sure you have installed the "
+"%1$s plugin and then create some clients %2$s"
+msgstr ""
+
+#: inc/framework/widgets/widget-employees.php:11
+msgid "Display your team members in a stylish way."
+msgstr ""
+
+#: inc/framework/widgets/widget-employees.php:12
+msgid "Talon: Employees"
+msgstr ""
+
+#: inc/framework/widgets/widget-employees.php:25
+msgid ""
+"In order to display this widget, you must first add some employees from the "
+"dashboard. Add as many as you want and the theme will automatically display "
+"them all."
+msgstr ""
+
+#: inc/framework/widgets/widget-employees.php:30
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr ""
+
+#: inc/framework/widgets/widget-employees.php:32
+msgid "Enter an URL here if you want to section to link somewhere."
+msgstr ""
+
+#: inc/framework/widgets/widget-employees.php:34
+msgid ""
+"The text for the button [Defaults to <em>See all our employees</em> if left "
+"empty]"
+msgstr ""
+
+#: inc/framework/widgets/widget-employees.php:36
+msgid "Enter the slug for your category or leave empty to show all employees."
+msgstr ""
+
+#: inc/framework/widgets/widget-employees.php:125
+msgid "See all our employees"
+msgstr ""
+
+#: inc/framework/widgets/widget-employees.php:134
+#, php-format
+msgid ""
+"Info: you have not created any employees. Make sure you have installed the "
+"%1$s plugin and then create some employees %2$s"
+msgstr ""
+
+#: inc/framework/widgets/widget-facts.php:11
+msgid "Show your visitors some facts about your company."
+msgstr ""
+
+#: inc/framework/widgets/widget-facts.php:12
+msgid "Talon: Facts"
+msgstr ""
+
+#: inc/framework/widgets/widget-facts.php:31
+msgid "You can find a list of the available icons "
+msgstr ""
+
+#: inc/framework/widgets/widget-facts.php:31
+msgid "here."
+msgstr ""
+
+#: inc/framework/widgets/widget-facts.php:31
+msgid "Usage example: <strong>icon-mobile</strong>"
+msgstr ""
+
+#: inc/framework/widgets/widget-facts.php:37
+msgid "FACT ONE"
+msgstr ""
+
+#: inc/framework/widgets/widget-facts.php:39
+#: inc/framework/widgets/widget-facts.php:55
+#: inc/framework/widgets/widget-facts.php:71
+#: inc/framework/widgets/widget-facts.php:87
+msgid "Fact name"
+msgstr ""
+
+#: inc/framework/widgets/widget-facts.php:44
+#: inc/framework/widgets/widget-facts.php:60
+#: inc/framework/widgets/widget-facts.php:76
+#: inc/framework/widgets/widget-facts.php:92
+msgid "Fact value"
+msgstr ""
+
+#: inc/framework/widgets/widget-facts.php:49
+#: inc/framework/widgets/widget-facts.php:65
+#: inc/framework/widgets/widget-facts.php:81
+#: inc/framework/widgets/widget-facts.php:97
+msgid "Fact icon"
+msgstr ""
+
+#: inc/framework/widgets/widget-facts.php:53
+msgid "FACT TWO"
+msgstr ""
+
+#: inc/framework/widgets/widget-facts.php:69
+msgid "FACT THREE"
+msgstr ""
+
+#: inc/framework/widgets/widget-facts.php:85
+msgid "FACT FOUR"
+msgstr ""
+
+#: inc/framework/widgets/widget-image.php:11
+msgid "Add an image"
+msgstr ""
+
+#: inc/framework/widgets/widget-image.php:12
+msgid "Talon: Image"
+msgstr ""
+
+#: inc/framework/widgets/widget-image.php:29
+msgid "Upload Image"
+msgstr ""
+
+#: inc/framework/widgets/widget-image.php:30
+msgid "Enter an URL here if you want to link your image somewhere"
+msgstr ""
+
+#: inc/framework/widgets/widget-portfolio.php:11
+msgid "Display your projects in a grid."
+msgstr ""
+
+#: inc/framework/widgets/widget-portfolio.php:12
+msgid "Talon: Portfolio"
+msgstr ""
+
+#: inc/framework/widgets/widget-portfolio.php:32
+#: inc/framework/widgets/widget-portfolio.php:144
+msgid "Show all"
+msgstr ""
+
+#: inc/framework/widgets/widget-portfolio.php:119
+#, php-format
+msgid ""
+"Info: you have not created any projects. Make sure you have installed the "
+"%1$s plugin and then create some projects %2$s"
+msgstr ""
+
+#: inc/framework/widgets/widget-portfolio.php:148
+#: inc/framework/widgets/widget-social.php:61
+msgid "Title:"
+msgstr ""
+
+#: inc/framework/widgets/widget-portfolio.php:150
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr ""
+
+#: inc/framework/widgets/widget-portfolio.php:152
+msgid ""
+"Enter the slugs (comma separated) for your categories or leave empty to show "
+"all projects."
+msgstr ""
+
+#: inc/framework/widgets/widget-portfolio.php:155
+msgid "Show navigation filter? (Category slugs must be specified)."
+msgstr ""
+
+#: inc/framework/widgets/widget-portfolio.php:156
+msgid "\"Show all\" text:"
+msgstr ""
+
+#: inc/framework/widgets/widget-separator.php:11
+msgid "Separator with custom height."
+msgstr ""
+
+#: inc/framework/widgets/widget-separator.php:12
+msgid "Talon: Separator"
+msgstr ""
+
+#: inc/framework/widgets/widget-separator.php:20
+msgid "Separator height"
+msgstr ""
+
+#: inc/framework/widgets/widget-services.php:11
+msgid "Show what services you are able to provide."
+msgstr ""
+
+#: inc/framework/widgets/widget-services.php:12
+msgid "Talon: Services"
+msgstr ""
+
+#: inc/framework/widgets/widget-services.php:21
+#: inc/framework/widgets/widget-services.php:82
+msgid "Learn more"
+msgstr ""
+
+#: inc/framework/widgets/widget-services.php:27
+msgid ""
+"In order to display this widget, you must first add some services from your "
+"admin area."
+msgstr ""
+
+#: inc/framework/widgets/widget-services.php:32
+msgid "Number of services to show (-1 shows all of them):"
+msgstr ""
+
+#: inc/framework/widgets/widget-services.php:34
+msgid ""
+"The URL for your button [In case you want a button below your services block]"
+msgstr ""
+
+#: inc/framework/widgets/widget-services.php:37
+msgid "Links title (<em>use this to change the read more links titles</em>)"
+msgstr ""
+
+#: inc/framework/widgets/widget-services.php:41
+msgid ""
+"The text for the button [Defaults to <em>See all our services</em> if left "
+"empty]"
+msgstr ""
+
+#: inc/framework/widgets/widget-services.php:43
+msgid "Enter the slug for your category or leave empty to show all services."
+msgstr ""
+
+#: inc/framework/widgets/widget-services.php:46
+msgid "Display services in two columns instead of three?"
+msgstr ""
+
+#: inc/framework/widgets/widget-services.php:143
+msgid "See all our services"
+msgstr ""
+
+#: inc/framework/widgets/widget-services.php:152
+#, php-format
+msgid ""
+"Info: you have not created any services. Make sure you have installed the "
+"%1$s plugin and then create some services %2$s"
+msgstr ""
+
+#: inc/framework/widgets/widget-skills.php:11
+msgid "Show your visitors some of your skills."
+msgstr ""
+
+#: inc/framework/widgets/widget-skills.php:12
+msgid "Talon: Skills"
+msgstr ""
+
+#: inc/framework/widgets/widget-skills.php:35
+msgid "First skill name"
+msgstr ""
+
+#: inc/framework/widgets/widget-skills.php:40
+msgid "First skill value"
+msgstr ""
+
+#: inc/framework/widgets/widget-skills.php:46
+msgid "Second skill name"
+msgstr ""
+
+#: inc/framework/widgets/widget-skills.php:51
+msgid "Second skill value"
+msgstr ""
+
+#: inc/framework/widgets/widget-skills.php:57
+msgid "Third skill name"
+msgstr ""
+
+#: inc/framework/widgets/widget-skills.php:62
+msgid "Third skill value"
+msgstr ""
+
+#: inc/framework/widgets/widget-skills.php:68
+msgid "Fourth skill name"
+msgstr ""
+
+#: inc/framework/widgets/widget-skills.php:73
+msgid "Fourth skill value"
+msgstr ""
+
+#: inc/framework/widgets/widget-social.php:11
+msgid "Display your social profile"
+msgstr ""
+
+#: inc/framework/widgets/widget-social.php:12
+msgid "Talon: Social Profile"
+msgstr ""
+
+#: inc/framework/widgets/widget-social.php:56
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: inc/framework/widgets/widget-social.php:64
+msgid ""
+"In order to display your social icons in a widget, all you need to do is go "
+"to <strong>Appearance > Menus</strong> and create a menu containing links to "
+"your social profiles, then assign that menu here. Supported networks: "
+"Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, "
+"Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr ""
+
+#: inc/framework/widgets/widget-social.php:66
+msgid "Select your social menu:"
+msgstr ""
+
+#: inc/framework/widgets/widget-social.php:68
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/framework/widgets/widget-testimonials.php:11
+msgid "Display your testimonials in a slider."
+msgstr ""
+
+#: inc/framework/widgets/widget-testimonials.php:12
+msgid "Talon: Testimonials"
+msgstr ""
+
+#: inc/framework/widgets/widget-testimonials.php:25
+msgid ""
+"In order to display this widget, you must first add some testimonials from "
+"your admin area."
+msgstr ""
+
+#: inc/framework/widgets/widget-testimonials.php:30
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr ""
+
+#: inc/framework/widgets/widget-testimonials.php:32
+msgid ""
+"The URL for your button [In case you want a button below your testimonials "
+"block]"
+msgstr ""
+
+#: inc/framework/widgets/widget-testimonials.php:34
+msgid ""
+"The text for the button [Defaults to <em>See all our testimonials</em> if "
+"left empty]"
+msgstr ""
+
+#: inc/framework/widgets/widget-testimonials.php:36
+msgid ""
+"Enter the slug for your category or leave empty to show all testimonials."
+msgstr ""
+
+#: inc/framework/widgets/widget-testimonials.php:38
+msgid "Autoplay time [ms]"
+msgstr ""
+
+#: inc/framework/widgets/widget-testimonials.php:114
+msgid "See all our testimonials"
+msgstr ""
+
+#: inc/framework/widgets/widget-testimonials.php:122
+#, php-format
+msgid ""
+"Info: you have not created any testimonials. Make sure you have installed "
+"the %1$s plugin and then create some testimonials %2$s"
+msgstr ""
+
+#: inc/framework/widgets/widget-video.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr ""
+
+#: inc/framework/widgets/widget-video.php:7
+msgid "Talon: Video"
+msgstr ""
+
+#: inc/framework/widgets/widget-video.php:23
+msgid ""
+"Paste the URL of the video (only from a network that supports oEmbed, like "
+"Youtube, Vimeo etc.):"
+msgstr ""
+
+#: inc/framework/widgets/widget-video.php:26
+msgid "Max. width for the video [px]"
+msgstr ""
+
+#: inc/functions/functions-footer.php:24
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/functions/functions-footer.php:24
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: inc/functions/functions-footer.php:26
+#, php-format
+msgid "Theme: %2$s by %1$s."
+msgstr ""
+
+#: inc/template-tags.php:30
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:32
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:50
+#, php-format
+msgid "Tags %1$s"
+msgstr ""
+
+#: inc/template-tags.php:57 template-parts/content-page.php:34
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:40
+#: template-parts/content.php:39
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:35
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
